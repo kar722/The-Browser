@@ -1,0 +1,84 @@
+Rk,Gcar,Gtm,Date,Team,,Opp,Result,GS,MP,TS%,eFG%,ORB%,DRB%,TRB%,AST%,STL%,BLK%,TOV%,USG%,ORtg,DRtg,GmSc,BPM
+1,605,1,2022-10-18,LAL,@,GSW,L 109-123,1,35:36,.520,.455,0.0,16.2,8.4,0.0,4.7,2.5,10.4,31.0,94,102,17.5,0.0
+2,606,2,2022-10-20,LAL,,LAC,L 97-103,1,31:56,.655,.625,5.4,22.5,12.5,0.0,2.9,0.0,9.5,27.4,114,98,19.0,6.5
+3,607,3,2022-10-23,LAL,,POR,L 104-106,1,36:16,.586,.529,13.5,15.4,14.4,13.7,2.6,13.9,5.1,23.0,125,98,24.0,9.3
+4,608,4,2022-10-26,LAL,@,DEN,L 99-110,1,36:26,.566,.579,2.5,35.0,18.3,25.8,3.9,4.5,0.0,23.1,118,96,24.8,12.9
+4,,5,2022-10-28,LAL,@,MIN,L 102-111,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress
+5,609,6,2022-10-30,LAL,,DEN,W 121-110,1,36:48,.582,.556,16.3,23.0,19.8,7.9,1.3,2.3,9.2,25.2,124,109,20.8,2.0
+6,610,7,2022-11-02,LAL,,NOP,W 120-117 (OT),1,37:12,.533,.471,14.0,28.0,21.3,17.0,1.3,7.4,5.1,22.5,121,96,22.5,7.0
+7,611,8,2022-11-04,LAL,,UTA,L 116-130,1,34:51,.600,.559,9.8,15.0,12.5,10.0,0.0,4.4,5.2,25.0,126,136,17.9,-1.2
+8,612,9,2022-11-06,LAL,,CLE,L 100-114,1,32:45,.595,.583,9.0,31.4,19.3,19.7,0.0,2.8,5.9,22.1,126,111,17.5,6.7
+9,613,10,2022-11-07,LAL,@,UTA,L 116-139,1,29:12,.688,.639,4.3,13.7,8.9,15.0,1.6,2.9,8.7,34.1,131,133,22.3,5.3
+10,614,11,2022-11-09,LAL,@,LAC,L 101-114,1,35:21,.591,.563,3.2,26.5,14.5,14.7,0.0,2.8,14.5,25.5,105,114,13.9,-1.6
+11,615,12,2022-11-11,LAL,,SAC,L 114-120,1,34:11,.549,.471,19.1,30.4,24.3,13.7,2.9,8.3,8.4,29.5,123,115,24.1,5.6
+12,616,13,2022-11-13,LAL,,BRK,W 116-103,1,33:38,.659,.600,31.7,27.8,29.9,12.6,0.0,0.0,3.4,38.1,145,108,33.3,11.2
+13,617,14,2022-11-18,LAL,,DET,W 128-121,1,34:02,.753,.625,8.3,42.0,27.9,9.8,1.4,9.7,13.7,37.0,137,103,35.2,10.7
+14,618,15,2022-11-20,LAL,,SAS,W 123-92,1,27:46,.693,.632,14.4,41.8,31.8,14.3,5.0,2.4,8.5,37.0,131,69,30.8,15.5
+15,619,16,2022-11-22,LAL,@,PHO,L 105-115,1,38:23,.770,.647,7.8,48.9,27.9,11.2,5.8,9.2,20.0,32.0,127,84,39.7,18.4
+16,620,17,2022-11-25,LAL,@,SAS,W 105-94,1,35:04,.777,.769,13.7,25.5,20.7,20.8,1.4,6.1,15.7,23.2,137,87,26.5,11.2
+16,,18,2022-11-26,LAL,@,SAS,W 143-138,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+17,621,19,2022-11-28,LAL,,IND,L 115-116,1,36:30,.644,.600,7.2,25.8,16.1,28.0,0.0,9.4,9.3,23.3,135,107,25.4,11.1
+18,622,20,2022-11-30,LAL,,POR,W 128-109,1,29:08,.644,.559,17.9,24.5,21.3,5.0,1.7,7.5,8.7,32.8,133,103,24.5,7.0
+19,623,21,2022-12-02,LAL,@,MIL,W 133-129,1,39:37,.731,.704,5.5,23.1,14.1,16.1,0.0,7.1,0.0,33.0,155,130,39.8,14.4
+20,624,22,2022-12-04,LAL,@,WAS,W 130-119,1,37:32,.810,.767,9.1,33.8,22.9,5.4,0.0,5.8,5.6,38.1,152,104,49.5,20.0
+21,625,23,2022-12-06,LAL,@,CLE,L 102-116,1,08:07,.379,,12.1,31.1,20.4,31.1,0.0,0.0,0.0,6.8,131,121,2.9,6.9
+21,,24,2022-12-07,LAL,@,TOR,L 113-126,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+22,626,25,2022-12-09,LAL,@,PHI,L 122-133 (OT),1,36:10,.809,.692,7.0,39.6,22.3,0.0,2.6,5.9,13.5,27.0,142,113,27.9,7.6
+23,627,26,2022-12-11,LAL,@,DET,W 124-117,1,35:44,.730,.667,11.2,35.0,24.6,31.5,2.7,2.8,4.1,30.5,154,109,36.5,15.6
+24,628,27,2022-12-13,LAL,,BOS,L 118-122 (OT),1,46:01,.605,.542,10.2,16.8,13.8,11.9,1.1,2.1,3.2,31.1,127,113,31.4,6.6
+25,629,28,2022-12-16,LAL,,DEN,W 126-108,1,17:27,.727,.667,0.0,25.6,13.1,14.9,2.7,5.1,22.5,21.1,117,100,8.9,4.5
+25,,29,2022-12-18,LAL,,WAS,W 119-117,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+25,,30,2022-12-19,LAL,@,PHO,L 104-130,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+25,,31,2022-12-21,LAL,@,SAC,L 120-134,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+25,,32,2022-12-23,LAL,,CHO,L 130-134,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+25,,33,2022-12-25,LAL,@,DAL,L 115-124,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+25,,34,2022-12-27,LAL,@,ORL,W 129-110,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+25,,35,2022-12-28,LAL,@,MIA,L 98-112,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+25,,36,2022-12-30,LAL,@,ATL,W 130-121,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+25,,37,2023-01-02,LAL,@,CHO,W 121-115,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+25,,38,2023-01-04,LAL,,MIA,W 112-109,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+25,,39,2023-01-06,LAL,,ATL,W 130-114,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+25,,40,2023-01-07,LAL,@,SAC,W 136-134,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+25,,41,2023-01-09,LAL,@,DEN,L 109-122,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+25,,42,2023-01-12,LAL,,DAL,L 115-119 (2OT),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+25,,43,2023-01-15,LAL,,PHI,L 112-113,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+25,,44,2023-01-16,LAL,,HOU,W 140-132,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+25,,45,2023-01-18,LAL,,SAC,L 111-116,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+25,,46,2023-01-20,LAL,,MEM,W 122-121,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+25,,47,2023-01-22,LAL,@,POR,W 121-112,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+25,,48,2023-01-24,LAL,,LAC,L 115-133,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+26,630,49,2023-01-25,LAL,,SAS,W 113-104,0,26:12,.581,.500,21.8,20.7,21.1,6.7,1.7,10.2,14.2,31.6,113,90,19.2,4.9
+27,631,50,2023-01-28,LAL,@,BOS,L 121-125 (OT),0,33:53,.477,.433,15.6,18.2,16.8,16.6,0.0,0.0,10.7,23.3,107,119,11.7,-0.8
+27,,51,2023-01-30,LAL,@,BRK,L 104-121,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+28,632,52,2023-01-31,LAL,@,NYK,W 129-123 (OT),1,36:53,.648,.563,6.7,21.9,14.5,4.1,2.7,0.0,19.3,30.8,110,112,18.6,-0.5
+29,633,53,2023-02-02,LAL,@,IND,W 112-111,1,34:32,.531,.481,13.1,28.4,20.1,11.6,1.3,5.3,6.4,36.6,109,103,25.3,5.3
+30,634,54,2023-02-04,LAL,@,NOP,L 126-131,1,38:26,.605,.560,10.6,27.8,19.0,13.0,1.2,3.6,6.6,32.0,125,122,28.4,6.1
+31,635,55,2023-02-07,LAL,,OKC,L 130-133,1,30:36,.658,.667,13.1,18.7,16.1,7.9,2.9,2.6,16.8,16.0,123,119,12.8,-0.6
+32,636,56,2023-02-09,LAL,,MIL,L 106-115,1,35:00,.467,.409,14.9,31.4,23.3,9.2,0.0,0.0,16.9,36.9,91,112,12.0,-7.3
+33,637,57,2023-02-11,LAL,@,GSW,W 109-103,1,35:44,.313,.263,5.8,38.4,22.6,4.0,0.0,7.7,16.2,28.8,63,91,4.9,-9.5
+34,638,58,2023-02-13,LAL,@,POR,L 115-127,1,31:04,.492,.444,9.7,52.5,31.5,5.2,0.0,9.3,9.4,28.1,103,116,16.4,-2.5
+35,639,59,2023-02-15,LAL,,NOP,W 120-102,1,30:10,.729,.765,7.4,25.5,17.1,34.1,1.6,5.0,0.0,28.1,149,95,29.0,18.3
+36,640,60,2023-02-23,LAL,,GSW,W 124-111,1,25:31,.704,.600,13.8,26.0,21.3,5.2,0.0,6.7,10.5,15.6,145,101,14.0,1.2
+37,641,61,2023-02-26,LAL,@,DAL,W 111-108,1,36:38,.626,.600,9.7,28.8,18.9,19.9,1.3,8.9,4.0,27.4,134,100,29.8,14.0
+38,642,62,2023-02-28,LAL,@,MEM,L 109-121,1,35:32,.566,.474,17.2,31.4,24.9,0.0,0.0,8.3,16.8,32.9,106,105,22.5,0.9
+38,,63,2023-03-01,LAL,@,OKC,W 123-117,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+39,643,64,2023-03-03,LAL,,MIN,L 102-110,1,32:23,.675,.591,3.2,14.8,8.5,16.3,1.5,5.4,17.6,45.0,112,111,25.1,10.2
+40,644,65,2023-03-05,LAL,,GSW,W 113-105,1,37:35,.635,.580,8.5,14.9,11.6,31.8,0.0,6.5,6.1,37.4,130,105,32.3,14.5
+41,645,66,2023-03-07,LAL,,MEM,W 112-103,1,35:32,.716,.676,11.7,43.4,29.1,15.5,0.0,4.8,25.0,32.6,109,91,25.6,8.6
+42,646,67,2023-03-10,LAL,,TOR,W 122-112,1,32:34,.571,.571,13.8,22.1,18.4,11.3,0.0,9.2,12.5,10.9,129,110,11.3,0.4
+43,647,68,2023-03-12,LAL,,NYK,L 108-112,1,37:14,.421,.444,17.6,33.1,24.9,15.8,2.7,2.5,4.7,25.4,104,110,17.3,1.5
+44,648,69,2023-03-14,LAL,@,NOP,W 123-108,1,33:19,.738,.639,21.1,30.5,26.3,6.0,0.0,0.0,11.2,34.6,147,108,31.2,7.4
+44,,70,2023-03-15,LAL,@,HOU,L 110-114,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+45,649,71,2023-03-17,LAL,,DAL,L 110-111,1,36:43,.690,.643,9.6,25.4,17.0,12.6,0.0,2.9,9.6,24.8,137,121,21.6,5.1
+46,650,72,2023-03-19,LAL,,ORL,W 111-105,1,34:21,.425,.400,7.0,22.5,16.0,5.1,2.8,8.7,22.1,29.5,73,94,8.7,-8.1
+47,651,73,2023-03-22,LAL,,PHO,W 122-111,1,38:17,.603,.556,3.9,23.3,15.0,23.7,1.3,0.0,4.3,28.4,126,111,22.2,2.8
+48,652,74,2023-03-24,LAL,,OKC,W 116-111,1,36:29,.716,.714,13.4,26.9,20.1,5.9,1.4,0.0,3.7,30.9,148,114,33.5,11.9
+49,653,75,2023-03-26,LAL,,CHI,L 108-118,1,35:53,.705,.750,6.4,24.6,15.0,22.3,1.4,2.4,15.8,16.1,134,122,15.3,3.6
+50,654,76,2023-03-29,LAL,@,CHI,W 121-110,1,38:38,.726,.675,15.9,13.1,14.5,17.2,2.5,4.5,0.0,28.5,164,108,38.5,18.2
+51,655,77,2023-03-31,LAL,@,MIN,W 123-111,1,36:51,.625,.577,24.8,23.4,24.1,0.0,1.3,4.7,9.0,36.5,128,105,31.5,4.9
+52,656,78,2023-04-02,LAL,@,HOU,W 134-109,1,30:27,.791,.750,16.2,14.1,14.9,5.6,0.0,4.6,0.0,36.1,167,113,37.6,15.9
+53,657,79,2023-04-04,LAL,@,UTA,W 135-133 (OT),1,42:05,.493,.438,11.0,32.3,20.7,19.3,2.3,4.4,4.5,22.9,119,117,21.8,1.7
+54,658,80,2023-04-05,LAL,@,LAC,L 118-125,1,32:19,.539,.500,13.8,26.7,19.9,12.9,1.5,6.5,6.0,21.9,122,118,17.2,3.5
+55,659,81,2023-04-07,LAL,,PHO,W 121-107,1,33:58,.464,.333,12.8,42.1,29.4,14.4,0.0,6.2,6.2,19.8,118,94,18.2,2.7
+56,660,82,2023-04-09,LAL,,UTA,W 128-117,1,33:57,.504,.467,8.8,30.7,19.6,11.4,4.0,8.6,20.1,24.2,96,96,16.5,-0.3
+,,,,,,,31-25,54,1906,.627,.573,11.3,27.3,19.5,13.0,1.5,4.9,9.5,28.5,124,107,23.3,6.3
