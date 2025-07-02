@@ -1,0 +1,6077 @@
+[
+  {
+    "x": 65,
+    "y": 51,
+    "type": "make",
+    "game": "Oct 31, 2012, NOH vs SAS",
+    "time": "1st Qtr, 10:10 remaining",
+    "shot": "Made 2-pointer from 18 ft",
+    "score": "NOH now trails 2-4"
+  },
+  {
+    "x": 376,
+    "y": 141,
+    "type": "make",
+    "game": "Oct 31, 2012, NOH vs SAS",
+    "time": "1st Qtr, 9:35 remaining",
+    "shot": "Made 2-pointer from 16 ft",
+    "score": "NOH now trails 4-6"
+  },
+  {
+    "x": 246,
+    "y": 258,
+    "type": "miss",
+    "game": "Oct 31, 2012, NOH vs SAS",
+    "time": "1st Qtr, 8:19 remaining",
+    "shot": "Missed 2-pointer from 21 ft",
+    "score": "NOH trails 6-10"
+  },
+  {
+    "x": 241,
+    "y": 92,
+    "type": "miss",
+    "game": "Oct 31, 2012, NOH vs SAS",
+    "time": "1st Qtr, 4:20 remaining",
+    "shot": "Missed 2-pointer from 4 ft",
+    "score": "NOH trails 16-21"
+  },
+  {
+    "x": 252,
+    "y": 57,
+    "type": "make",
+    "game": "Oct 31, 2012, NOH vs SAS",
+    "time": "1st Qtr, 4:20 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "NOH now trails 18-21"
+  },
+  {
+    "x": 298,
+    "y": 59,
+    "type": "make",
+    "game": "Oct 31, 2012, NOH vs SAS",
+    "time": "2nd Qtr, 8:50 remaining",
+    "shot": "Made 2-pointer from 6 ft",
+    "score": "NOH now leads 37-33"
+  },
+  {
+    "x": 298,
+    "y": 102,
+    "type": "miss",
+    "game": "Oct 31, 2012, NOH vs SAS",
+    "time": "2nd Qtr, 0:40.9 remaining",
+    "shot": "Missed 2-pointer from 8 ft",
+    "score": "NOH leads 48-40"
+  },
+  {
+    "x": 167,
+    "y": 57,
+    "type": "make",
+    "game": "Oct 31, 2012, NOH vs SAS",
+    "time": "2nd Qtr, 0:13.2 remaining",
+    "shot": "Made 2-pointer from 7 ft",
+    "score": "NOH now leads 50-40"
+  },
+  {
+    "x": 240,
+    "y": 106,
+    "type": "miss",
+    "game": "Oct 31, 2012, NOH vs SAS",
+    "time": "3rd Qtr, 10:54 remaining",
+    "shot": "Missed 2-pointer from 6 ft",
+    "score": "NOH leads 50-45"
+  },
+  {
+    "x": 225,
+    "y": 65,
+    "type": "miss",
+    "game": "Oct 31, 2012, NOH vs SAS",
+    "time": "3rd Qtr, 7:48 remaining",
+    "shot": "Missed 2-pointer from 2 ft",
+    "score": "NOH leads 54-52"
+  },
+  {
+    "x": 282,
+    "y": 168,
+    "type": "miss",
+    "game": "Oct 31, 2012, NOH vs SAS",
+    "time": "4th Qtr, 6:03 remaining",
+    "shot": "Missed 2-pointer from 13 ft",
+    "score": "NOH tied 83-83"
+  },
+  {
+    "x": 235,
+    "y": 45,
+    "type": "make",
+    "game": "Oct 31, 2012, NOH vs SAS",
+    "time": "4th Qtr, 1:34 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "NOH now leads 93-92"
+  },
+  {
+    "x": 384,
+    "y": 57,
+    "type": "miss",
+    "game": "Nov 2, 2012, NOH vs UTA",
+    "time": "1st Qtr, 11:27 remaining",
+    "shot": "Missed 2-pointer from 14 ft",
+    "score": "NOH trails 0-2"
+  },
+  {
+    "x": 222,
+    "y": 81,
+    "type": "make",
+    "game": "Nov 2, 2012, NOH vs UTA",
+    "time": "1st Qtr, 9:11 remaining",
+    "shot": "Made 2-pointer from 4 ft",
+    "score": "NOH now trails 4-6"
+  },
+  {
+    "x": 229,
+    "y": 53,
+    "type": "make",
+    "game": "Nov 2, 2012, NOH vs UTA",
+    "time": "1st Qtr, 6:08 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "NOH now leads 12-8"
+  },
+  {
+    "x": 255,
+    "y": 59,
+    "type": "make",
+    "game": "Nov 2, 2012, NOH vs UTA",
+    "time": "1st Qtr, 4:55 remaining",
+    "shot": "Made 2-pointer from 2 ft",
+    "score": "NOH now leads 14-8"
+  },
+  {
+    "x": 238,
+    "y": 50,
+    "type": "make",
+    "game": "Nov 2, 2012, NOH vs UTA",
+    "time": "2nd Qtr, 7:47 remaining",
+    "shot": "Made 2-pointer from 0 ft",
+    "score": "NOH now leads 29-28"
+  },
+  {
+    "x": 353,
+    "y": 215,
+    "type": "miss",
+    "game": "Nov 2, 2012, NOH vs UTA",
+    "time": "2nd Qtr, 5:16 remaining",
+    "shot": "Missed 2-pointer from 20 ft",
+    "score": "NOH trails 31-32"
+  },
+  {
+    "x": 279,
+    "y": 70,
+    "type": "miss",
+    "game": "Nov 9, 2012, NOH vs CHA",
+    "time": "1st Qtr, 11:16 remaining",
+    "shot": "Missed 2-pointer from 4 ft",
+    "score": "NOH tied 0-0"
+  },
+  {
+    "x": 298,
+    "y": 69,
+    "type": "miss",
+    "game": "Nov 9, 2012, NOH vs CHA",
+    "time": "1st Qtr, 9:30 remaining",
+    "shot": "Missed 2-pointer from 6 ft",
+    "score": "NOH leads 4-2"
+  },
+  {
+    "x": 356,
+    "y": 242,
+    "type": "miss",
+    "game": "Nov 9, 2012, NOH vs CHA",
+    "time": "1st Qtr, 4:58 remaining",
+    "shot": "Missed 2-pointer from 22 ft",
+    "score": "NOH trails 10-13"
+  },
+  {
+    "x": 263,
+    "y": 56,
+    "type": "make",
+    "game": "Nov 9, 2012, NOH vs CHA",
+    "time": "1st Qtr, 2:59 remaining",
+    "shot": "Made 2-pointer from 2 ft",
+    "score": "NOH now leads 17-15"
+  },
+  {
+    "x": 263,
+    "y": 51,
+    "type": "miss",
+    "game": "Nov 9, 2012, NOH vs CHA",
+    "time": "2nd Qtr, 8:55 remaining",
+    "shot": "Missed 2-pointer from 2 ft",
+    "score": "NOH leads 32-25"
+  },
+  {
+    "x": 214,
+    "y": 56,
+    "type": "miss",
+    "game": "Nov 9, 2012, NOH vs CHA",
+    "time": "2nd Qtr, 7:52 remaining",
+    "shot": "Missed 2-pointer from 3 ft",
+    "score": "NOH leads 32-27"
+  },
+  {
+    "x": 318,
+    "y": 72,
+    "type": "make",
+    "game": "Nov 9, 2012, NOH vs CHA",
+    "time": "2nd Qtr, 2:49 remaining",
+    "shot": "Made 2-pointer from 8 ft",
+    "score": "NOH now leads 52-43"
+  },
+  {
+    "x": 203,
+    "y": 92,
+    "type": "make",
+    "game": "Nov 9, 2012, NOH vs CHA",
+    "time": "2nd Qtr, 2:06 remaining",
+    "shot": "Made 2-pointer from 6 ft",
+    "score": "NOH now leads 54-45"
+  },
+  {
+    "x": 391,
+    "y": 48,
+    "type": "make",
+    "game": "Nov 9, 2012, NOH vs CHA",
+    "time": "2nd Qtr, 1:44 remaining",
+    "shot": "Made 2-pointer from 15 ft",
+    "score": "NOH now leads 56-47"
+  },
+  {
+    "x": 392,
+    "y": 248,
+    "type": "miss",
+    "game": "Nov 9, 2012, NOH vs CHA",
+    "time": "3rd Qtr, 11:36 remaining",
+    "shot": "Missed 3-pointer from 25 ft",
+    "score": "NOH leads 59-49"
+  },
+  {
+    "x": 219,
+    "y": 61,
+    "type": "make",
+    "game": "Nov 9, 2012, NOH vs CHA",
+    "time": "3rd Qtr, 10:02 remaining",
+    "shot": "Made 2-pointer from 2 ft",
+    "score": "NOH now leads 61-51"
+  },
+  {
+    "x": 236,
+    "y": 53,
+    "type": "make",
+    "game": "Nov 9, 2012, NOH vs CHA",
+    "time": "3rd Qtr, 7:21 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "NOH now leads 63-58"
+  },
+  {
+    "x": 222,
+    "y": 70,
+    "type": "make",
+    "game": "Nov 9, 2012, NOH vs CHA",
+    "time": "3rd Qtr, 6:48 remaining",
+    "shot": "Made 2-pointer from 3 ft",
+    "score": "NOH now leads 65-58"
+  },
+  {
+    "x": 217,
+    "y": 64,
+    "type": "make",
+    "game": "Nov 9, 2012, NOH vs CHA",
+    "time": "3rd Qtr, 6:05 remaining",
+    "shot": "Made 2-pointer from 3 ft",
+    "score": "NOH now leads 67-58"
+  },
+  {
+    "x": 244,
+    "y": 76,
+    "type": "make",
+    "game": "Nov 9, 2012, NOH vs CHA",
+    "time": "3rd Qtr, 5:42 remaining",
+    "shot": "Made 2-pointer from 3 ft",
+    "score": "NOH now leads 69-58"
+  },
+  {
+    "x": 334,
+    "y": 121,
+    "type": "miss",
+    "game": "Nov 9, 2012, NOH vs CHA",
+    "time": "4th Qtr, 11:24 remaining",
+    "shot": "Missed 2-pointer from 12 ft",
+    "score": "NOH leads 78-70"
+  },
+  {
+    "x": 261,
+    "y": 57,
+    "type": "miss",
+    "game": "Nov 9, 2012, NOH vs CHA",
+    "time": "4th Qtr, 4:51 remaining",
+    "shot": "Missed 2-pointer from 2 ft",
+    "score": "NOH leads 92-85"
+  },
+  {
+    "x": 258,
+    "y": 57,
+    "type": "miss",
+    "game": "Nov 9, 2012, NOH vs CHA",
+    "time": "4th Qtr, 3:45 remaining",
+    "shot": "Missed 2-pointer from 2 ft",
+    "score": "NOH leads 95-90"
+  },
+  {
+    "x": 397,
+    "y": 162,
+    "type": "miss",
+    "game": "Nov 14, 2012, NOH at HOU",
+    "time": "1st Qtr, 11:45 remaining",
+    "shot": "Missed 2-pointer from 19 ft",
+    "score": "NOH tied 0-0"
+  },
+  {
+    "x": 238,
+    "y": 51,
+    "type": "miss",
+    "game": "Nov 14, 2012, NOH at HOU",
+    "time": "1st Qtr, 9:26 remaining",
+    "shot": "Missed 2-pointer from 0 ft",
+    "score": "NOH leads 7-2"
+  },
+  {
+    "x": 242,
+    "y": 44,
+    "type": "make",
+    "game": "Nov 14, 2012, NOH at HOU",
+    "time": "2nd Qtr, 6:23 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "NOH now trails 38-44"
+  },
+  {
+    "x": 244,
+    "y": 240,
+    "type": "miss",
+    "game": "Nov 14, 2012, NOH at HOU",
+    "time": "2nd Qtr, 4:58 remaining",
+    "shot": "Missed 2-pointer from 19 ft",
+    "score": "NOH trails 40-48"
+  },
+  {
+    "x": 375,
+    "y": 89,
+    "type": "miss",
+    "game": "Nov 14, 2012, NOH at HOU",
+    "time": "3rd Qtr, 11:18 remaining",
+    "shot": "Missed 2-pointer from 14 ft",
+    "score": "NOH trails 45-65"
+  },
+  {
+    "x": 241,
+    "y": 51,
+    "type": "make",
+    "game": "Nov 14, 2012, NOH at HOU",
+    "time": "3rd Qtr, 3:34 remaining",
+    "shot": "Made 2-pointer from 0 ft",
+    "score": "NOH now trails 68-80"
+  },
+  {
+    "x": 294,
+    "y": 143,
+    "type": "miss",
+    "game": "Nov 14, 2012, NOH at HOU",
+    "time": "4th Qtr, 7:06 remaining",
+    "shot": "Missed 2-pointer from 11 ft",
+    "score": "NOH trails 85-93"
+  },
+  {
+    "x": 158,
+    "y": 231,
+    "type": "make",
+    "game": "Nov 16, 2012, NOH vs OKC",
+    "time": "1st Qtr, 9:02 remaining",
+    "shot": "Made 2-pointer from 20 ft",
+    "score": "NOH now trails 4-11"
+  },
+  {
+    "x": 268,
+    "y": 108,
+    "type": "miss",
+    "game": "Nov 16, 2012, NOH vs OKC",
+    "time": "1st Qtr, 8:15 remaining",
+    "shot": "Missed 2-pointer from 6 ft",
+    "score": "NOH trails 4-13"
+  },
+  {
+    "x": 219,
+    "y": 59,
+    "type": "miss",
+    "game": "Nov 16, 2012, NOH vs OKC",
+    "time": "1st Qtr, 6:20 remaining",
+    "shot": "Missed 2-pointer from 2 ft",
+    "score": "NOH trails 8-15"
+  },
+  {
+    "x": 170,
+    "y": 67,
+    "type": "miss",
+    "game": "Nov 16, 2012, NOH vs OKC",
+    "time": "1st Qtr, 6:00 remaining",
+    "shot": "Missed 2-pointer from 7 ft",
+    "score": "NOH trails 8-15"
+  },
+  {
+    "x": 104,
+    "y": 76,
+    "type": "miss",
+    "game": "Nov 16, 2012, NOH vs OKC",
+    "time": "1st Qtr, 3:48 remaining",
+    "shot": "Missed 2-pointer from 14 ft",
+    "score": "NOH trails 10-19"
+  },
+  {
+    "x": 323,
+    "y": 291,
+    "type": "miss",
+    "game": "Nov 16, 2012, NOH vs OKC",
+    "time": "2nd Qtr, 7:41 remaining",
+    "shot": "Missed 3-pointer from 25 ft",
+    "score": "NOH trails 27-47"
+  },
+  {
+    "x": 369,
+    "y": 81,
+    "type": "miss",
+    "game": "Nov 16, 2012, NOH vs OKC",
+    "time": "2nd Qtr, 7:05 remaining",
+    "shot": "Missed 2-pointer from 13 ft",
+    "score": "NOH trails 27-47"
+  },
+  {
+    "x": 252,
+    "y": 56,
+    "type": "miss",
+    "game": "Nov 16, 2012, NOH vs OKC",
+    "time": "2nd Qtr, 4:47 remaining",
+    "shot": "Missed 2-pointer from 1 ft",
+    "score": "NOH trails 27-53"
+  },
+  {
+    "x": 221,
+    "y": 64,
+    "type": "make",
+    "game": "Nov 16, 2012, NOH vs OKC",
+    "time": "2nd Qtr, 3:45 remaining",
+    "shot": "Made 2-pointer from 2 ft",
+    "score": "NOH now trails 31-55"
+  },
+  {
+    "x": 170,
+    "y": 76,
+    "type": "make",
+    "game": "Nov 16, 2012, NOH vs OKC",
+    "time": "2nd Qtr, 2:38 remaining",
+    "shot": "Made 2-pointer from 7 ft",
+    "score": "NOH now trails 33-59"
+  },
+  {
+    "x": 66,
+    "y": 184,
+    "type": "miss",
+    "game": "Nov 16, 2012, NOH vs OKC",
+    "time": "2nd Qtr, 1:17 remaining",
+    "shot": "Missed 2-pointer from 22 ft",
+    "score": "NOH trails 36-61"
+  },
+  {
+    "x": 261,
+    "y": 70,
+    "type": "miss",
+    "game": "Nov 16, 2012, NOH vs OKC",
+    "time": "3rd Qtr, 9:08 remaining",
+    "shot": "Missed 2-pointer from 3 ft",
+    "score": "NOH trails 43-71"
+  },
+  {
+    "x": 241,
+    "y": 62,
+    "type": "make",
+    "game": "Nov 16, 2012, NOH vs OKC",
+    "time": "3rd Qtr, 8:11 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "NOH now trails 47-74"
+  },
+  {
+    "x": 244,
+    "y": 56,
+    "type": "miss",
+    "game": "Nov 16, 2012, NOH vs OKC",
+    "time": "3rd Qtr, 4:48 remaining",
+    "shot": "Missed 2-pointer from 1 ft",
+    "score": "NOH trails 56-83"
+  },
+  {
+    "x": 242,
+    "y": 51,
+    "type": "make",
+    "game": "Nov 17, 2012, NOH at MIL",
+    "time": "1st Qtr, 7:17 remaining",
+    "shot": "Made 2-pointer from 0 ft",
+    "score": "NOH now trails 10-13"
+  },
+  {
+    "x": 358,
+    "y": 171,
+    "type": "make",
+    "game": "Nov 17, 2012, NOH at MIL",
+    "time": "1st Qtr, 5:55 remaining",
+    "shot": "Made 2-pointer from 17 ft",
+    "score": "NOH now trails 14-17"
+  },
+  {
+    "x": 240,
+    "y": 53,
+    "type": "make",
+    "game": "Nov 17, 2012, NOH at MIL",
+    "time": "1st Qtr, 3:56 remaining",
+    "shot": "Made 2-pointer from 0 ft",
+    "score": "NOH now trails 20-22"
+  },
+  {
+    "x": 233,
+    "y": 53,
+    "type": "miss",
+    "game": "Nov 17, 2012, NOH at MIL",
+    "time": "2nd Qtr, 5:55 remaining",
+    "shot": "Missed 2-pointer from 1 ft",
+    "score": "NOH trails 38-45"
+  },
+  {
+    "x": 232,
+    "y": 48,
+    "type": "miss",
+    "game": "Nov 17, 2012, NOH at MIL",
+    "time": "2nd Qtr, 5:53 remaining",
+    "shot": "Missed 2-pointer from 1 ft",
+    "score": "NOH trails 38-45"
+  },
+  {
+    "x": 257,
+    "y": 98,
+    "type": "make",
+    "game": "Nov 17, 2012, NOH at MIL",
+    "time": "3rd Qtr, 11:23 remaining",
+    "shot": "Made 2-pointer from 5 ft",
+    "score": "NOH now tied 60-60"
+  },
+  {
+    "x": 302,
+    "y": 86,
+    "type": "make",
+    "game": "Nov 17, 2012, NOH at MIL",
+    "time": "3rd Qtr, 9:23 remaining",
+    "shot": "Made 2-pointer from 7 ft",
+    "score": "NOH now leads 64-62"
+  },
+  {
+    "x": 225,
+    "y": 83,
+    "type": "make",
+    "game": "Nov 17, 2012, NOH at MIL",
+    "time": "3rd Qtr, 8:45 remaining",
+    "shot": "Made 2-pointer from 4 ft",
+    "score": "NOH now leads 67-64"
+  },
+  {
+    "x": 255,
+    "y": 53,
+    "type": "make",
+    "game": "Nov 17, 2012, NOH at MIL",
+    "time": "4th Qtr, 7:38 remaining",
+    "shot": "Made 2-pointer from 2 ft",
+    "score": "NOH now trails 98-102"
+  },
+  {
+    "x": 247,
+    "y": 59,
+    "type": "make",
+    "game": "Nov 17, 2012, NOH at MIL",
+    "time": "4th Qtr, 6:07 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "NOH now trails 100-105"
+  },
+  {
+    "x": 298,
+    "y": 69,
+    "type": "miss",
+    "game": "Nov 17, 2012, NOH at MIL",
+    "time": "4th Qtr, 5:00 remaining",
+    "shot": "Missed 2-pointer from 6 ft",
+    "score": "NOH trails 100-107"
+  },
+  {
+    "x": 235,
+    "y": 56,
+    "type": "make",
+    "game": "Nov 17, 2012, NOH at MIL",
+    "time": "4th Qtr, 2:39 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "NOH now trails 104-110"
+  },
+  {
+    "x": 169,
+    "y": 75,
+    "type": "make",
+    "game": "Nov 17, 2012, NOH at MIL",
+    "time": "4th Qtr, 2:02 remaining",
+    "shot": "Made 2-pointer from 8 ft",
+    "score": "NOH now trails 107-110"
+  },
+  {
+    "x": 335,
+    "y": 111,
+    "type": "miss",
+    "game": "Dec 11, 2012, NOH vs WAS",
+    "time": "1st Qtr, 4:18 remaining",
+    "shot": "Missed 2-pointer from 11 ft",
+    "score": "NOH leads 13-7"
+  },
+  {
+    "x": 413,
+    "y": 103,
+    "type": "make",
+    "game": "Dec 11, 2012, NOH vs WAS",
+    "time": "1st Qtr, 0:53.8 remaining",
+    "shot": "Made 2-pointer from 18 ft",
+    "score": "NOH now leads 18-11"
+  },
+  {
+    "x": 217,
+    "y": 65,
+    "type": "make",
+    "game": "Dec 11, 2012, NOH vs WAS",
+    "time": "2nd Qtr, 11:18 remaining",
+    "shot": "Made 2-pointer from 3 ft",
+    "score": "NOH now leads 24-14"
+  },
+  {
+    "x": 224,
+    "y": 56,
+    "type": "miss",
+    "game": "Dec 11, 2012, NOH vs WAS",
+    "time": "2nd Qtr, 3:51 remaining",
+    "shot": "Missed 2-pointer from 2 ft",
+    "score": "NOH leads 38-26"
+  },
+  {
+    "x": 253,
+    "y": 50,
+    "type": "miss",
+    "game": "Dec 11, 2012, NOH vs WAS",
+    "time": "3rd Qtr, 4:33 remaining",
+    "shot": "Missed 2-pointer from 1 ft",
+    "score": "NOH leads 55-45"
+  },
+  {
+    "x": 402,
+    "y": 94,
+    "type": "miss",
+    "game": "Dec 11, 2012, NOH vs WAS",
+    "time": "3rd Qtr, 3:21 remaining",
+    "shot": "Missed 2-pointer from 17 ft",
+    "score": "NOH leads 55-50"
+  },
+  {
+    "x": 249,
+    "y": 56,
+    "type": "make",
+    "game": "Dec 11, 2012, NOH vs WAS",
+    "time": "3rd Qtr, 0:5.3 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "NOH now leads 60-56"
+  },
+  {
+    "x": 232,
+    "y": 45,
+    "type": "make",
+    "game": "Dec 11, 2012, NOH vs WAS",
+    "time": "4th Qtr, 4:11 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "NOH now trails 67-71"
+  },
+  {
+    "x": 261,
+    "y": 72,
+    "type": "miss",
+    "game": "Dec 11, 2012, NOH vs WAS",
+    "time": "4th Qtr, 3:02 remaining",
+    "shot": "Missed 2-pointer from 3 ft",
+    "score": "NOH trails 67-71"
+  },
+  {
+    "x": 222,
+    "y": 51,
+    "type": "make",
+    "game": "Dec 11, 2012, NOH vs WAS",
+    "time": "4th Qtr, 1:51 remaining",
+    "shot": "Made 2-pointer from 2 ft",
+    "score": "NOH now trails 69-73"
+  },
+  {
+    "x": 83,
+    "y": 47,
+    "type": "miss",
+    "game": "Dec 12, 2012, NOH at OKC",
+    "time": "1st Qtr, 2:44 remaining",
+    "shot": "Missed 2-pointer from 16 ft",
+    "score": "NOH leads 16-13"
+  },
+  {
+    "x": 236,
+    "y": 75,
+    "type": "miss",
+    "game": "Dec 12, 2012, NOH at OKC",
+    "time": "1st Qtr, 1:01 remaining",
+    "shot": "Missed 2-pointer from 3 ft",
+    "score": "NOH leads 18-15"
+  },
+  {
+    "x": 430,
+    "y": 83,
+    "type": "miss",
+    "game": "Dec 12, 2012, NOH at OKC",
+    "time": "2nd Qtr, 11:02 remaining",
+    "shot": "Missed 2-pointer from 19 ft",
+    "score": "NOH leads 19-17"
+  },
+  {
+    "x": 309,
+    "y": 231,
+    "type": "miss",
+    "game": "Dec 12, 2012, NOH at OKC",
+    "time": "2nd Qtr, 9:56 remaining",
+    "shot": "Missed 2-pointer from 19 ft",
+    "score": "NOH trails 19-20"
+  },
+  {
+    "x": 272,
+    "y": 50,
+    "type": "make",
+    "game": "Dec 12, 2012, NOH at OKC",
+    "time": "2nd Qtr, 7:52 remaining",
+    "shot": "Made 2-pointer from 3 ft",
+    "score": "NOH now leads 25-23"
+  },
+  {
+    "x": 321,
+    "y": 53,
+    "type": "make",
+    "game": "Dec 12, 2012, NOH at OKC",
+    "time": "3rd Qtr, 2:45 remaining",
+    "shot": "Made 2-pointer from 8 ft",
+    "score": "NOH now leads 60-50"
+  },
+  {
+    "x": 240,
+    "y": 247,
+    "type": "miss",
+    "game": "Dec 12, 2012, NOH at OKC",
+    "time": "3rd Qtr, 0:53.9 remaining",
+    "shot": "Missed 2-pointer from 20 ft",
+    "score": "NOH leads 62-55"
+  },
+  {
+    "x": 247,
+    "y": 44,
+    "type": "make",
+    "game": "Dec 12, 2012, NOH at OKC",
+    "time": "4th Qtr, 3:11 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "NOH now trails 80-81"
+  },
+  {
+    "x": 124,
+    "y": 86,
+    "type": "make",
+    "game": "Dec 14, 2012, NOH vs MIN",
+    "time": "1st Qtr, 2:31 remaining",
+    "shot": "Made 2-pointer from 12 ft",
+    "score": "NOH now trails 20-23"
+  },
+  {
+    "x": 110,
+    "y": 168,
+    "type": "miss",
+    "game": "Dec 14, 2012, NOH vs MIN",
+    "time": "2nd Qtr, 8:40 remaining",
+    "shot": "Missed 2-pointer from 18 ft",
+    "score": "NOH trails 28-36"
+  },
+  {
+    "x": 222,
+    "y": 59,
+    "type": "make",
+    "game": "Dec 14, 2012, NOH vs MIN",
+    "time": "2nd Qtr, 0:51.7 remaining",
+    "shot": "Made 2-pointer from 2 ft",
+    "score": "NOH now tied 48-48"
+  },
+  {
+    "x": 242,
+    "y": 69,
+    "type": "make",
+    "game": "Dec 14, 2012, NOH vs MIN",
+    "time": "3rd Qtr, 3:22 remaining",
+    "shot": "Made 2-pointer from 2 ft",
+    "score": "NOH now trails 68-70"
+  },
+  {
+    "x": 217,
+    "y": 59,
+    "type": "make",
+    "game": "Dec 14, 2012, NOH vs MIN",
+    "time": "4th Qtr, 0:48.6 remaining",
+    "shot": "Made 2-pointer from 2 ft",
+    "score": "NOH now trails 97-111"
+  },
+  {
+    "x": 246,
+    "y": 50,
+    "type": "make",
+    "game": "Dec 16, 2012, NOH at POR",
+    "time": "1st Qtr, 5:47 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "NOH now trails 11-14"
+  },
+  {
+    "x": 250,
+    "y": 42,
+    "type": "make",
+    "game": "Dec 16, 2012, NOH at POR",
+    "time": "1st Qtr, 3:55 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "NOH now trails 15-19"
+  },
+  {
+    "x": 358,
+    "y": 206,
+    "type": "miss",
+    "game": "Dec 16, 2012, NOH at POR",
+    "time": "1st Qtr, 1:27 remaining",
+    "shot": "Missed 2-pointer from 20 ft",
+    "score": "NOH trails 17-23"
+  },
+  {
+    "x": 180,
+    "y": 50,
+    "type": "make",
+    "game": "Dec 16, 2012, NOH at POR",
+    "time": "2nd Qtr, 8:19 remaining",
+    "shot": "Made 2-pointer from 6 ft",
+    "score": "NOH now trails 24-34"
+  },
+  {
+    "x": 241,
+    "y": 48,
+    "type": "make",
+    "game": "Dec 16, 2012, NOH at POR",
+    "time": "2nd Qtr, 7:44 remaining",
+    "shot": "Made 2-pointer from 0 ft",
+    "score": "NOH now trails 26-34"
+  },
+  {
+    "x": 399,
+    "y": 212,
+    "type": "miss",
+    "game": "Dec 16, 2012, NOH at POR",
+    "time": "2nd Qtr, 3:27 remaining",
+    "shot": "Missed 2-pointer from 23 ft",
+    "score": "NOH trails 35-45"
+  },
+  {
+    "x": 365,
+    "y": 54,
+    "type": "miss",
+    "game": "Dec 16, 2012, NOH at POR",
+    "time": "3rd Qtr, 0:31.8 remaining",
+    "shot": "Missed 2-pointer from 13 ft",
+    "score": "NOH trails 61-75"
+  },
+  {
+    "x": 263,
+    "y": 80,
+    "type": "miss",
+    "game": "Dec 16, 2012, NOH at POR",
+    "time": "4th Qtr, 7:56 remaining",
+    "shot": "Missed 2-pointer from 4 ft",
+    "score": "NOH trails 73-82"
+  },
+  {
+    "x": 232,
+    "y": 50,
+    "type": "make",
+    "game": "Dec 16, 2012, NOH at POR",
+    "time": "4th Qtr, 5:18 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "NOH now trails 82-87"
+  },
+  {
+    "x": 240,
+    "y": 54,
+    "type": "miss",
+    "game": "Dec 16, 2012, NOH at POR",
+    "time": "4th Qtr, 4:42 remaining",
+    "shot": "Missed 2-pointer from 0 ft",
+    "score": "NOH trails 82-88"
+  },
+  {
+    "x": 384,
+    "y": 169,
+    "type": "miss",
+    "game": "Dec 18, 2012, NOH at GSW",
+    "time": "1st Qtr, 11:30 remaining",
+    "shot": "Missed 2-pointer from 19 ft",
+    "score": "NOH tied 0-0"
+  },
+  {
+    "x": 224,
+    "y": 125,
+    "type": "miss",
+    "game": "Dec 18, 2012, NOH at GSW",
+    "time": "2nd Qtr, 5:30 remaining",
+    "shot": "Missed 2-pointer from 8 ft",
+    "score": "NOH trails 39-48"
+  },
+  {
+    "x": 288,
+    "y": 128,
+    "type": "make",
+    "game": "Dec 18, 2012, NOH at GSW",
+    "time": "2nd Qtr, 2:49 remaining",
+    "shot": "Made 2-pointer from 9 ft",
+    "score": "NOH now trails 43-52"
+  },
+  {
+    "x": 246,
+    "y": 59,
+    "type": "miss",
+    "game": "Dec 18, 2012, NOH at GSW",
+    "time": "2nd Qtr, 0:22.3 remaining",
+    "shot": "Missed 2-pointer from 1 ft",
+    "score": "NOH trails 48-57"
+  },
+  {
+    "x": 235,
+    "y": 51,
+    "type": "make",
+    "game": "Dec 18, 2012, NOH at GSW",
+    "time": "3rd Qtr, 9:04 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "NOH now trails 54-64"
+  },
+  {
+    "x": 240,
+    "y": 53,
+    "type": "make",
+    "game": "Dec 18, 2012, NOH at GSW",
+    "time": "3rd Qtr, 5:16 remaining",
+    "shot": "Made 2-pointer from 0 ft",
+    "score": "NOH now trails 59-68"
+  },
+  {
+    "x": 253,
+    "y": 56,
+    "type": "make",
+    "game": "Dec 18, 2012, NOH at GSW",
+    "time": "4th Qtr, 4:07 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "NOH now trails 91-92"
+  },
+  {
+    "x": 83,
+    "y": 78,
+    "type": "make",
+    "game": "Dec 19, 2012, NOH at LAC",
+    "time": "1st Qtr, 8:01 remaining",
+    "shot": "Made 2-pointer from 16 ft",
+    "score": "NOH now trails 6-8"
+  },
+  {
+    "x": 247,
+    "y": 234,
+    "type": "miss",
+    "game": "Dec 19, 2012, NOH at LAC",
+    "time": "1st Qtr, 5:13 remaining",
+    "shot": "Missed 2-pointer from 18 ft",
+    "score": "NOH trails 12-16"
+  },
+  {
+    "x": 240,
+    "y": 56,
+    "type": "make",
+    "game": "Dec 19, 2012, NOH at LAC",
+    "time": "2nd Qtr, 11:32 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "NOH now trails 18-22"
+  },
+  {
+    "x": 230,
+    "y": 54,
+    "type": "miss",
+    "game": "Dec 19, 2012, NOH at LAC",
+    "time": "2nd Qtr, 7:01 remaining",
+    "shot": "Missed 2-pointer from 1 ft",
+    "score": "NOH trails 27-31"
+  },
+  {
+    "x": 240,
+    "y": 56,
+    "type": "make",
+    "game": "Dec 19, 2012, NOH at LAC",
+    "time": "2nd Qtr, 5:02 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "NOH now trails 30-35"
+  },
+  {
+    "x": 240,
+    "y": 44,
+    "type": "make",
+    "game": "Dec 19, 2012, NOH at LAC",
+    "time": "3rd Qtr, 10:03 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "NOH now trails 42-52"
+  },
+  {
+    "x": 230,
+    "y": 56,
+    "type": "make",
+    "game": "Dec 19, 2012, NOH at LAC",
+    "time": "3rd Qtr, 9:34 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "NOH now trails 44-52"
+  },
+  {
+    "x": 216,
+    "y": 54,
+    "type": "miss",
+    "game": "Dec 19, 2012, NOH at LAC",
+    "time": "3rd Qtr, 9:10 remaining",
+    "shot": "Missed 2-pointer from 2 ft",
+    "score": "NOH trails 45-52"
+  },
+  {
+    "x": 72,
+    "y": 61,
+    "type": "miss",
+    "game": "Dec 19, 2012, NOH at LAC",
+    "time": "3rd Qtr, 8:39 remaining",
+    "shot": "Missed 2-pointer from 17 ft",
+    "score": "NOH trails 47-52"
+  },
+  {
+    "x": 107,
+    "y": 212,
+    "type": "miss",
+    "game": "Dec 19, 2012, NOH at LAC",
+    "time": "3rd Qtr, 2:38 remaining",
+    "shot": "Missed 2-pointer from 21 ft",
+    "score": "NOH trails 52-69"
+  },
+  {
+    "x": 242,
+    "y": 57,
+    "type": "make",
+    "game": "Dec 19, 2012, NOH at LAC",
+    "time": "4th Qtr, 8:11 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "NOH now trails 62-84"
+  },
+  {
+    "x": 408,
+    "y": 81,
+    "type": "miss",
+    "game": "Dec 19, 2012, NOH at LAC",
+    "time": "4th Qtr, 5:49 remaining",
+    "shot": "Missed 2-pointer from 17 ft",
+    "score": "NOH trails 65-89"
+  },
+  {
+    "x": 429,
+    "y": 236,
+    "type": "miss",
+    "game": "Dec 19, 2012, NOH at LAC",
+    "time": "4th Qtr, 4:47 remaining",
+    "shot": "Missed 3-pointer from 27 ft",
+    "score": "NOH trails 65-89"
+  },
+  {
+    "x": 312,
+    "y": 64,
+    "type": "make",
+    "game": "Dec 19, 2012, NOH at LAC",
+    "time": "4th Qtr, 1:11 remaining",
+    "shot": "Made 2-pointer from 7 ft",
+    "score": "NOH now trails 77-91"
+  },
+  {
+    "x": 240,
+    "y": 56,
+    "type": "miss",
+    "game": "Dec 19, 2012, NOH at LAC",
+    "time": "4th Qtr, 0:18.9 remaining",
+    "shot": "Missed 2-pointer from 1 ft",
+    "score": "NOH trails 77-93"
+  },
+  {
+    "x": 334,
+    "y": 69,
+    "type": "miss",
+    "game": "Dec 21, 2012, NOH at SAS",
+    "time": "1st Qtr, 10:51 remaining",
+    "shot": "Missed 2-pointer from 10 ft",
+    "score": "NOH leads 2-0"
+  },
+  {
+    "x": 93,
+    "y": 47,
+    "type": "miss",
+    "game": "Dec 21, 2012, NOH at SAS",
+    "time": "1st Qtr, 9:36 remaining",
+    "shot": "Missed 2-pointer from 15 ft",
+    "score": "NOH leads 2-0"
+  },
+  {
+    "x": 272,
+    "y": 59,
+    "type": "miss",
+    "game": "Dec 21, 2012, NOH at SAS",
+    "time": "1st Qtr, 6:54 remaining",
+    "shot": "Missed 2-pointer from 3 ft",
+    "score": "NOH trails 4-6"
+  },
+  {
+    "x": 240,
+    "y": 61,
+    "type": "miss",
+    "game": "Dec 21, 2012, NOH at SAS",
+    "time": "1st Qtr, 6:04 remaining",
+    "shot": "Missed 2-pointer from 1 ft",
+    "score": "NOH trails 4-10"
+  },
+  {
+    "x": 247,
+    "y": 51,
+    "type": "make",
+    "game": "Dec 21, 2012, NOH at SAS",
+    "time": "1st Qtr, 4:57 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "NOH now trails 8-14"
+  },
+  {
+    "x": 240,
+    "y": 56,
+    "type": "make",
+    "game": "Dec 21, 2012, NOH at SAS",
+    "time": "1st Qtr, 1:41 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "NOH now tied 19-19"
+  },
+  {
+    "x": 235,
+    "y": 67,
+    "type": "make",
+    "game": "Dec 21, 2012, NOH at SAS",
+    "time": "2nd Qtr, 10:37 remaining",
+    "shot": "Made 2-pointer from 2 ft",
+    "score": "NOH now trails 23-28"
+  },
+  {
+    "x": 241,
+    "y": 51,
+    "type": "miss",
+    "game": "Dec 21, 2012, NOH at SAS",
+    "time": "2nd Qtr, 10:06 remaining",
+    "shot": "Missed 2-pointer from 0 ft",
+    "score": "NOH trails 23-30"
+  },
+  {
+    "x": 233,
+    "y": 53,
+    "type": "make",
+    "game": "Dec 21, 2012, NOH at SAS",
+    "time": "3rd Qtr, 9:02 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "NOH now trails 48-60"
+  },
+  {
+    "x": 240,
+    "y": 54,
+    "type": "make",
+    "game": "Dec 21, 2012, NOH at SAS",
+    "time": "3rd Qtr, 6:17 remaining",
+    "shot": "Made 2-pointer from 0 ft",
+    "score": "NOH now trails 56-64"
+  },
+  {
+    "x": 232,
+    "y": 62,
+    "type": "make",
+    "game": "Dec 21, 2012, NOH at SAS",
+    "time": "4th Qtr, 8:54 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "NOH now trails 72-84"
+  },
+  {
+    "x": 217,
+    "y": 91,
+    "type": "make",
+    "game": "Dec 21, 2012, NOH at SAS",
+    "time": "4th Qtr, 3:23 remaining",
+    "shot": "Made 2-pointer from 5 ft",
+    "score": "NOH now trails 86-93"
+  },
+  {
+    "x": 244,
+    "y": 50,
+    "type": "make",
+    "game": "Dec 21, 2012, NOH at SAS",
+    "time": "4th Qtr, 0:3.1 remaining",
+    "shot": "Made 2-pointer from 0 ft",
+    "score": "NOH now trails 94-99"
+  },
+  {
+    "x": 258,
+    "y": 53,
+    "type": "miss",
+    "game": "Dec 22, 2012, NOH vs IND",
+    "time": "1st Qtr, 10:38 remaining",
+    "shot": "Missed 2-pointer from 2 ft",
+    "score": "NOH leads 3-0"
+  },
+  {
+    "x": 71,
+    "y": 78,
+    "type": "make",
+    "game": "Dec 22, 2012, NOH vs IND",
+    "time": "1st Qtr, 3:38 remaining",
+    "shot": "Made 2-pointer from 17 ft",
+    "score": "NOH now leads 14-9"
+  },
+  {
+    "x": 241,
+    "y": 51,
+    "type": "make",
+    "game": "Dec 22, 2012, NOH vs IND",
+    "time": "1st Qtr, 3:03 remaining",
+    "shot": "Made 2-pointer from 0 ft",
+    "score": "NOH now leads 16-9"
+  },
+  {
+    "x": 290,
+    "y": 57,
+    "type": "miss",
+    "game": "Dec 22, 2012, NOH vs IND",
+    "time": "2nd Qtr, 3:34 remaining",
+    "shot": "Missed 2-pointer from 5 ft",
+    "score": "NOH leads 40-22"
+  },
+  {
+    "x": 225,
+    "y": 76,
+    "type": "miss",
+    "game": "Dec 22, 2012, NOH vs IND",
+    "time": "2nd Qtr, 3:26 remaining",
+    "shot": "Missed 2-pointer from 3 ft",
+    "score": "NOH leads 40-22"
+  },
+  {
+    "x": 61,
+    "y": 34,
+    "type": "miss",
+    "game": "Dec 22, 2012, NOH vs IND",
+    "time": "2nd Qtr, 3:20 remaining",
+    "shot": "Missed 2-pointer from 18 ft",
+    "score": "NOH leads 40-22"
+  },
+  {
+    "x": 158,
+    "y": 70,
+    "type": "miss",
+    "game": "Dec 22, 2012, NOH vs IND",
+    "time": "3rd Qtr, 10:42 remaining",
+    "shot": "Missed 2-pointer from 8 ft",
+    "score": "NOH leads 48-31"
+  },
+  {
+    "x": 214,
+    "y": 56,
+    "type": "miss",
+    "game": "Dec 22, 2012, NOH vs IND",
+    "time": "3rd Qtr, 4:10 remaining",
+    "shot": "Missed 2-pointer from 3 ft",
+    "score": "NOH leads 50-46"
+  },
+  {
+    "x": 199,
+    "y": 210,
+    "type": "miss",
+    "game": "Dec 22, 2012, NOH vs IND",
+    "time": "3rd Qtr, 2:59 remaining",
+    "shot": "Missed 2-pointer from 17 ft",
+    "score": "NOH leads 50-49"
+  },
+  {
+    "x": 263,
+    "y": 69,
+    "type": "miss",
+    "game": "Dec 22, 2012, NOH vs IND",
+    "time": "3rd Qtr, 0:19.9 remaining",
+    "shot": "Missed 2-pointer from 3 ft",
+    "score": "NOH tied 53-53"
+  },
+  {
+    "x": 173,
+    "y": 54,
+    "type": "make",
+    "game": "Dec 22, 2012, NOH vs IND",
+    "time": "4th Qtr, 5:47 remaining",
+    "shot": "Made 2-pointer from 7 ft",
+    "score": "NOH now tied 63-63"
+  },
+  {
+    "x": 244,
+    "y": 48,
+    "type": "make",
+    "game": "Dec 22, 2012, NOH vs IND",
+    "time": "4th Qtr, 4:31 remaining",
+    "shot": "Made 2-pointer from 0 ft",
+    "score": "NOH now leads 67-65"
+  },
+  {
+    "x": 257,
+    "y": 64,
+    "type": "make",
+    "game": "Dec 22, 2012, NOH vs IND",
+    "time": "4th Qtr, 0:38.1 remaining",
+    "shot": "Made 2-pointer from 2 ft",
+    "score": "NOH now trails 75-77"
+  },
+  {
+    "x": 258,
+    "y": 215,
+    "type": "miss",
+    "game": "Dec 22, 2012, NOH vs IND",
+    "time": "4th Qtr, 0:6.9 remaining",
+    "shot": "Missed 2-pointer from 17 ft",
+    "score": "NOH trails 75-79"
+  },
+  {
+    "x": 304,
+    "y": 229,
+    "type": "make",
+    "game": "Dec 26, 2012, NOH at ORL",
+    "time": "1st Qtr, 9:59 remaining",
+    "shot": "Made 2-pointer from 19 ft",
+    "score": "NOH now leads 4-2"
+  },
+  {
+    "x": 199,
+    "y": 89,
+    "type": "make",
+    "game": "Dec 26, 2012, NOH at ORL",
+    "time": "1st Qtr, 7:56 remaining",
+    "shot": "Made 2-pointer from 6 ft",
+    "score": "NOH now leads 10-8"
+  },
+  {
+    "x": 340,
+    "y": 222,
+    "type": "miss",
+    "game": "Dec 26, 2012, NOH at ORL",
+    "time": "1st Qtr, 6:16 remaining",
+    "shot": "Missed 2-pointer from 20 ft",
+    "score": "NOH leads 14-10"
+  },
+  {
+    "x": 238,
+    "y": 70,
+    "type": "make",
+    "game": "Dec 26, 2012, NOH at ORL",
+    "time": "1st Qtr, 1:42 remaining",
+    "shot": "Made 2-pointer from 2 ft",
+    "score": "NOH now leads 26-24"
+  },
+  {
+    "x": 246,
+    "y": 64,
+    "type": "miss",
+    "game": "Dec 26, 2012, NOH at ORL",
+    "time": "2nd Qtr, 9:28 remaining",
+    "shot": "Missed 2-pointer from 2 ft",
+    "score": "NOH leads 33-32"
+  },
+  {
+    "x": 238,
+    "y": 72,
+    "type": "miss",
+    "game": "Dec 26, 2012, NOH at ORL",
+    "time": "2nd Qtr, 9:27 remaining",
+    "shot": "Missed 2-pointer from 2 ft",
+    "score": "NOH leads 33-32"
+  },
+  {
+    "x": 238,
+    "y": 69,
+    "type": "miss",
+    "game": "Dec 26, 2012, NOH at ORL",
+    "time": "2nd Qtr, 8:06 remaining",
+    "shot": "Missed 2-pointer from 2 ft",
+    "score": "NOH trails 33-34"
+  },
+  {
+    "x": 178,
+    "y": 225,
+    "type": "miss",
+    "game": "Dec 26, 2012, NOH at ORL",
+    "time": "3rd Qtr, 11:44 remaining",
+    "shot": "Missed 2-pointer from 19 ft",
+    "score": "NOH trails 49-53"
+  },
+  {
+    "x": 61,
+    "y": 91,
+    "type": "miss",
+    "game": "Dec 26, 2012, NOH at ORL",
+    "time": "3rd Qtr, 8:07 remaining",
+    "shot": "Missed 2-pointer from 18 ft",
+    "score": "NOH trails 56-59"
+  },
+  {
+    "x": 235,
+    "y": 56,
+    "type": "make",
+    "game": "Dec 26, 2012, NOH at ORL",
+    "time": "3rd Qtr, 7:45 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "NOH now trails 58-59"
+  },
+  {
+    "x": 238,
+    "y": 61,
+    "type": "make",
+    "game": "Dec 26, 2012, NOH at ORL",
+    "time": "3rd Qtr, 7:22 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "NOH now leads 60-59"
+  },
+  {
+    "x": 246,
+    "y": 69,
+    "type": "make",
+    "game": "Dec 26, 2012, NOH at ORL",
+    "time": "3rd Qtr, 6:24 remaining",
+    "shot": "Made 2-pointer from 2 ft",
+    "score": "NOH now leads 64-59"
+  },
+  {
+    "x": 399,
+    "y": 76,
+    "type": "miss",
+    "game": "Dec 26, 2012, NOH at ORL",
+    "time": "4th Qtr, 4:30 remaining",
+    "shot": "Missed 2-pointer from 16 ft",
+    "score": "NOH leads 91-90"
+  },
+  {
+    "x": 271,
+    "y": 72,
+    "type": "miss",
+    "game": "Dec 26, 2012, NOH at ORL",
+    "time": "4th Qtr, 3:29 remaining",
+    "shot": "Missed 2-pointer from 4 ft",
+    "score": "NOH trails 91-92"
+  },
+  {
+    "x": 240,
+    "y": 75,
+    "type": "make",
+    "game": "Dec 28, 2012, NOH vs TOR",
+    "time": "1st Qtr, 10:46 remaining",
+    "shot": "Made 2-pointer from 3 ft",
+    "score": "NOH now leads 4-0"
+  },
+  {
+    "x": 88,
+    "y": 54,
+    "type": "make",
+    "game": "Dec 28, 2012, NOH vs TOR",
+    "time": "1st Qtr, 7:31 remaining",
+    "shot": "Made 2-pointer from 15 ft",
+    "score": "NOH now leads 10-5"
+  },
+  {
+    "x": 164,
+    "y": 125,
+    "type": "make",
+    "game": "Dec 28, 2012, NOH vs TOR",
+    "time": "2nd Qtr, 9:01 remaining",
+    "shot": "Made 2-pointer from 11 ft",
+    "score": "NOH now leads 31-29"
+  },
+  {
+    "x": 287,
+    "y": 59,
+    "type": "miss",
+    "game": "Dec 28, 2012, NOH vs TOR",
+    "time": "2nd Qtr, 6:46 remaining",
+    "shot": "Missed 2-pointer from 5 ft",
+    "score": "NOH trails 32-35"
+  },
+  {
+    "x": 353,
+    "y": 158,
+    "type": "make",
+    "game": "Dec 28, 2012, NOH vs TOR",
+    "time": "2nd Qtr, 6:27 remaining",
+    "shot": "Made 2-pointer from 16 ft",
+    "score": "NOH now trails 34-35"
+  },
+  {
+    "x": 252,
+    "y": 174,
+    "type": "miss",
+    "game": "Dec 28, 2012, NOH vs TOR",
+    "time": "2nd Qtr, 5:52 remaining",
+    "shot": "Missed 2-pointer from 12 ft",
+    "score": "NOH trails 34-37"
+  },
+  {
+    "x": 290,
+    "y": 138,
+    "type": "miss",
+    "game": "Dec 28, 2012, NOH vs TOR",
+    "time": "2nd Qtr, 5:38 remaining",
+    "shot": "Missed 2-pointer from 10 ft",
+    "score": "NOH trails 34-37"
+  },
+  {
+    "x": 241,
+    "y": 54,
+    "type": "make",
+    "game": "Dec 28, 2012, NOH vs TOR",
+    "time": "3rd Qtr, 11:25 remaining",
+    "shot": "Made 2-pointer from 0 ft",
+    "score": "NOH now trails 44-50"
+  },
+  {
+    "x": 381,
+    "y": 56,
+    "type": "miss",
+    "game": "Dec 28, 2012, NOH vs TOR",
+    "time": "3rd Qtr, 10:31 remaining",
+    "shot": "Missed 2-pointer from 14 ft",
+    "score": "NOH trails 44-50"
+  },
+  {
+    "x": 71,
+    "y": 44,
+    "type": "make",
+    "game": "Dec 28, 2012, NOH vs TOR",
+    "time": "3rd Qtr, 9:43 remaining",
+    "shot": "Made 2-pointer from 17 ft",
+    "score": "NOH now trails 48-50"
+  },
+  {
+    "x": 376,
+    "y": 110,
+    "type": "miss",
+    "game": "Dec 28, 2012, NOH vs TOR",
+    "time": "3rd Qtr, 8:28 remaining",
+    "shot": "Missed 2-pointer from 15 ft",
+    "score": "NOH trails 50-52"
+  },
+  {
+    "x": 252,
+    "y": 51,
+    "type": "make",
+    "game": "Dec 28, 2012, NOH vs TOR",
+    "time": "3rd Qtr, 7:42 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "NOH now trails 52-55"
+  },
+  {
+    "x": 255,
+    "y": 59,
+    "type": "miss",
+    "game": "Dec 28, 2012, NOH vs TOR",
+    "time": "3rd Qtr, 5:51 remaining",
+    "shot": "Missed 2-pointer from 2 ft",
+    "score": "NOH tied 57-57"
+  },
+  {
+    "x": 55,
+    "y": 57,
+    "type": "make",
+    "game": "Dec 28, 2012, NOH vs TOR",
+    "time": "3rd Qtr, 3:58 remaining",
+    "shot": "Made 2-pointer from 19 ft",
+    "score": "NOH now tied 59-59"
+  },
+  {
+    "x": 307,
+    "y": 40,
+    "type": "miss",
+    "game": "Dec 28, 2012, NOH vs TOR",
+    "time": "4th Qtr, 8:38 remaining",
+    "shot": "Missed 2-pointer from 7 ft",
+    "score": "NOH trails 68-77"
+  },
+  {
+    "x": 242,
+    "y": 48,
+    "type": "make",
+    "game": "Dec 28, 2012, NOH vs TOR",
+    "time": "4th Qtr, 6:13 remaining",
+    "shot": "Made 2-pointer from 0 ft",
+    "score": "NOH now trails 70-81"
+  },
+  {
+    "x": 211,
+    "y": 59,
+    "type": "make",
+    "game": "Dec 28, 2012, NOH vs TOR",
+    "time": "4th Qtr, 5:09 remaining",
+    "shot": "Made 2-pointer from 3 ft",
+    "score": "NOH now trails 72-83"
+  },
+  {
+    "x": 258,
+    "y": 62,
+    "type": "make",
+    "game": "Dec 28, 2012, NOH vs TOR",
+    "time": "4th Qtr, 3:10 remaining",
+    "shot": "Made 2-pointer from 2 ft",
+    "score": "NOH now trails 80-85"
+  },
+  {
+    "x": 365,
+    "y": 61,
+    "type": "miss",
+    "game": "Dec 28, 2012, NOH vs TOR",
+    "time": "1st OT, 3:29 remaining",
+    "shot": "Missed 2-pointer from 13 ft",
+    "score": "NOH trails 91-93"
+  },
+  {
+    "x": 128,
+    "y": 62,
+    "type": "miss",
+    "game": "Dec 28, 2012, NOH vs TOR",
+    "time": "1st OT, 1:27 remaining",
+    "shot": "Missed 2-pointer from 11 ft",
+    "score": "NOH trails 93-98"
+  },
+  {
+    "x": 274,
+    "y": 244,
+    "type": "miss",
+    "game": "Dec 29, 2012, NOH at CHA",
+    "time": "1st Qtr, 8:50 remaining",
+    "shot": "Missed 2-pointer from 20 ft",
+    "score": "NOH trails 2-6"
+  },
+  {
+    "x": 266,
+    "y": 114,
+    "type": "make",
+    "game": "Dec 29, 2012, NOH at CHA",
+    "time": "1st Qtr, 7:47 remaining",
+    "shot": "Made 2-pointer from 7 ft",
+    "score": "NOH now leads 9-8"
+  },
+  {
+    "x": 224,
+    "y": 222,
+    "type": "make",
+    "game": "Dec 29, 2012, NOH at CHA",
+    "time": "1st Qtr, 7:19 remaining",
+    "shot": "Made 2-pointer from 17 ft",
+    "score": "NOH now leads 11-10"
+  },
+  {
+    "x": 210,
+    "y": 102,
+    "type": "miss",
+    "game": "Dec 29, 2012, NOH at CHA",
+    "time": "1st Qtr, 4:29 remaining",
+    "shot": "Missed 2-pointer from 6 ft",
+    "score": "NOH trails 13-14"
+  },
+  {
+    "x": 235,
+    "y": 51,
+    "type": "miss",
+    "game": "Dec 29, 2012, NOH at CHA",
+    "time": "2nd Qtr, 9:48 remaining",
+    "shot": "Missed 2-pointer from 1 ft",
+    "score": "NOH trails 22-33"
+  },
+  {
+    "x": 242,
+    "y": 50,
+    "type": "miss",
+    "game": "Dec 29, 2012, NOH at CHA",
+    "time": "2nd Qtr, 8:54 remaining",
+    "shot": "Missed 2-pointer from 0 ft",
+    "score": "NOH trails 24-35"
+  },
+  {
+    "x": 247,
+    "y": 51,
+    "type": "make",
+    "game": "Dec 29, 2012, NOH at CHA",
+    "time": "2nd Qtr, 2:31 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "NOH now trails 35-54"
+  },
+  {
+    "x": 247,
+    "y": 56,
+    "type": "miss",
+    "game": "Dec 29, 2012, NOH at CHA",
+    "time": "3rd Qtr, 10:56 remaining",
+    "shot": "Missed 2-pointer from 1 ft",
+    "score": "NOH trails 40-57"
+  },
+  {
+    "x": 225,
+    "y": 54,
+    "type": "make",
+    "game": "Dec 29, 2012, NOH at CHA",
+    "time": "3rd Qtr, 3:09 remaining",
+    "shot": "Made 2-pointer from 2 ft",
+    "score": "NOH now tied 65-65"
+  },
+  {
+    "x": 233,
+    "y": 64,
+    "type": "miss",
+    "game": "Dec 29, 2012, NOH at CHA",
+    "time": "4th Qtr, 1:48 remaining",
+    "shot": "Missed 2-pointer from 2 ft",
+    "score": "NOH leads 89-86"
+  },
+  {
+    "x": 277,
+    "y": 206,
+    "type": "miss",
+    "game": "Jan 1, 2013, NOH vs ATL",
+    "time": "1st Qtr, 9:25 remaining",
+    "shot": "Missed 2-pointer from 16 ft",
+    "score": "NOH leads 4-2"
+  },
+  {
+    "x": 35,
+    "y": 50,
+    "type": "miss",
+    "game": "Jan 1, 2013, NOH vs ATL",
+    "time": "1st Qtr, 7:31 remaining",
+    "shot": "Missed 2-pointer from 21 ft",
+    "score": "NOH leads 9-6"
+  },
+  {
+    "x": 315,
+    "y": 65,
+    "type": "miss",
+    "game": "Jan 1, 2013, NOH vs ATL",
+    "time": "2nd Qtr, 7:13 remaining",
+    "shot": "Missed 2-pointer from 8 ft",
+    "score": "NOH leads 31-28"
+  },
+  {
+    "x": 310,
+    "y": 135,
+    "type": "make",
+    "game": "Jan 1, 2013, NOH vs ATL",
+    "time": "2nd Qtr, 4:53 remaining",
+    "shot": "Made 2-pointer from 11 ft",
+    "score": "NOH now leads 35-32"
+  },
+  {
+    "x": 240,
+    "y": 56,
+    "type": "make",
+    "game": "Jan 1, 2013, NOH vs ATL",
+    "time": "2nd Qtr, 0:11.4 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "NOH now leads 50-44"
+  },
+  {
+    "x": 236,
+    "y": 51,
+    "type": "make",
+    "game": "Jan 1, 2013, NOH vs ATL",
+    "time": "3rd Qtr, 11:08 remaining",
+    "shot": "Made 2-pointer from 0 ft",
+    "score": "NOH now leads 53-44"
+  },
+  {
+    "x": 337,
+    "y": 125,
+    "type": "miss",
+    "game": "Jan 1, 2013, NOH vs ATL",
+    "time": "3rd Qtr, 10:26 remaining",
+    "shot": "Missed 2-pointer from 12 ft",
+    "score": "NOH leads 53-47"
+  },
+  {
+    "x": 261,
+    "y": 64,
+    "type": "miss",
+    "game": "Jan 1, 2013, NOH vs ATL",
+    "time": "3rd Qtr, 5:09 remaining",
+    "shot": "Missed 2-pointer from 3 ft",
+    "score": "NOH trails 57-59"
+  },
+  {
+    "x": 227,
+    "y": 61,
+    "type": "make",
+    "game": "Jan 1, 2013, NOH vs ATL",
+    "time": "3rd Qtr, 3:31 remaining",
+    "shot": "Made 2-pointer from 2 ft",
+    "score": "NOH now leads 62-61"
+  },
+  {
+    "x": 249,
+    "y": 255,
+    "type": "make",
+    "game": "Jan 2, 2013, NOH at HOU",
+    "time": "1st Qtr, 7:12 remaining",
+    "shot": "Made 2-pointer from 21 ft",
+    "score": "NOH now trails 8-10"
+  },
+  {
+    "x": 222,
+    "y": 81,
+    "type": "make",
+    "game": "Jan 2, 2013, NOH at HOU",
+    "time": "1st Qtr, 6:45 remaining",
+    "shot": "Made 2-pointer from 4 ft",
+    "score": "NOH now tied 10-10"
+  },
+  {
+    "x": 394,
+    "y": 65,
+    "type": "miss",
+    "game": "Jan 2, 2013, NOH at HOU",
+    "time": "1st Qtr, 4:42 remaining",
+    "shot": "Missed 2-pointer from 15 ft",
+    "score": "NOH trails 11-13"
+  },
+  {
+    "x": 240,
+    "y": 67,
+    "type": "make",
+    "game": "Jan 2, 2013, NOH at HOU",
+    "time": "2nd Qtr, 7:08 remaining",
+    "shot": "Made 2-pointer from 2 ft",
+    "score": "NOH now tied 32-32"
+  },
+  {
+    "x": 170,
+    "y": 204,
+    "type": "miss",
+    "game": "Jan 2, 2013, NOH at HOU",
+    "time": "2nd Qtr, 5:17 remaining",
+    "shot": "Missed 2-pointer from 17 ft",
+    "score": "NOH trails 33-38"
+  },
+  {
+    "x": 233,
+    "y": 117,
+    "type": "miss",
+    "game": "Jan 2, 2013, NOH at HOU",
+    "time": "3rd Qtr, 10:23 remaining",
+    "shot": "Missed 2-pointer from 7 ft",
+    "score": "NOH trails 48-52"
+  },
+  {
+    "x": 214,
+    "y": 53,
+    "type": "miss",
+    "game": "Jan 2, 2013, NOH at HOU",
+    "time": "3rd Qtr, 8:54 remaining",
+    "shot": "Missed 2-pointer from 3 ft",
+    "score": "NOH trails 48-56"
+  },
+  {
+    "x": 345,
+    "y": 152,
+    "type": "miss",
+    "game": "Jan 2, 2013, NOH at HOU",
+    "time": "3rd Qtr, 7:36 remaining",
+    "shot": "Missed 2-pointer from 15 ft",
+    "score": "NOH trails 48-56"
+  },
+  {
+    "x": 236,
+    "y": 56,
+    "type": "miss",
+    "game": "Jan 2, 2013, NOH at HOU",
+    "time": "3rd Qtr, 5:11 remaining",
+    "shot": "Missed 2-pointer from 1 ft",
+    "score": "NOH trails 52-62"
+  },
+  {
+    "x": 229,
+    "y": 50,
+    "type": "miss",
+    "game": "Jan 2, 2013, NOH at HOU",
+    "time": "4th Qtr, 2:59 remaining",
+    "shot": "Missed 2-pointer from 1 ft",
+    "score": "NOH trails 88-94"
+  },
+  {
+    "x": 214,
+    "y": 53,
+    "type": "make",
+    "game": "Jan 2, 2013, NOH at HOU",
+    "time": "4th Qtr, 0:39.1 remaining",
+    "shot": "Made 2-pointer from 3 ft",
+    "score": "NOH now trails 90-101"
+  },
+  {
+    "x": 91,
+    "y": 53,
+    "type": "make",
+    "game": "Jan 5, 2013, NOH at DAL",
+    "time": "1st Qtr, 11:41 remaining",
+    "shot": "Made 2-pointer from 15 ft",
+    "score": "NOH now leads 2-0"
+  },
+  {
+    "x": 90,
+    "y": 81,
+    "type": "miss",
+    "game": "Jan 5, 2013, NOH at DAL",
+    "time": "3rd Qtr, 8:56 remaining",
+    "shot": "Missed 2-pointer from 15 ft",
+    "score": "NOH trails 44-55"
+  },
+  {
+    "x": 399,
+    "y": 65,
+    "type": "miss",
+    "game": "Jan 5, 2013, NOH at DAL",
+    "time": "3rd Qtr, 7:31 remaining",
+    "shot": "Missed 2-pointer from 16 ft",
+    "score": "NOH trails 47-56"
+  },
+  {
+    "x": 74,
+    "y": 50,
+    "type": "miss",
+    "game": "Jan 7, 2013, NOH vs SAS",
+    "time": "1st Qtr, 11:04 remaining",
+    "shot": "Missed 2-pointer from 17 ft",
+    "score": "NOH tied 0-0"
+  },
+  {
+    "x": 242,
+    "y": 69,
+    "type": "miss",
+    "game": "Jan 7, 2013, NOH vs SAS",
+    "time": "1st Qtr, 7:17 remaining",
+    "shot": "Missed 2-pointer from 2 ft",
+    "score": "NOH tied 6-6"
+  },
+  {
+    "x": 296,
+    "y": 132,
+    "type": "make",
+    "game": "Jan 7, 2013, NOH vs SAS",
+    "time": "1st Qtr, 6:51 remaining",
+    "shot": "Made 2-pointer from 10 ft",
+    "score": "NOH now tied 8-8"
+  },
+  {
+    "x": 261,
+    "y": 54,
+    "type": "make",
+    "game": "Jan 7, 2013, NOH vs SAS",
+    "time": "1st Qtr, 5:20 remaining",
+    "shot": "Made 2-pointer from 2 ft",
+    "score": "NOH now leads 14-10"
+  },
+  {
+    "x": 219,
+    "y": 51,
+    "type": "make",
+    "game": "Jan 7, 2013, NOH vs SAS",
+    "time": "2nd Qtr, 7:12 remaining",
+    "shot": "Made 2-pointer from 2 ft",
+    "score": "NOH now leads 34-25"
+  },
+  {
+    "x": 241,
+    "y": 51,
+    "type": "make",
+    "game": "Jan 7, 2013, NOH vs SAS",
+    "time": "2nd Qtr, 4:38 remaining",
+    "shot": "Made 2-pointer from 0 ft",
+    "score": "NOH now leads 38-31"
+  },
+  {
+    "x": 255,
+    "y": 69,
+    "type": "make",
+    "game": "Jan 7, 2013, NOH vs SAS",
+    "time": "2nd Qtr, 4:10 remaining",
+    "shot": "Made 2-pointer from 2 ft",
+    "score": "NOH now leads 40-33"
+  },
+  {
+    "x": 313,
+    "y": 171,
+    "type": "miss",
+    "game": "Jan 7, 2013, NOH vs SAS",
+    "time": "2nd Qtr, 1:01 remaining",
+    "shot": "Missed 2-pointer from 14 ft",
+    "score": "NOH leads 47-39"
+  },
+  {
+    "x": 217,
+    "y": 65,
+    "type": "make",
+    "game": "Jan 7, 2013, NOH vs SAS",
+    "time": "3rd Qtr, 10:13 remaining",
+    "shot": "Made 2-pointer from 3 ft",
+    "score": "NOH now leads 51-45"
+  },
+  {
+    "x": 47,
+    "y": 102,
+    "type": "miss",
+    "game": "Jan 7, 2013, NOH vs SAS",
+    "time": "3rd Qtr, 6:07 remaining",
+    "shot": "Missed 2-pointer from 20 ft",
+    "score": "NOH leads 57-51"
+  },
+  {
+    "x": 241,
+    "y": 47,
+    "type": "make",
+    "game": "Jan 7, 2013, NOH vs SAS",
+    "time": "4th Qtr, 4:40 remaining",
+    "shot": "Made 2-pointer from 0 ft",
+    "score": "NOH now leads 86-77"
+  },
+  {
+    "x": 364,
+    "y": 136,
+    "type": "miss",
+    "game": "Jan 7, 2013, NOH vs SAS",
+    "time": "4th Qtr, 2:41 remaining",
+    "shot": "Missed 2-pointer from 15 ft",
+    "score": "NOH leads 88-79"
+  },
+  {
+    "x": 240,
+    "y": 53,
+    "type": "make",
+    "game": "Jan 7, 2013, NOH vs SAS",
+    "time": "4th Qtr, 1:26 remaining",
+    "shot": "Made 2-pointer from 0 ft",
+    "score": "NOH now leads 94-83"
+  },
+  {
+    "x": 320,
+    "y": 250,
+    "type": "miss",
+    "game": "Jan 9, 2013, NOH vs HOU",
+    "time": "1st Qtr, 7:53 remaining",
+    "shot": "Missed 2-pointer from 22 ft",
+    "score": "NOH tied 8-8"
+  },
+  {
+    "x": 241,
+    "y": 51,
+    "type": "make",
+    "game": "Jan 9, 2013, NOH vs HOU",
+    "time": "1st Qtr, 6:18 remaining",
+    "shot": "Made 2-pointer from 0 ft",
+    "score": "NOH now leads 14-10"
+  },
+  {
+    "x": 221,
+    "y": 65,
+    "type": "make",
+    "game": "Jan 9, 2013, NOH vs HOU",
+    "time": "2nd Qtr, 4:22 remaining",
+    "shot": "Made 2-pointer from 2 ft",
+    "score": "NOH now trails 31-32"
+  },
+  {
+    "x": 208,
+    "y": 72,
+    "type": "miss",
+    "game": "Jan 9, 2013, NOH vs HOU",
+    "time": "3rd Qtr, 9:48 remaining",
+    "shot": "Missed 2-pointer from 4 ft",
+    "score": "NOH trails 38-42"
+  },
+  {
+    "x": 244,
+    "y": 50,
+    "type": "make",
+    "game": "Jan 9, 2013, NOH vs HOU",
+    "time": "3rd Qtr, 7:47 remaining",
+    "shot": "Made 2-pointer from 0 ft",
+    "score": "NOH now trails 43-49"
+  },
+  {
+    "x": 211,
+    "y": 54,
+    "type": "miss",
+    "game": "Jan 11, 2013, NOH vs MIN",
+    "time": "1st Qtr, 6:46 remaining",
+    "shot": "Missed 2-pointer from 3 ft",
+    "score": "NOH trails 9-15"
+  },
+  {
+    "x": 225,
+    "y": 59,
+    "type": "make",
+    "game": "Jan 11, 2013, NOH vs MIN",
+    "time": "3rd Qtr, 11:15 remaining",
+    "shot": "Made 2-pointer from 2 ft",
+    "score": "NOH now trails 44-46"
+  },
+  {
+    "x": 252,
+    "y": 72,
+    "type": "make",
+    "game": "Jan 11, 2013, NOH vs MIN",
+    "time": "3rd Qtr, 6:36 remaining",
+    "shot": "Made 2-pointer from 3 ft",
+    "score": "NOH now tied 50-50"
+  },
+  {
+    "x": 255,
+    "y": 53,
+    "type": "make",
+    "game": "Jan 11, 2013, NOH vs MIN",
+    "time": "3rd Qtr, 4:13 remaining",
+    "shot": "Made 2-pointer from 2 ft",
+    "score": "NOH now leads 57-56"
+  },
+  {
+    "x": 184,
+    "y": 253,
+    "type": "miss",
+    "game": "Jan 11, 2013, NOH vs MIN",
+    "time": "3rd Qtr, 3:31 remaining",
+    "shot": "Missed 2-pointer from 21 ft",
+    "score": "NOH leads 57-56"
+  },
+  {
+    "x": 224,
+    "y": 61,
+    "type": "make",
+    "game": "Jan 11, 2013, NOH vs MIN",
+    "time": "3rd Qtr, 3:26 remaining",
+    "shot": "Made 2-pointer from 2 ft",
+    "score": "NOH now leads 59-56"
+  },
+  {
+    "x": 161,
+    "y": 236,
+    "type": "miss",
+    "game": "Jan 13, 2013, NOH at NYK",
+    "time": "1st Qtr, 11:29 remaining",
+    "shot": "Missed 2-pointer from 20 ft",
+    "score": "NOH tied 0-0"
+  },
+  {
+    "x": 236,
+    "y": 59,
+    "type": "make",
+    "game": "Jan 13, 2013, NOH at NYK",
+    "time": "1st Qtr, 10:57 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "NOH now leads 4-2"
+  },
+  {
+    "x": 361,
+    "y": 33,
+    "type": "make",
+    "game": "Jan 13, 2013, NOH at NYK",
+    "time": "1st Qtr, 9:23 remaining",
+    "shot": "Made 2-pointer from 12 ft",
+    "score": "NOH now leads 9-7"
+  },
+  {
+    "x": 348,
+    "y": 53,
+    "type": "miss",
+    "game": "Jan 13, 2013, NOH at NYK",
+    "time": "1st Qtr, 7:15 remaining",
+    "shot": "Missed 2-pointer from 11 ft",
+    "score": "NOH leads 16-12"
+  },
+  {
+    "x": 247,
+    "y": 54,
+    "type": "make",
+    "game": "Jan 13, 2013, NOH at NYK",
+    "time": "1st Qtr, 6:02 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "NOH now leads 20-15"
+  },
+  {
+    "x": 235,
+    "y": 50,
+    "type": "make",
+    "game": "Jan 13, 2013, NOH at NYK",
+    "time": "2nd Qtr, 7:25 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "NOH now leads 33-28"
+  },
+  {
+    "x": 235,
+    "y": 69,
+    "type": "miss",
+    "game": "Jan 13, 2013, NOH at NYK",
+    "time": "2nd Qtr, 1:47 remaining",
+    "shot": "Missed 2-pointer from 2 ft",
+    "score": "NOH trails 41-45"
+  },
+  {
+    "x": 236,
+    "y": 72,
+    "type": "miss",
+    "game": "Jan 13, 2013, NOH at NYK",
+    "time": "2nd Qtr, 0:52.8 remaining",
+    "shot": "Missed 2-pointer from 2 ft",
+    "score": "NOH trails 41-48"
+  },
+  {
+    "x": 178,
+    "y": 86,
+    "type": "miss",
+    "game": "Jan 13, 2013, NOH at NYK",
+    "time": "3rd Qtr, 11:36 remaining",
+    "shot": "Missed 2-pointer from 7 ft",
+    "score": "NOH trails 42-49"
+  },
+  {
+    "x": 252,
+    "y": 56,
+    "type": "make",
+    "game": "Jan 13, 2013, NOH at NYK",
+    "time": "3rd Qtr, 11:10 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "NOH now trails 44-51"
+  },
+  {
+    "x": 192,
+    "y": 154,
+    "type": "miss",
+    "game": "Jan 13, 2013, NOH at NYK",
+    "time": "4th Qtr, 10:37 remaining",
+    "shot": "Missed 2-pointer from 11 ft",
+    "score": "NOH trails 68-76"
+  },
+  {
+    "x": 90,
+    "y": 7,
+    "type": "miss",
+    "game": "Jan 13, 2013, NOH at NYK",
+    "time": "4th Qtr, 4:53 remaining",
+    "shot": "Missed 2-pointer from 16 ft",
+    "score": "NOH trails 75-90"
+  },
+  {
+    "x": 252,
+    "y": 50,
+    "type": "make",
+    "game": "Jan 13, 2013, NOH at NYK",
+    "time": "4th Qtr, 1:54 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "NOH now trails 83-96"
+  },
+  {
+    "x": 305,
+    "y": 59,
+    "type": "miss",
+    "game": "Jan 15, 2013, NOH at PHI",
+    "time": "1st Qtr, 11:02 remaining",
+    "shot": "Missed 2-pointer from 7 ft",
+    "score": "NOH leads 2-0"
+  },
+  {
+    "x": 263,
+    "y": 54,
+    "type": "make",
+    "game": "Jan 15, 2013, NOH at PHI",
+    "time": "1st Qtr, 9:28 remaining",
+    "shot": "Made 2-pointer from 2 ft",
+    "score": "NOH now leads 8-6"
+  },
+  {
+    "x": 240,
+    "y": 56,
+    "type": "make",
+    "game": "Jan 15, 2013, NOH at PHI",
+    "time": "1st Qtr, 7:18 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "NOH now leads 15-9"
+  },
+  {
+    "x": 249,
+    "y": 234,
+    "type": "make",
+    "game": "Jan 15, 2013, NOH at PHI",
+    "time": "1st Qtr, 6:19 remaining",
+    "shot": "Made 2-pointer from 18 ft",
+    "score": "NOH now leads 19-11"
+  },
+  {
+    "x": 221,
+    "y": 244,
+    "type": "make",
+    "game": "Jan 15, 2013, NOH at PHI",
+    "time": "2nd Qtr, 5:15 remaining",
+    "shot": "Made 2-pointer from 19 ft",
+    "score": "NOH now leads 48-35"
+  },
+  {
+    "x": 239,
+    "y": 88,
+    "type": "miss",
+    "game": "Jan 15, 2013, NOH at PHI",
+    "time": "2nd Qtr, 0:0.3 remaining",
+    "shot": "Missed 2-pointer from 4 ft",
+    "score": "NOH leads 53-47"
+  },
+  {
+    "x": 236,
+    "y": 47,
+    "type": "make",
+    "game": "Jan 16, 2013, NOH at BOS",
+    "time": "1st Qtr, 2:25 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "NOH now trails 12-21"
+  },
+  {
+    "x": 343,
+    "y": 185,
+    "type": "miss",
+    "game": "Jan 16, 2013, NOH at BOS",
+    "time": "3rd Qtr, 11:44 remaining",
+    "shot": "Missed 2-pointer from 17 ft",
+    "score": "NOH leads 44-43"
+  },
+  {
+    "x": 257,
+    "y": 48,
+    "type": "make",
+    "game": "Jan 16, 2013, NOH at BOS",
+    "time": "3rd Qtr, 11:32 remaining",
+    "shot": "Made 2-pointer from 2 ft",
+    "score": "NOH now leads 46-43"
+  },
+  {
+    "x": 247,
+    "y": 42,
+    "type": "make",
+    "game": "Jan 16, 2013, NOH at BOS",
+    "time": "3rd Qtr, 8:53 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "NOH now leads 52-43"
+  },
+  {
+    "x": 232,
+    "y": 110,
+    "type": "make",
+    "game": "Jan 16, 2013, NOH at BOS",
+    "time": "3rd Qtr, 2:56 remaining",
+    "shot": "Made 2-pointer from 6 ft",
+    "score": "NOH now leads 63-56"
+  },
+  {
+    "x": 307,
+    "y": 165,
+    "type": "make",
+    "game": "Jan 19, 2013, NOH vs GSW",
+    "time": "1st Qtr, 11:06 remaining",
+    "shot": "Made 2-pointer from 13 ft",
+    "score": "NOH now tied 2-2"
+  },
+  {
+    "x": 263,
+    "y": 185,
+    "type": "make",
+    "game": "Jan 19, 2013, NOH vs GSW",
+    "time": "1st Qtr, 10:07 remaining",
+    "shot": "Made 2-pointer from 14 ft",
+    "score": "NOH now tied 4-4"
+  },
+  {
+    "x": 345,
+    "y": 102,
+    "type": "miss",
+    "game": "Jan 19, 2013, NOH vs GSW",
+    "time": "1st Qtr, 7:38 remaining",
+    "shot": "Missed 2-pointer from 12 ft",
+    "score": "NOH trails 8-10"
+  },
+  {
+    "x": 230,
+    "y": 86,
+    "type": "miss",
+    "game": "Jan 19, 2013, NOH vs GSW",
+    "time": "1st Qtr, 6:19 remaining",
+    "shot": "Missed 2-pointer from 4 ft",
+    "score": "NOH trails 11-15"
+  },
+  {
+    "x": 199,
+    "y": 83,
+    "type": "make",
+    "game": "Jan 19, 2013, NOH vs GSW",
+    "time": "1st Qtr, 4:42 remaining",
+    "shot": "Made 2-pointer from 5 ft",
+    "score": "NOH now leads 18-17"
+  },
+  {
+    "x": 202,
+    "y": 261,
+    "type": "miss",
+    "game": "Jan 19, 2013, NOH vs GSW",
+    "time": "1st Qtr, 4:17 remaining",
+    "shot": "Missed 2-pointer from 21 ft",
+    "score": "NOH trails 18-19"
+  },
+  {
+    "x": 249,
+    "y": 76,
+    "type": "make",
+    "game": "Jan 19, 2013, NOH vs GSW",
+    "time": "1st Qtr, 3:38 remaining",
+    "shot": "Made 2-pointer from 3 ft",
+    "score": "NOH now leads 20-19"
+  },
+  {
+    "x": 214,
+    "y": 64,
+    "type": "make",
+    "game": "Jan 19, 2013, NOH vs GSW",
+    "time": "2nd Qtr, 5:13 remaining",
+    "shot": "Made 2-pointer from 3 ft",
+    "score": "NOH now trails 42-52"
+  },
+  {
+    "x": 242,
+    "y": 54,
+    "type": "make",
+    "game": "Jan 19, 2013, NOH vs GSW",
+    "time": "2nd Qtr, 2:44 remaining",
+    "shot": "Made 2-pointer from 0 ft",
+    "score": "NOH now trails 49-60"
+  },
+  {
+    "x": 244,
+    "y": 54,
+    "type": "make",
+    "game": "Jan 19, 2013, NOH vs GSW",
+    "time": "2nd Qtr, 2:10 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "NOH now trails 51-60"
+  },
+  {
+    "x": 310,
+    "y": 80,
+    "type": "make",
+    "game": "Jan 19, 2013, NOH vs GSW",
+    "time": "3rd Qtr, 10:19 remaining",
+    "shot": "Made 2-pointer from 8 ft",
+    "score": "NOH now trails 61-67"
+  },
+  {
+    "x": 235,
+    "y": 62,
+    "type": "make",
+    "game": "Jan 19, 2013, NOH vs GSW",
+    "time": "3rd Qtr, 3:14 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "NOH now trails 79-81"
+  },
+  {
+    "x": 238,
+    "y": 64,
+    "type": "make",
+    "game": "Jan 21, 2013, NOH vs SAC",
+    "time": "1st Qtr, 10:23 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "NOH now trails 2-4"
+  },
+  {
+    "x": 321,
+    "y": 237,
+    "type": "miss",
+    "game": "Jan 21, 2013, NOH vs SAC",
+    "time": "1st Qtr, 8:51 remaining",
+    "shot": "Missed 2-pointer from 20 ft",
+    "score": "NOH trails 6-8"
+  },
+  {
+    "x": 230,
+    "y": 57,
+    "type": "make",
+    "game": "Jan 21, 2013, NOH vs SAC",
+    "time": "1st Qtr, 7:08 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "NOH now leads 13-10"
+  },
+  {
+    "x": 277,
+    "y": 149,
+    "type": "make",
+    "game": "Jan 21, 2013, NOH vs SAC",
+    "time": "1st Qtr, 3:30 remaining",
+    "shot": "Made 2-pointer from 11 ft",
+    "score": "NOH now leads 24-14"
+  },
+  {
+    "x": 99,
+    "y": 91,
+    "type": "miss",
+    "game": "Jan 21, 2013, NOH vs SAC",
+    "time": "1st Qtr, 2:42 remaining",
+    "shot": "Missed 2-pointer from 15 ft",
+    "score": "NOH leads 25-14"
+  },
+  {
+    "x": 235,
+    "y": 57,
+    "type": "make",
+    "game": "Jan 21, 2013, NOH vs SAC",
+    "time": "2nd Qtr, 4:03 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "NOH now leads 49-34"
+  },
+  {
+    "x": 229,
+    "y": 65,
+    "type": "make",
+    "game": "Jan 21, 2013, NOH vs SAC",
+    "time": "2nd Qtr, 2:44 remaining",
+    "shot": "Made 2-pointer from 2 ft",
+    "score": "NOH now leads 57-36"
+  },
+  {
+    "x": 240,
+    "y": 201,
+    "type": "make",
+    "game": "Jan 23, 2013, NOH at SAS",
+    "time": "1st Qtr, 10:17 remaining",
+    "shot": "Made 2-pointer from 15 ft",
+    "score": "NOH now leads 8-7"
+  },
+  {
+    "x": 240,
+    "y": 53,
+    "type": "make",
+    "game": "Jan 23, 2013, NOH at SAS",
+    "time": "1st Qtr, 9:24 remaining",
+    "shot": "Made 2-pointer from 0 ft",
+    "score": "NOH now leads 12-9"
+  },
+  {
+    "x": 235,
+    "y": 223,
+    "type": "make",
+    "game": "Jan 23, 2013, NOH at SAS",
+    "time": "2nd Qtr, 3:26 remaining",
+    "shot": "Made 2-pointer from 17 ft",
+    "score": "NOH now leads 57-49"
+  },
+  {
+    "x": 221,
+    "y": 37,
+    "type": "miss",
+    "game": "Jan 23, 2013, NOH at SAS",
+    "time": "2nd Qtr, 0:43.9 remaining",
+    "shot": "Missed 2-pointer from 2 ft",
+    "score": "NOH leads 62-58"
+  },
+  {
+    "x": 283,
+    "y": 155,
+    "type": "miss",
+    "game": "Jan 23, 2013, NOH at SAS",
+    "time": "3rd Qtr, 9:20 remaining",
+    "shot": "Missed 2-pointer from 11 ft",
+    "score": "NOH leads 66-64"
+  },
+  {
+    "x": 161,
+    "y": 83,
+    "type": "miss",
+    "game": "Jan 23, 2013, NOH at SAS",
+    "time": "3rd Qtr, 6:44 remaining",
+    "shot": "Missed 2-pointer from 9 ft",
+    "score": "NOH tied 70-70"
+  },
+  {
+    "x": 176,
+    "y": 62,
+    "type": "miss",
+    "game": "Jan 23, 2013, NOH at SAS",
+    "time": "4th Qtr, 6:24 remaining",
+    "shot": "Missed 2-pointer from 7 ft",
+    "score": "NOH tied 83-83"
+  },
+  {
+    "x": 250,
+    "y": 185,
+    "type": "make",
+    "game": "Jan 25, 2013, NOH vs HOU",
+    "time": "1st Qtr, 11:20 remaining",
+    "shot": "Made 2-pointer from 14 ft",
+    "score": "NOH now leads 2-0"
+  },
+  {
+    "x": 240,
+    "y": 274,
+    "type": "miss",
+    "game": "Jan 25, 2013, NOH vs HOU",
+    "time": "1st Qtr, 5:48 remaining",
+    "shot": "Missed 2-pointer from 22 ft",
+    "score": "NOH tied 11-11"
+  },
+  {
+    "x": 261,
+    "y": 53,
+    "type": "make",
+    "game": "Jan 25, 2013, NOH vs HOU",
+    "time": "2nd Qtr, 3:34 remaining",
+    "shot": "Made 2-pointer from 2 ft",
+    "score": "NOH now trails 34-38"
+  },
+  {
+    "x": 235,
+    "y": 54,
+    "type": "make",
+    "game": "Jan 25, 2013, NOH vs HOU",
+    "time": "2nd Qtr, 3:06 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "NOH now trails 36-38"
+  },
+  {
+    "x": 227,
+    "y": 64,
+    "type": "miss",
+    "game": "Jan 25, 2013, NOH vs HOU",
+    "time": "4th Qtr, 4:29 remaining",
+    "shot": "Missed 2-pointer from 2 ft",
+    "score": "NOH trails 73-85"
+  },
+  {
+    "x": 241,
+    "y": 75,
+    "type": "make",
+    "game": "Jan 25, 2013, NOH vs HOU",
+    "time": "4th Qtr, 1:16 remaining",
+    "shot": "Made 2-pointer from 3 ft",
+    "score": "NOH now trails 82-96"
+  },
+  {
+    "x": 240,
+    "y": 240,
+    "type": "miss",
+    "game": "Jan 25, 2013, NOH vs HOU",
+    "time": "4th Qtr, 0:45.9 remaining",
+    "shot": "Missed 2-pointer from 19 ft",
+    "score": "NOH trails 82-98"
+  },
+  {
+    "x": 184,
+    "y": 168,
+    "type": "make",
+    "game": "Jan 27, 2013, NOH at MEM",
+    "time": "1st Qtr, 11:11 remaining",
+    "shot": "Made 2-pointer from 13 ft",
+    "score": "NOH now tied 2-2"
+  },
+  {
+    "x": 77,
+    "y": 138,
+    "type": "miss",
+    "game": "Jan 27, 2013, NOH at MEM",
+    "time": "2nd Qtr, 7:36 remaining",
+    "shot": "Missed 2-pointer from 19 ft",
+    "score": "NOH leads 32-29"
+  },
+  {
+    "x": 246,
+    "y": 215,
+    "type": "miss",
+    "game": "Jan 27, 2013, NOH at MEM",
+    "time": "2nd Qtr, 3:38 remaining",
+    "shot": "Missed 2-pointer from 17 ft",
+    "score": "NOH trails 34-39"
+  },
+  {
+    "x": 269,
+    "y": 50,
+    "type": "make",
+    "game": "Jan 27, 2013, NOH at MEM",
+    "time": "3rd Qtr, 11:25 remaining",
+    "shot": "Made 2-pointer from 3 ft",
+    "score": "NOH now tied 45-45"
+  },
+  {
+    "x": 219,
+    "y": 92,
+    "type": "make",
+    "game": "Jan 27, 2013, NOH at MEM",
+    "time": "3rd Qtr, 7:18 remaining",
+    "shot": "Made 2-pointer from 5 ft",
+    "score": "NOH now leads 53-51"
+  },
+  {
+    "x": 294,
+    "y": 233,
+    "type": "make",
+    "game": "Jan 27, 2013, NOH at MEM",
+    "time": "3rd Qtr, 5:59 remaining",
+    "shot": "Made 2-pointer from 19 ft",
+    "score": "NOH now leads 55-53"
+  },
+  {
+    "x": 249,
+    "y": 56,
+    "type": "make",
+    "game": "Jan 27, 2013, NOH at MEM",
+    "time": "3rd Qtr, 4:31 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "NOH now trails 57-58"
+  },
+  {
+    "x": 222,
+    "y": 61,
+    "type": "make",
+    "game": "Jan 29, 2013, NOH at LAL",
+    "time": "1st Qtr, 11:05 remaining",
+    "shot": "Made 2-pointer from 2 ft",
+    "score": "NOH now tied 2-2"
+  },
+  {
+    "x": 225,
+    "y": 78,
+    "type": "make",
+    "game": "Jan 29, 2013, NOH at LAL",
+    "time": "1st Qtr, 6:32 remaining",
+    "shot": "Made 2-pointer from 3 ft",
+    "score": "NOH now leads 16-12"
+  },
+  {
+    "x": 132,
+    "y": 114,
+    "type": "make",
+    "game": "Jan 29, 2013, NOH at LAL",
+    "time": "1st Qtr, 3:54 remaining",
+    "shot": "Made 2-pointer from 13 ft",
+    "score": "NOH now leads 21-18"
+  },
+  {
+    "x": 320,
+    "y": 207,
+    "type": "miss",
+    "game": "Jan 29, 2013, NOH at LAL",
+    "time": "1st Qtr, 2:31 remaining",
+    "shot": "Missed 2-pointer from 18 ft",
+    "score": "NOH leads 24-21"
+  },
+  {
+    "x": 291,
+    "y": 240,
+    "type": "make",
+    "game": "Jan 29, 2013, NOH at LAL",
+    "time": "2nd Qtr, 4:55 remaining",
+    "shot": "Made 2-pointer from 20 ft",
+    "score": "NOH now trails 32-37"
+  },
+  {
+    "x": 210,
+    "y": 162,
+    "type": "miss",
+    "game": "Jan 29, 2013, NOH at LAL",
+    "time": "2nd Qtr, 4:24 remaining",
+    "shot": "Missed 2-pointer from 12 ft",
+    "score": "NOH trails 32-40"
+  },
+  {
+    "x": 238,
+    "y": 73,
+    "type": "miss",
+    "game": "Jan 29, 2013, NOH at LAL",
+    "time": "3rd Qtr, 11:24 remaining",
+    "shot": "Missed 2-pointer from 2 ft",
+    "score": "NOH trails 42-57"
+  },
+  {
+    "x": 145,
+    "y": 226,
+    "type": "miss",
+    "game": "Jan 29, 2013, NOH at LAL",
+    "time": "3rd Qtr, 9:09 remaining",
+    "shot": "Missed 2-pointer from 20 ft",
+    "score": "NOH trails 48-63"
+  },
+  {
+    "x": 230,
+    "y": 67,
+    "type": "make",
+    "game": "Jan 29, 2013, NOH at LAL",
+    "time": "3rd Qtr, 8:35 remaining",
+    "shot": "Made 2-pointer from 2 ft",
+    "score": "NOH now trails 52-65"
+  },
+  {
+    "x": 214,
+    "y": 64,
+    "type": "make",
+    "game": "Jan 29, 2013, NOH at LAL",
+    "time": "3rd Qtr, 7:23 remaining",
+    "shot": "Made 2-pointer from 3 ft",
+    "score": "NOH now trails 56-67"
+  },
+  {
+    "x": 219,
+    "y": 65,
+    "type": "make",
+    "game": "Jan 29, 2013, NOH at LAL",
+    "time": "3rd Qtr, 6:55 remaining",
+    "shot": "Made 2-pointer from 3 ft",
+    "score": "NOH now trails 58-67"
+  },
+  {
+    "x": 217,
+    "y": 67,
+    "type": "miss",
+    "game": "Jan 29, 2013, NOH at LAL",
+    "time": "3rd Qtr, 4:40 remaining",
+    "shot": "Missed 2-pointer from 3 ft",
+    "score": "NOH trails 64-72"
+  },
+  {
+    "x": 261,
+    "y": 54,
+    "type": "make",
+    "game": "Jan 30, 2013, NOH at UTA",
+    "time": "1st Qtr, 11:20 remaining",
+    "shot": "Made 2-pointer from 2 ft",
+    "score": "NOH now leads 2-0"
+  },
+  {
+    "x": 305,
+    "y": 209,
+    "type": "miss",
+    "game": "Jan 30, 2013, NOH at UTA",
+    "time": "1st Qtr, 6:53 remaining",
+    "shot": "Missed 2-pointer from 17 ft",
+    "score": "NOH leads 9-6"
+  },
+  {
+    "x": 217,
+    "y": 50,
+    "type": "make",
+    "game": "Jan 30, 2013, NOH at UTA",
+    "time": "1st Qtr, 6:22 remaining",
+    "shot": "Made 2-pointer from 2 ft",
+    "score": "NOH now leads 11-7"
+  },
+  {
+    "x": 331,
+    "y": 47,
+    "type": "miss",
+    "game": "Jan 30, 2013, NOH at UTA",
+    "time": "2nd Qtr, 3:55 remaining",
+    "shot": "Missed 2-pointer from 9 ft",
+    "score": "NOH trails 41-42"
+  },
+  {
+    "x": 184,
+    "y": 61,
+    "type": "make",
+    "game": "Jan 30, 2013, NOH at UTA",
+    "time": "3rd Qtr, 10:53 remaining",
+    "shot": "Made 2-pointer from 6 ft",
+    "score": "NOH now trails 49-53"
+  },
+  {
+    "x": 227,
+    "y": 78,
+    "type": "make",
+    "game": "Jan 30, 2013, NOH at UTA",
+    "time": "4th Qtr, 5:50 remaining",
+    "shot": "Made 2-pointer from 3 ft",
+    "score": "NOH now trails 86-91"
+  },
+  {
+    "x": 406,
+    "y": 62,
+    "type": "make",
+    "game": "Jan 30, 2013, NOH at UTA",
+    "time": "4th Qtr, 4:24 remaining",
+    "shot": "Made 2-pointer from 17 ft",
+    "score": "NOH now trails 88-91"
+  },
+  {
+    "x": 222,
+    "y": 50,
+    "type": "make",
+    "game": "Jan 30, 2013, NOH at UTA",
+    "time": "4th Qtr, 2:59 remaining",
+    "shot": "Made 2-pointer from 2 ft",
+    "score": "NOH now trails 92-93"
+  },
+  {
+    "x": 238,
+    "y": 76,
+    "type": "make",
+    "game": "Jan 30, 2013, NOH at UTA",
+    "time": "4th Qtr, 2:18 remaining",
+    "shot": "Made 2-pointer from 3 ft",
+    "score": "NOH now trails 94-95"
+  },
+  {
+    "x": 417,
+    "y": 182,
+    "type": "miss",
+    "game": "Feb 1, 2013, NOH at DEN",
+    "time": "1st Qtr, 5:35 remaining",
+    "shot": "Missed 2-pointer from 22 ft",
+    "score": "NOH trails 13-14"
+  },
+  {
+    "x": 253,
+    "y": 51,
+    "type": "make",
+    "game": "Feb 1, 2013, NOH at DEN",
+    "time": "2nd Qtr, 8:55 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "NOH now leads 36-27"
+  },
+  {
+    "x": 211,
+    "y": 136,
+    "type": "make",
+    "game": "Feb 1, 2013, NOH at DEN",
+    "time": "2nd Qtr, 2:38 remaining",
+    "shot": "Made 2-pointer from 9 ft",
+    "score": "NOH now trails 43-48"
+  },
+  {
+    "x": 253,
+    "y": 255,
+    "type": "miss",
+    "game": "Feb 1, 2013, NOH at DEN",
+    "time": "2nd Qtr, 1:49 remaining",
+    "shot": "Missed 2-pointer from 21 ft",
+    "score": "NOH trails 43-48"
+  },
+  {
+    "x": 402,
+    "y": 119,
+    "type": "make",
+    "game": "Feb 1, 2013, NOH at DEN",
+    "time": "2nd Qtr, 0:39.8 remaining",
+    "shot": "Made 2-pointer from 18 ft",
+    "score": "NOH now trails 45-50"
+  },
+  {
+    "x": 250,
+    "y": 149,
+    "type": "miss",
+    "game": "Feb 1, 2013, NOH at DEN",
+    "time": "3rd Qtr, 1:17 remaining",
+    "shot": "Missed 2-pointer from 10 ft",
+    "score": "NOH trails 69-78"
+  },
+  {
+    "x": 244,
+    "y": 62,
+    "type": "make",
+    "game": "Feb 1, 2013, NOH at DEN",
+    "time": "3rd Qtr, 1:15 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "NOH now trails 71-78"
+  },
+  {
+    "x": 217,
+    "y": 57,
+    "type": "miss",
+    "game": "Feb 1, 2013, NOH at DEN",
+    "time": "4th Qtr, 8:44 remaining",
+    "shot": "Missed 2-pointer from 2 ft",
+    "score": "NOH trails 78-89"
+  },
+  {
+    "x": 202,
+    "y": 62,
+    "type": "make",
+    "game": "Feb 1, 2013, NOH at DEN",
+    "time": "4th Qtr, 8:08 remaining",
+    "shot": "Made 2-pointer from 4 ft",
+    "score": "NOH now trails 80-89"
+  },
+  {
+    "x": 143,
+    "y": 223,
+    "type": "miss",
+    "game": "Feb 1, 2013, NOH at DEN",
+    "time": "4th Qtr, 6:23 remaining",
+    "shot": "Missed 2-pointer from 20 ft",
+    "score": "NOH trails 82-93"
+  },
+  {
+    "x": 305,
+    "y": 95,
+    "type": "make",
+    "game": "Feb 1, 2013, NOH at DEN",
+    "time": "4th Qtr, 5:45 remaining",
+    "shot": "Made 2-pointer from 8 ft",
+    "score": "NOH now trails 84-93"
+  },
+  {
+    "x": 241,
+    "y": 50,
+    "type": "miss",
+    "game": "Feb 1, 2013, NOH at DEN",
+    "time": "4th Qtr, 0:54.9 remaining",
+    "shot": "Missed 2-pointer from 0 ft",
+    "score": "NOH trails 98-108"
+  },
+  {
+    "x": 233,
+    "y": 59,
+    "type": "miss",
+    "game": "Feb 2, 2013, NOH at MIN",
+    "time": "1st Qtr, 9:21 remaining",
+    "shot": "Missed 2-pointer from 1 ft",
+    "score": "NOH trails 4-6"
+  },
+  {
+    "x": 230,
+    "y": 42,
+    "type": "miss",
+    "game": "Feb 2, 2013, NOH at MIN",
+    "time": "1st Qtr, 9:19 remaining",
+    "shot": "Missed 2-pointer from 1 ft",
+    "score": "NOH trails 4-6"
+  },
+  {
+    "x": 206,
+    "y": 97,
+    "type": "miss",
+    "game": "Feb 2, 2013, NOH at MIN",
+    "time": "1st Qtr, 8:24 remaining",
+    "shot": "Missed 2-pointer from 6 ft",
+    "score": "NOH trails 6-10"
+  },
+  {
+    "x": 184,
+    "y": 72,
+    "type": "miss",
+    "game": "Feb 2, 2013, NOH at MIN",
+    "time": "3rd Qtr, 9:38 remaining",
+    "shot": "Missed 2-pointer from 6 ft",
+    "score": "NOH trails 33-62"
+  },
+  {
+    "x": 250,
+    "y": 67,
+    "type": "make",
+    "game": "Feb 2, 2013, NOH at MIN",
+    "time": "3rd Qtr, 2:14 remaining",
+    "shot": "Made 2-pointer from 2 ft",
+    "score": "NOH now trails 50-76"
+  },
+  {
+    "x": 244,
+    "y": 62,
+    "type": "make",
+    "game": "Feb 2, 2013, NOH at MIN",
+    "time": "3rd Qtr, 1:30 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "NOH now trails 52-79"
+  },
+  {
+    "x": 244,
+    "y": 64,
+    "type": "make",
+    "game": "Feb 2, 2013, NOH at MIN",
+    "time": "3rd Qtr, 0:56.9 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "NOH now trails 55-79"
+  },
+  {
+    "x": 252,
+    "y": 48,
+    "type": "make",
+    "game": "Feb 2, 2013, NOH at MIN",
+    "time": "4th Qtr, 10:39 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "NOH now trails 58-85"
+  },
+  {
+    "x": 257,
+    "y": 110,
+    "type": "miss",
+    "game": "Feb 2, 2013, NOH at MIN",
+    "time": "4th Qtr, 9:26 remaining",
+    "shot": "Missed 2-pointer from 6 ft",
+    "score": "NOH trails 58-87"
+  },
+  {
+    "x": 235,
+    "y": 50,
+    "type": "make",
+    "game": "Feb 2, 2013, NOH at MIN",
+    "time": "4th Qtr, 4:48 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "NOH now trails 69-97"
+  },
+  {
+    "x": 137,
+    "y": 204,
+    "type": "miss",
+    "game": "Feb 2, 2013, NOH at MIN",
+    "time": "4th Qtr, 4:14 remaining",
+    "shot": "Missed 2-pointer from 19 ft",
+    "score": "NOH trails 70-100"
+  },
+  {
+    "x": 178,
+    "y": 98,
+    "type": "make",
+    "game": "Feb 2, 2013, NOH at MIN",
+    "time": "4th Qtr, 0:7.1 remaining",
+    "shot": "Made 2-pointer from 8 ft",
+    "score": "NOH now trails 86-115"
+  },
+  {
+    "x": 403,
+    "y": 97,
+    "type": "miss",
+    "game": "Feb 6, 2013, NOH vs PHO",
+    "time": "1st Qtr, 9:45 remaining",
+    "shot": "Missed 2-pointer from 17 ft",
+    "score": "NOH leads 4-2"
+  },
+  {
+    "x": 271,
+    "y": 70,
+    "type": "make",
+    "game": "Feb 6, 2013, NOH vs PHO",
+    "time": "1st Qtr, 8:07 remaining",
+    "shot": "Made 2-pointer from 4 ft",
+    "score": "NOH now trails 6-7"
+  },
+  {
+    "x": 255,
+    "y": 64,
+    "type": "make",
+    "game": "Feb 6, 2013, NOH vs PHO",
+    "time": "1st Qtr, 7:23 remaining",
+    "shot": "Made 2-pointer from 2 ft",
+    "score": "NOH now trails 8-9"
+  },
+  {
+    "x": 236,
+    "y": 51,
+    "type": "make",
+    "game": "Feb 6, 2013, NOH vs PHO",
+    "time": "2nd Qtr, 3:32 remaining",
+    "shot": "Made 2-pointer from 0 ft",
+    "score": "NOH now trails 45-46"
+  },
+  {
+    "x": 214,
+    "y": 54,
+    "type": "miss",
+    "game": "Feb 6, 2013, NOH vs PHO",
+    "time": "2nd Qtr, 0:33.9 remaining",
+    "shot": "Missed 2-pointer from 3 ft",
+    "score": "NOH trails 52-53"
+  },
+  {
+    "x": 238,
+    "y": 54,
+    "type": "make",
+    "game": "Feb 6, 2013, NOH vs PHO",
+    "time": "3rd Qtr, 10:34 remaining",
+    "shot": "Made 2-pointer from 0 ft",
+    "score": "NOH now leads 58-53"
+  },
+  {
+    "x": 348,
+    "y": 182,
+    "type": "miss",
+    "game": "Feb 6, 2013, NOH vs PHO",
+    "time": "3rd Qtr, 7:29 remaining",
+    "shot": "Missed 2-pointer from 17 ft",
+    "score": "NOH leads 60-59"
+  },
+  {
+    "x": 253,
+    "y": 103,
+    "type": "make",
+    "game": "Feb 8, 2013, NOH at ATL",
+    "time": "1st Qtr, 11:43 remaining",
+    "shot": "Made 2-pointer from 5 ft",
+    "score": "NOH now leads 2-0"
+  },
+  {
+    "x": 42,
+    "y": 86,
+    "type": "miss",
+    "game": "Feb 8, 2013, NOH at ATL",
+    "time": "1st Qtr, 5:45 remaining",
+    "shot": "Missed 2-pointer from 20 ft",
+    "score": "NOH leads 15-12"
+  },
+  {
+    "x": 118,
+    "y": 177,
+    "type": "miss",
+    "game": "Feb 8, 2013, NOH at ATL",
+    "time": "1st Qtr, 3:36 remaining",
+    "shot": "Missed 2-pointer from 18 ft",
+    "score": "NOH tied 17-17"
+  },
+  {
+    "x": 241,
+    "y": 50,
+    "type": "make",
+    "game": "Feb 8, 2013, NOH at ATL",
+    "time": "2nd Qtr, 0:13.8 remaining",
+    "shot": "Made 2-pointer from 0 ft",
+    "score": "NOH now trails 50-55"
+  },
+  {
+    "x": 249,
+    "y": 51,
+    "type": "miss",
+    "game": "Feb 8, 2013, NOH at ATL",
+    "time": "3rd Qtr, 8:12 remaining",
+    "shot": "Missed 2-pointer from 1 ft",
+    "score": "NOH trails 59-64"
+  },
+  {
+    "x": 257,
+    "y": 50,
+    "type": "make",
+    "game": "Feb 8, 2013, NOH at ATL",
+    "time": "3rd Qtr, 7:28 remaining",
+    "shot": "Made 2-pointer from 2 ft",
+    "score": "NOH now trails 62-64"
+  },
+  {
+    "x": 350,
+    "y": 182,
+    "type": "miss",
+    "game": "Feb 8, 2013, NOH at ATL",
+    "time": "3rd Qtr, 5:43 remaining",
+    "shot": "Missed 2-pointer from 17 ft",
+    "score": "NOH trails 65-66"
+  },
+  {
+    "x": 197,
+    "y": 78,
+    "type": "miss",
+    "game": "Feb 8, 2013, NOH at ATL",
+    "time": "3rd Qtr, 4:20 remaining",
+    "shot": "Missed 2-pointer from 5 ft",
+    "score": "NOH leads 68-66"
+  },
+  {
+    "x": 253,
+    "y": 53,
+    "type": "make",
+    "game": "Feb 8, 2013, NOH at ATL",
+    "time": "3rd Qtr, 4:11 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "NOH now leads 70-66"
+  },
+  {
+    "x": 222,
+    "y": 220,
+    "type": "miss",
+    "game": "Feb 8, 2013, NOH at ATL",
+    "time": "4th Qtr, 7:00 remaining",
+    "shot": "Missed 2-pointer from 17 ft",
+    "score": "NOH leads 93-81"
+  },
+  {
+    "x": 247,
+    "y": 51,
+    "type": "miss",
+    "game": "Feb 8, 2013, NOH at ATL",
+    "time": "4th Qtr, 6:24 remaining",
+    "shot": "Missed 2-pointer from 1 ft",
+    "score": "NOH leads 93-84"
+  },
+  {
+    "x": 126,
+    "y": 188,
+    "type": "miss",
+    "game": "Feb 10, 2013, NOH at TOR",
+    "time": "1st Qtr, 5:14 remaining",
+    "shot": "Missed 2-pointer from 18 ft",
+    "score": "NOH trails 12-20"
+  },
+  {
+    "x": 236,
+    "y": 89,
+    "type": "miss",
+    "game": "Feb 10, 2013, NOH at TOR",
+    "time": "1st Qtr, 4:46 remaining",
+    "shot": "Missed 2-pointer from 4 ft",
+    "score": "NOH trails 12-20"
+  },
+  {
+    "x": 269,
+    "y": 83,
+    "type": "miss",
+    "game": "Feb 10, 2013, NOH at TOR",
+    "time": "2nd Qtr, 5:29 remaining",
+    "shot": "Missed 2-pointer from 4 ft",
+    "score": "NOH trails 38-40"
+  },
+  {
+    "x": 236,
+    "y": 53,
+    "type": "make",
+    "game": "Feb 10, 2013, NOH at TOR",
+    "time": "2nd Qtr, 3:18 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "NOH now trails 42-44"
+  },
+  {
+    "x": 397,
+    "y": 166,
+    "type": "miss",
+    "game": "Feb 10, 2013, NOH at TOR",
+    "time": "3rd Qtr, 11:45 remaining",
+    "shot": "Missed 2-pointer from 20 ft",
+    "score": "NOH trails 47-50"
+  },
+  {
+    "x": 169,
+    "y": 57,
+    "type": "miss",
+    "game": "Feb 10, 2013, NOH at TOR",
+    "time": "3rd Qtr, 8:27 remaining",
+    "shot": "Missed 2-pointer from 7 ft",
+    "score": "NOH trails 52-54"
+  },
+  {
+    "x": 192,
+    "y": 247,
+    "type": "miss",
+    "game": "Feb 11, 2013, NOH at DET",
+    "time": "1st Qtr, 11:17 remaining",
+    "shot": "Missed 2-pointer from 20 ft",
+    "score": "NOH trails 0-2"
+  },
+  {
+    "x": 178,
+    "y": 300,
+    "type": "miss",
+    "game": "Feb 11, 2013, NOH at DET",
+    "time": "1st Qtr, 9:19 remaining",
+    "shot": "Missed 3-pointer from 26 ft",
+    "score": "NOH trails 2-8"
+  },
+  {
+    "x": 183,
+    "y": 61,
+    "type": "miss",
+    "game": "Feb 11, 2013, NOH at DET",
+    "time": "2nd Qtr, 6:21 remaining",
+    "shot": "Missed 2-pointer from 6 ft",
+    "score": "NOH leads 39-34"
+  },
+  {
+    "x": 392,
+    "y": 195,
+    "type": "miss",
+    "game": "Feb 11, 2013, NOH at DET",
+    "time": "2nd Qtr, 3:40 remaining",
+    "shot": "Missed 2-pointer from 21 ft",
+    "score": "NOH leads 45-36"
+  },
+  {
+    "x": 365,
+    "y": 169,
+    "type": "miss",
+    "game": "Feb 11, 2013, NOH at DET",
+    "time": "3rd Qtr, 10:16 remaining",
+    "shot": "Missed 2-pointer from 17 ft",
+    "score": "NOH leads 56-45"
+  },
+  {
+    "x": 66,
+    "y": 139,
+    "type": "miss",
+    "game": "Feb 11, 2013, NOH at DET",
+    "time": "3rd Qtr, 6:36 remaining",
+    "shot": "Missed 2-pointer from 20 ft",
+    "score": "NOH leads 66-48"
+  },
+  {
+    "x": 246,
+    "y": 59,
+    "type": "miss",
+    "game": "Feb 11, 2013, NOH at DET",
+    "time": "3rd Qtr, 5:49 remaining",
+    "shot": "Missed 2-pointer from 1 ft",
+    "score": "NOH leads 66-48"
+  },
+  {
+    "x": 126,
+    "y": 220,
+    "type": "miss",
+    "game": "Feb 13, 2013, NOH vs POR",
+    "time": "1st Qtr, 11:16 remaining",
+    "shot": "Missed 2-pointer from 20 ft",
+    "score": "NOH trails 0-2"
+  },
+  {
+    "x": 42,
+    "y": 64,
+    "type": "miss",
+    "game": "Feb 13, 2013, NOH vs POR",
+    "time": "1st Qtr, 7:53 remaining",
+    "shot": "Missed 2-pointer from 20 ft",
+    "score": "NOH leads 5-4"
+  },
+  {
+    "x": 236,
+    "y": 62,
+    "type": "make",
+    "game": "Feb 13, 2013, NOH vs POR",
+    "time": "1st Qtr, 7:04 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "NOH now leads 9-4"
+  },
+  {
+    "x": 216,
+    "y": 61,
+    "type": "make",
+    "game": "Feb 13, 2013, NOH vs POR",
+    "time": "2nd Qtr, 5:56 remaining",
+    "shot": "Made 2-pointer from 3 ft",
+    "score": "NOH now leads 28-16"
+  },
+  {
+    "x": 235,
+    "y": 57,
+    "type": "make",
+    "game": "Feb 13, 2013, NOH vs POR",
+    "time": "2nd Qtr, 5:33 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "NOH now leads 30-16"
+  },
+  {
+    "x": 416,
+    "y": 59,
+    "type": "miss",
+    "game": "Feb 13, 2013, NOH vs POR",
+    "time": "3rd Qtr, 11:42 remaining",
+    "shot": "Missed 2-pointer from 18 ft",
+    "score": "NOH leads 38-26"
+  },
+  {
+    "x": 266,
+    "y": 75,
+    "type": "miss",
+    "game": "Feb 13, 2013, NOH vs POR",
+    "time": "3rd Qtr, 10:07 remaining",
+    "shot": "Missed 2-pointer from 4 ft",
+    "score": "NOH leads 43-29"
+  },
+  {
+    "x": 332,
+    "y": 73,
+    "type": "miss",
+    "game": "Feb 13, 2013, NOH vs POR",
+    "time": "3rd Qtr, 8:56 remaining",
+    "shot": "Missed 2-pointer from 9 ft",
+    "score": "NOH leads 43-31"
+  },
+  {
+    "x": 244,
+    "y": 61,
+    "type": "miss",
+    "game": "Feb 13, 2013, NOH vs POR",
+    "time": "3rd Qtr, 7:46 remaining",
+    "shot": "Missed 2-pointer from 1 ft",
+    "score": "NOH leads 45-31"
+  },
+  {
+    "x": 242,
+    "y": 147,
+    "type": "make",
+    "game": "Feb 13, 2013, NOH vs POR",
+    "time": "3rd Qtr, 6:53 remaining",
+    "shot": "Made 2-pointer from 10 ft",
+    "score": "NOH now leads 49-31"
+  },
+  {
+    "x": 169,
+    "y": 203,
+    "type": "make",
+    "game": "Feb 13, 2013, NOH vs POR",
+    "time": "3rd Qtr, 6:12 remaining",
+    "shot": "Made 2-pointer from 17 ft",
+    "score": "NOH now leads 51-33"
+  },
+  {
+    "x": 321,
+    "y": 215,
+    "type": "make",
+    "game": "Feb 13, 2013, NOH vs POR",
+    "time": "3rd Qtr, 4:45 remaining",
+    "shot": "Made 2-pointer from 18 ft",
+    "score": "NOH now leads 55-38"
+  },
+  {
+    "x": 68,
+    "y": 64,
+    "type": "miss",
+    "game": "Feb 13, 2013, NOH vs POR",
+    "time": "3rd Qtr, 3:59 remaining",
+    "shot": "Missed 2-pointer from 17 ft",
+    "score": "NOH leads 55-38"
+  },
+  {
+    "x": 124,
+    "y": 59,
+    "type": "make",
+    "game": "Feb 13, 2013, NOH vs POR",
+    "time": "3rd Qtr, 3:18 remaining",
+    "shot": "Made 2-pointer from 12 ft",
+    "score": "NOH now leads 57-40"
+  },
+  {
+    "x": 211,
+    "y": 56,
+    "type": "make",
+    "game": "Feb 13, 2013, NOH vs POR",
+    "time": "4th Qtr, 6:13 remaining",
+    "shot": "Made 2-pointer from 3 ft",
+    "score": "NOH now leads 84-52"
+  },
+  {
+    "x": 268,
+    "y": 51,
+    "type": "make",
+    "game": "Feb 13, 2013, NOH vs POR",
+    "time": "4th Qtr, 5:37 remaining",
+    "shot": "Made 2-pointer from 3 ft",
+    "score": "NOH now leads 86-52"
+  },
+  {
+    "x": 324,
+    "y": 244,
+    "type": "make",
+    "game": "Feb 13, 2013, NOH vs POR",
+    "time": "4th Qtr, 3:13 remaining",
+    "shot": "Made 2-pointer from 21 ft",
+    "score": "NOH now leads 93-54"
+  },
+  {
+    "x": 184,
+    "y": 214,
+    "type": "miss",
+    "game": "Feb 19, 2013, NOH vs CHI",
+    "time": "1st Qtr, 11:41 remaining",
+    "shot": "Missed 2-pointer from 17 ft",
+    "score": "NOH tied 0-0"
+  },
+  {
+    "x": 240,
+    "y": 61,
+    "type": "miss",
+    "game": "Feb 19, 2013, NOH vs CHI",
+    "time": "1st Qtr, 7:19 remaining",
+    "shot": "Missed 2-pointer from 1 ft",
+    "score": "NOH trails 6-10"
+  },
+  {
+    "x": 230,
+    "y": 56,
+    "type": "make",
+    "game": "Feb 19, 2013, NOH vs CHI",
+    "time": "1st Qtr, 5:29 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "NOH now leads 12-10"
+  },
+  {
+    "x": 253,
+    "y": 62,
+    "type": "miss",
+    "game": "Feb 19, 2013, NOH vs CHI",
+    "time": "1st Qtr, 4:17 remaining",
+    "shot": "Missed 2-pointer from 2 ft",
+    "score": "NOH leads 15-12"
+  },
+  {
+    "x": 235,
+    "y": 51,
+    "type": "make",
+    "game": "Feb 19, 2013, NOH vs CHI",
+    "time": "2nd Qtr, 6:06 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "NOH now trails 30-37"
+  },
+  {
+    "x": 378,
+    "y": 95,
+    "type": "miss",
+    "game": "Feb 19, 2013, NOH vs CHI",
+    "time": "2nd Qtr, 3:04 remaining",
+    "shot": "Missed 2-pointer from 15 ft",
+    "score": "NOH trails 35-41"
+  },
+  {
+    "x": 249,
+    "y": 64,
+    "type": "make",
+    "game": "Feb 19, 2013, NOH vs CHI",
+    "time": "2nd Qtr, 0:1.6 remaining",
+    "shot": "Made 2-pointer from 2 ft",
+    "score": "NOH now trails 42-47"
+  },
+  {
+    "x": 188,
+    "y": 192,
+    "type": "make",
+    "game": "Feb 19, 2013, NOH vs CHI",
+    "time": "3rd Qtr, 11:10 remaining",
+    "shot": "Made 2-pointer from 15 ft",
+    "score": "NOH now trails 45-50"
+  },
+  {
+    "x": 342,
+    "y": 207,
+    "type": "make",
+    "game": "Feb 19, 2013, NOH vs CHI",
+    "time": "3rd Qtr, 10:39 remaining",
+    "shot": "Made 2-pointer from 19 ft",
+    "score": "NOH now trails 47-52"
+  },
+  {
+    "x": 373,
+    "y": 162,
+    "type": "miss",
+    "game": "Feb 19, 2013, NOH vs CHI",
+    "time": "3rd Qtr, 8:28 remaining",
+    "shot": "Missed 2-pointer from 17 ft",
+    "score": "NOH trails 50-55"
+  },
+  {
+    "x": 375,
+    "y": 92,
+    "type": "miss",
+    "game": "Feb 19, 2013, NOH vs CHI",
+    "time": "3rd Qtr, 7:51 remaining",
+    "shot": "Missed 2-pointer from 14 ft",
+    "score": "NOH trails 50-57"
+  },
+  {
+    "x": 229,
+    "y": 78,
+    "type": "miss",
+    "game": "Feb 19, 2013, NOH vs CHI",
+    "time": "3rd Qtr, 6:49 remaining",
+    "shot": "Missed 2-pointer from 3 ft",
+    "score": "NOH trails 52-59"
+  },
+  {
+    "x": 242,
+    "y": 47,
+    "type": "make",
+    "game": "Feb 19, 2013, NOH vs CHI",
+    "time": "4th Qtr, 6:45 remaining",
+    "shot": "Made 2-pointer from 0 ft",
+    "score": "NOH now trails 79-84"
+  },
+  {
+    "x": 170,
+    "y": 215,
+    "type": "miss",
+    "game": "Feb 20, 2013, NOH at CLE",
+    "time": "1st Qtr, 10:55 remaining",
+    "shot": "Missed 2-pointer from 18 ft",
+    "score": "NOH trails 0-5"
+  },
+  {
+    "x": 96,
+    "y": 187,
+    "type": "miss",
+    "game": "Feb 20, 2013, NOH at CLE",
+    "time": "1st Qtr, 4:46 remaining",
+    "shot": "Missed 2-pointer from 20 ft",
+    "score": "NOH leads 14-11"
+  },
+  {
+    "x": 304,
+    "y": 78,
+    "type": "miss",
+    "game": "Feb 20, 2013, NOH at CLE",
+    "time": "1st Qtr, 3:06 remaining",
+    "shot": "Missed 2-pointer from 7 ft",
+    "score": "NOH leads 16-11"
+  },
+  {
+    "x": 205,
+    "y": 124,
+    "type": "miss",
+    "game": "Feb 20, 2013, NOH at CLE",
+    "time": "2nd Qtr, 6:20 remaining",
+    "shot": "Missed 2-pointer from 8 ft",
+    "score": "NOH trails 29-33"
+  },
+  {
+    "x": 140,
+    "y": 206,
+    "type": "miss",
+    "game": "Feb 20, 2013, NOH at CLE",
+    "time": "2nd Qtr, 2:19 remaining",
+    "shot": "Missed 2-pointer from 19 ft",
+    "score": "NOH tied 37-37"
+  },
+  {
+    "x": 230,
+    "y": 50,
+    "type": "make",
+    "game": "Feb 20, 2013, NOH at CLE",
+    "time": "4th Qtr, 2:08 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "NOH now trails 85-92"
+  },
+  {
+    "x": 241,
+    "y": 47,
+    "type": "make",
+    "game": "Feb 20, 2013, NOH at CLE",
+    "time": "4th Qtr, 1:30 remaining",
+    "shot": "Made 2-pointer from 0 ft",
+    "score": "NOH now trails 87-94"
+  },
+  {
+    "x": 240,
+    "y": 67,
+    "type": "miss",
+    "game": "Feb 22, 2013, NOH vs DAL",
+    "time": "1st Qtr, 10:39 remaining",
+    "shot": "Missed 2-pointer from 2 ft",
+    "score": "NOH trails 0-4"
+  },
+  {
+    "x": 216,
+    "y": 81,
+    "type": "miss",
+    "game": "Feb 22, 2013, NOH vs DAL",
+    "time": "1st Qtr, 10:38 remaining",
+    "shot": "Missed 2-pointer from 4 ft",
+    "score": "NOH trails 0-4"
+  },
+  {
+    "x": 222,
+    "y": 67,
+    "type": "miss",
+    "game": "Feb 22, 2013, NOH vs DAL",
+    "time": "1st Qtr, 10:36 remaining",
+    "shot": "Missed 2-pointer from 2 ft",
+    "score": "NOH trails 0-4"
+  },
+  {
+    "x": 293,
+    "y": 108,
+    "type": "miss",
+    "game": "Feb 22, 2013, NOH vs DAL",
+    "time": "1st Qtr, 9:58 remaining",
+    "shot": "Missed 2-pointer from 8 ft",
+    "score": "NOH trails 0-6"
+  },
+  {
+    "x": 240,
+    "y": 56,
+    "type": "make",
+    "game": "Feb 22, 2013, NOH vs DAL",
+    "time": "1st Qtr, 9:54 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "NOH now trails 2-6"
+  },
+  {
+    "x": 120,
+    "y": 72,
+    "type": "miss",
+    "game": "Feb 22, 2013, NOH vs DAL",
+    "time": "1st Qtr, 7:16 remaining",
+    "shot": "Missed 2-pointer from 12 ft",
+    "score": "NOH trails 9-16"
+  },
+  {
+    "x": 229,
+    "y": 51,
+    "type": "miss",
+    "game": "Feb 22, 2013, NOH vs DAL",
+    "time": "1st Qtr, 6:29 remaining",
+    "shot": "Missed 2-pointer from 1 ft",
+    "score": "NOH trails 9-18"
+  },
+  {
+    "x": 175,
+    "y": 80,
+    "type": "miss",
+    "game": "Feb 22, 2013, NOH vs DAL",
+    "time": "1st Qtr, 4:27 remaining",
+    "shot": "Missed 2-pointer from 7 ft",
+    "score": "NOH trails 16-24"
+  },
+  {
+    "x": 287,
+    "y": 245,
+    "type": "make",
+    "game": "Feb 22, 2013, NOH vs DAL",
+    "time": "1st Qtr, 3:04 remaining",
+    "shot": "Made 2-pointer from 20 ft",
+    "score": "NOH now trails 18-27"
+  },
+  {
+    "x": 247,
+    "y": 51,
+    "type": "make",
+    "game": "Feb 22, 2013, NOH vs DAL",
+    "time": "2nd Qtr, 9:18 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "NOH now trails 35-40"
+  },
+  {
+    "x": 235,
+    "y": 47,
+    "type": "make",
+    "game": "Feb 22, 2013, NOH vs DAL",
+    "time": "2nd Qtr, 7:42 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "NOH now trails 39-42"
+  },
+  {
+    "x": 47,
+    "y": 223,
+    "type": "miss",
+    "game": "Feb 22, 2013, NOH vs DAL",
+    "time": "2nd Qtr, 6:51 remaining",
+    "shot": "Missed 3-pointer from 26 ft",
+    "score": "NOH trails 39-42"
+  },
+  {
+    "x": 241,
+    "y": 61,
+    "type": "miss",
+    "game": "Feb 24, 2013, NOH vs SAC",
+    "time": "1st Qtr, 11:39 remaining",
+    "shot": "Missed 2-pointer from 1 ft",
+    "score": "NOH tied 0-0"
+  },
+  {
+    "x": 231,
+    "y": 61,
+    "type": "make",
+    "game": "Feb 24, 2013, NOH vs SAC",
+    "time": "1st Qtr, 7:25 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "NOH now leads 13-11"
+  },
+  {
+    "x": 312,
+    "y": 222,
+    "type": "make",
+    "game": "Feb 24, 2013, NOH vs SAC",
+    "time": "1st Qtr, 6:24 remaining",
+    "shot": "Made 2-pointer from 19 ft",
+    "score": "NOH now leads 17-13"
+  },
+  {
+    "x": 240,
+    "y": 48,
+    "type": "make",
+    "game": "Feb 24, 2013, NOH vs SAC",
+    "time": "1st Qtr, 4:12 remaining",
+    "shot": "Made 2-pointer from 0 ft",
+    "score": "NOH now leads 21-15"
+  },
+  {
+    "x": 71,
+    "y": 51,
+    "type": "miss",
+    "game": "Feb 24, 2013, NOH vs SAC",
+    "time": "2nd Qtr, 5:46 remaining",
+    "shot": "Missed 2-pointer from 17 ft",
+    "score": "NOH leads 43-40"
+  },
+  {
+    "x": 238,
+    "y": 54,
+    "type": "make",
+    "game": "Feb 24, 2013, NOH vs SAC",
+    "time": "2nd Qtr, 4:40 remaining",
+    "shot": "Made 2-pointer from 0 ft",
+    "score": "NOH now leads 45-42"
+  },
+  {
+    "x": 238,
+    "y": 50,
+    "type": "make",
+    "game": "Feb 24, 2013, NOH vs SAC",
+    "time": "2nd Qtr, 1:45 remaining",
+    "shot": "Made 2-pointer from 0 ft",
+    "score": "NOH now leads 51-47"
+  },
+  {
+    "x": 181,
+    "y": 239,
+    "type": "make",
+    "game": "Feb 24, 2013, NOH vs SAC",
+    "time": "3rd Qtr, 11:14 remaining",
+    "shot": "Made 2-pointer from 20 ft",
+    "score": "NOH now leads 57-49"
+  },
+  {
+    "x": 191,
+    "y": 240,
+    "type": "miss",
+    "game": "Feb 24, 2013, NOH vs SAC",
+    "time": "3rd Qtr, 9:45 remaining",
+    "shot": "Missed 2-pointer from 20 ft",
+    "score": "NOH leads 59-55"
+  },
+  {
+    "x": 264,
+    "y": 207,
+    "type": "miss",
+    "game": "Feb 24, 2013, NOH vs SAC",
+    "time": "3rd Qtr, 9:00 remaining",
+    "shot": "Missed 2-pointer from 16 ft",
+    "score": "NOH leads 61-57"
+  },
+  {
+    "x": 241,
+    "y": 51,
+    "type": "make",
+    "game": "Feb 24, 2013, NOH vs SAC",
+    "time": "3rd Qtr, 8:02 remaining",
+    "shot": "Made 2-pointer from 0 ft",
+    "score": "NOH now leads 63-60"
+  },
+  {
+    "x": 238,
+    "y": 50,
+    "type": "make",
+    "game": "Feb 24, 2013, NOH vs SAC",
+    "time": "3rd Qtr, 5:31 remaining",
+    "shot": "Made 2-pointer from 0 ft",
+    "score": "NOH now leads 71-60"
+  },
+  {
+    "x": 183,
+    "y": 61,
+    "type": "miss",
+    "game": "Feb 24, 2013, NOH vs SAC",
+    "time": "3rd Qtr, 4:29 remaining",
+    "shot": "Missed 2-pointer from 6 ft",
+    "score": "NOH leads 73-60"
+  },
+  {
+    "x": 236,
+    "y": 53,
+    "type": "make",
+    "game": "Feb 24, 2013, NOH vs SAC",
+    "time": "4th Qtr, 2:54 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "NOH now leads 102-88"
+  },
+  {
+    "x": 69,
+    "y": 62,
+    "type": "miss",
+    "game": "Feb 26, 2013, NOH vs BRK",
+    "time": "1st Qtr, 10:52 remaining",
+    "shot": "Missed 2-pointer from 17 ft",
+    "score": "NOH tied 2-2"
+  },
+  {
+    "x": 238,
+    "y": 47,
+    "type": "make",
+    "game": "Feb 26, 2013, NOH vs BRK",
+    "time": "1st Qtr, 9:02 remaining",
+    "shot": "Made 2-pointer from 0 ft",
+    "score": "NOH now trails 4-9"
+  },
+  {
+    "x": 264,
+    "y": 53,
+    "type": "make",
+    "game": "Feb 26, 2013, NOH vs BRK",
+    "time": "3rd Qtr, 5:40 remaining",
+    "shot": "Made 2-pointer from 2 ft",
+    "score": "NOH now trails 55-66"
+  },
+  {
+    "x": 294,
+    "y": 103,
+    "type": "miss",
+    "game": "Feb 26, 2013, NOH vs BRK",
+    "time": "3rd Qtr, 4:23 remaining",
+    "shot": "Missed 2-pointer from 8 ft",
+    "score": "NOH trails 57-66"
+  },
+  {
+    "x": 400,
+    "y": 168,
+    "type": "miss",
+    "game": "Mar 4, 2013, NOH vs ORL",
+    "time": "1st Qtr, 11:11 remaining",
+    "shot": "Missed 2-pointer from 20 ft",
+    "score": "NOH leads 2-0"
+  },
+  {
+    "x": 235,
+    "y": 69,
+    "type": "make",
+    "game": "Mar 4, 2013, NOH vs ORL",
+    "time": "1st Qtr, 9:14 remaining",
+    "shot": "Made 2-pointer from 2 ft",
+    "score": "NOH now leads 8-2"
+  },
+  {
+    "x": 236,
+    "y": 75,
+    "type": "miss",
+    "game": "Mar 4, 2013, NOH vs ORL",
+    "time": "1st Qtr, 4:49 remaining",
+    "shot": "Missed 2-pointer from 3 ft",
+    "score": "NOH leads 15-11"
+  },
+  {
+    "x": 232,
+    "y": 53,
+    "type": "miss",
+    "game": "Mar 4, 2013, NOH vs ORL",
+    "time": "1st Qtr, 0:37.9 remaining",
+    "shot": "Missed 2-pointer from 1 ft",
+    "score": "NOH leads 21-19"
+  },
+  {
+    "x": 247,
+    "y": 47,
+    "type": "make",
+    "game": "Mar 4, 2013, NOH vs ORL",
+    "time": "2nd Qtr, 8:23 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "NOH now leads 31-27"
+  },
+  {
+    "x": 164,
+    "y": 62,
+    "type": "miss",
+    "game": "Mar 4, 2013, NOH vs ORL",
+    "time": "2nd Qtr, 5:05 remaining",
+    "shot": "Missed 2-pointer from 8 ft",
+    "score": "NOH trails 31-36"
+  },
+  {
+    "x": 230,
+    "y": 56,
+    "type": "miss",
+    "game": "Mar 4, 2013, NOH vs ORL",
+    "time": "2nd Qtr, 1:32 remaining",
+    "shot": "Missed 2-pointer from 1 ft",
+    "score": "NOH leads 41-36"
+  },
+  {
+    "x": 77,
+    "y": 95,
+    "type": "make",
+    "game": "Mar 4, 2013, NOH vs ORL",
+    "time": "2nd Qtr, 1:20 remaining",
+    "shot": "Made 2-pointer from 17 ft",
+    "score": "NOH now leads 43-36"
+  },
+  {
+    "x": 170,
+    "y": 92,
+    "type": "make",
+    "game": "Mar 4, 2013, NOH vs ORL",
+    "time": "3rd Qtr, 11:25 remaining",
+    "shot": "Made 2-pointer from 8 ft",
+    "score": "NOH now leads 48-36"
+  },
+  {
+    "x": 345,
+    "y": 192,
+    "type": "miss",
+    "game": "Mar 4, 2013, NOH vs ORL",
+    "time": "3rd Qtr, 10:50 remaining",
+    "shot": "Missed 2-pointer from 18 ft",
+    "score": "NOH leads 48-36"
+  },
+  {
+    "x": 391,
+    "y": 57,
+    "type": "make",
+    "game": "Mar 4, 2013, NOH vs ORL",
+    "time": "3rd Qtr, 6:39 remaining",
+    "shot": "Made 2-pointer from 15 ft",
+    "score": "NOH now leads 63-49"
+  },
+  {
+    "x": 72,
+    "y": 33,
+    "type": "miss",
+    "game": "Mar 4, 2013, NOH vs ORL",
+    "time": "4th Qtr, 2:49 remaining",
+    "shot": "Missed 2-pointer from 17 ft",
+    "score": "NOH leads 97-90"
+  },
+  {
+    "x": 244,
+    "y": 65,
+    "type": "make",
+    "game": "Mar 4, 2013, NOH vs ORL",
+    "time": "4th Qtr, 0:14.5 remaining",
+    "shot": "Made 2-pointer from 2 ft",
+    "score": "NOH now trails 102-103"
+  },
+  {
+    "x": 123,
+    "y": 223,
+    "type": "make",
+    "game": "Mar 6, 2013, NOH vs LAL",
+    "time": "1st Qtr, 9:30 remaining",
+    "shot": "Made 2-pointer from 21 ft",
+    "score": "NOH now leads 4-3"
+  },
+  {
+    "x": 235,
+    "y": 57,
+    "type": "miss",
+    "game": "Mar 6, 2013, NOH vs LAL",
+    "time": "2nd Qtr, 4:05 remaining",
+    "shot": "Missed 2-pointer from 1 ft",
+    "score": "NOH leads 52-36"
+  },
+  {
+    "x": 264,
+    "y": 62,
+    "type": "make",
+    "game": "Mar 6, 2013, NOH vs LAL",
+    "time": "2nd Qtr, 3:59 remaining",
+    "shot": "Made 2-pointer from 3 ft",
+    "score": "NOH now leads 54-36"
+  },
+  {
+    "x": 211,
+    "y": 98,
+    "type": "make",
+    "game": "Mar 6, 2013, NOH vs LAL",
+    "time": "2nd Qtr, 3:01 remaining",
+    "shot": "Made 2-pointer from 6 ft",
+    "score": "NOH now leads 58-38"
+  },
+  {
+    "x": 169,
+    "y": 242,
+    "type": "miss",
+    "game": "Mar 6, 2013, NOH vs LAL",
+    "time": "3rd Qtr, 11:45 remaining",
+    "shot": "Missed 2-pointer from 20 ft",
+    "score": "NOH leads 67-48"
+  },
+  {
+    "x": 414,
+    "y": 50,
+    "type": "make",
+    "game": "Mar 6, 2013, NOH vs LAL",
+    "time": "3rd Qtr, 8:32 remaining",
+    "shot": "Made 2-pointer from 17 ft",
+    "score": "NOH now leads 75-58"
+  },
+  {
+    "x": 246,
+    "y": 50,
+    "type": "make",
+    "game": "Mar 6, 2013, NOH vs LAL",
+    "time": "3rd Qtr, 7:25 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "NOH now leads 77-60"
+  },
+  {
+    "x": 63,
+    "y": 50,
+    "type": "miss",
+    "game": "Mar 6, 2013, NOH vs LAL",
+    "time": "3rd Qtr, 6:39 remaining",
+    "shot": "Missed 2-pointer from 18 ft",
+    "score": "NOH leads 77-62"
+  },
+  {
+    "x": 214,
+    "y": 240,
+    "type": "make",
+    "game": "Mar 9, 2013, NOH at MEM",
+    "time": "1st Qtr, 10:54 remaining",
+    "shot": "Made 2-pointer from 19 ft",
+    "score": "NOH now tied 2-2"
+  },
+  {
+    "x": 277,
+    "y": 193,
+    "type": "make",
+    "game": "Mar 9, 2013, NOH at MEM",
+    "time": "1st Qtr, 9:28 remaining",
+    "shot": "Made 2-pointer from 15 ft",
+    "score": "NOH now tied 4-4"
+  },
+  {
+    "x": 247,
+    "y": 106,
+    "type": "miss",
+    "game": "Mar 9, 2013, NOH at MEM",
+    "time": "1st Qtr, 7:08 remaining",
+    "shot": "Missed 2-pointer from 6 ft",
+    "score": "NOH trails 7-12"
+  },
+  {
+    "x": 94,
+    "y": 37,
+    "type": "miss",
+    "game": "Mar 9, 2013, NOH at MEM",
+    "time": "1st Qtr, 6:19 remaining",
+    "shot": "Missed 2-pointer from 15 ft",
+    "score": "NOH trails 9-12"
+  },
+  {
+    "x": 115,
+    "y": 223,
+    "type": "miss",
+    "game": "Mar 9, 2013, NOH at MEM",
+    "time": "1st Qtr, 5:41 remaining",
+    "shot": "Missed 2-pointer from 21 ft",
+    "score": "NOH trails 9-14"
+  },
+  {
+    "x": 241,
+    "y": 51,
+    "type": "make",
+    "game": "Mar 9, 2013, NOH at MEM",
+    "time": "1st Qtr, 1:45 remaining",
+    "shot": "Made 2-pointer from 0 ft",
+    "score": "NOH now trails 17-20"
+  },
+  {
+    "x": 247,
+    "y": 50,
+    "type": "make",
+    "game": "Mar 9, 2013, NOH at MEM",
+    "time": "2nd Qtr, 11:39 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "NOH now trails 21-25"
+  },
+  {
+    "x": 384,
+    "y": 76,
+    "type": "miss",
+    "game": "Mar 9, 2013, NOH at MEM",
+    "time": "2nd Qtr, 9:26 remaining",
+    "shot": "Missed 2-pointer from 15 ft",
+    "score": "NOH trails 25-27"
+  },
+  {
+    "x": 214,
+    "y": 69,
+    "type": "miss",
+    "game": "Mar 9, 2013, NOH at MEM",
+    "time": "2nd Qtr, 8:46 remaining",
+    "shot": "Missed 2-pointer from 3 ft",
+    "score": "NOH tied 27-27"
+  },
+  {
+    "x": 227,
+    "y": 62,
+    "type": "make",
+    "game": "Mar 9, 2013, NOH at MEM",
+    "time": "2nd Qtr, 8:08 remaining",
+    "shot": "Made 2-pointer from 2 ft",
+    "score": "NOH now tied 29-29"
+  },
+  {
+    "x": 351,
+    "y": 217,
+    "type": "miss",
+    "game": "Mar 9, 2013, NOH at MEM",
+    "time": "2nd Qtr, 1:27 remaining",
+    "shot": "Missed 2-pointer from 20 ft",
+    "score": "NOH tied 39-39"
+  },
+  {
+    "x": 225,
+    "y": 59,
+    "type": "miss",
+    "game": "Mar 9, 2013, NOH at MEM",
+    "time": "3rd Qtr, 11:15 remaining",
+    "shot": "Missed 2-pointer from 2 ft",
+    "score": "NOH trails 43-47"
+  },
+  {
+    "x": 242,
+    "y": 51,
+    "type": "make",
+    "game": "Mar 9, 2013, NOH at MEM",
+    "time": "3rd Qtr, 11:06 remaining",
+    "shot": "Made 2-pointer from 0 ft",
+    "score": "NOH now trails 45-47"
+  },
+  {
+    "x": 44,
+    "y": 53,
+    "type": "miss",
+    "game": "Mar 9, 2013, NOH at MEM",
+    "time": "3rd Qtr, 7:38 remaining",
+    "shot": "Missed 2-pointer from 20 ft",
+    "score": "NOH trails 50-55"
+  },
+  {
+    "x": 260,
+    "y": 42,
+    "type": "miss",
+    "game": "Mar 9, 2013, NOH at MEM",
+    "time": "3rd Qtr, 7:16 remaining",
+    "shot": "Missed 2-pointer from 2 ft",
+    "score": "NOH trails 50-56"
+  },
+  {
+    "x": 249,
+    "y": 195,
+    "type": "make",
+    "game": "Mar 9, 2013, NOH at MEM",
+    "time": "4th Qtr, 10:56 remaining",
+    "shot": "Made 2-pointer from 15 ft",
+    "score": "NOH now trails 62-78"
+  },
+  {
+    "x": 247,
+    "y": 53,
+    "type": "miss",
+    "game": "Mar 9, 2013, NOH at MEM",
+    "time": "4th Qtr, 9:19 remaining",
+    "shot": "Missed 2-pointer from 1 ft",
+    "score": "NOH trails 66-80"
+  },
+  {
+    "x": 236,
+    "y": 56,
+    "type": "make",
+    "game": "Mar 9, 2013, NOH at MEM",
+    "time": "4th Qtr, 7:08 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "NOH now trails 70-85"
+  },
+  {
+    "x": 247,
+    "y": 50,
+    "type": "make",
+    "game": "Mar 9, 2013, NOH at MEM",
+    "time": "4th Qtr, 4:54 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "NOH now trails 77-88"
+  },
+  {
+    "x": 241,
+    "y": 57,
+    "type": "miss",
+    "game": "Mar 9, 2013, NOH at MEM",
+    "time": "4th Qtr, 4:21 remaining",
+    "shot": "Missed 2-pointer from 1 ft",
+    "score": "NOH trails 77-88"
+  },
+  {
+    "x": 394,
+    "y": 53,
+    "type": "miss",
+    "game": "Mar 10, 2013, NOH vs POR",
+    "time": "1st Qtr, 9:13 remaining",
+    "shot": "Missed 2-pointer from 15 ft",
+    "score": "NOH trails 2-8"
+  },
+  {
+    "x": 230,
+    "y": 70,
+    "type": "miss",
+    "game": "Mar 10, 2013, NOH vs POR",
+    "time": "1st Qtr, 8:24 remaining",
+    "shot": "Missed 2-pointer from 2 ft",
+    "score": "NOH trails 2-8"
+  },
+  {
+    "x": 240,
+    "y": 45,
+    "type": "make",
+    "game": "Mar 10, 2013, NOH vs POR",
+    "time": "1st Qtr, 6:16 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "NOH now leads 11-8"
+  },
+  {
+    "x": 255,
+    "y": 64,
+    "type": "make",
+    "game": "Mar 10, 2013, NOH vs POR",
+    "time": "2nd Qtr, 8:55 remaining",
+    "shot": "Made 2-pointer from 2 ft",
+    "score": "NOH now leads 35-28"
+  },
+  {
+    "x": 241,
+    "y": 50,
+    "type": "make",
+    "game": "Mar 10, 2013, NOH vs POR",
+    "time": "2nd Qtr, 7:31 remaining",
+    "shot": "Made 2-pointer from 0 ft",
+    "score": "NOH now leads 40-32"
+  },
+  {
+    "x": 233,
+    "y": 50,
+    "type": "make",
+    "game": "Mar 10, 2013, NOH vs POR",
+    "time": "2nd Qtr, 6:01 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "NOH now leads 42-36"
+  },
+  {
+    "x": 229,
+    "y": 56,
+    "type": "miss",
+    "game": "Mar 10, 2013, NOH vs POR",
+    "time": "2nd Qtr, 3:20 remaining",
+    "shot": "Missed 2-pointer from 1 ft",
+    "score": "NOH leads 46-42"
+  },
+  {
+    "x": 181,
+    "y": 103,
+    "type": "make",
+    "game": "Mar 10, 2013, NOH vs POR",
+    "time": "2nd Qtr, 2:36 remaining",
+    "shot": "Made 2-pointer from 8 ft",
+    "score": "NOH now leads 48-42"
+  },
+  {
+    "x": 61,
+    "y": 132,
+    "type": "miss",
+    "game": "Mar 10, 2013, NOH vs POR",
+    "time": "3rd Qtr, 9:14 remaining",
+    "shot": "Missed 2-pointer from 20 ft",
+    "score": "NOH leads 57-48"
+  },
+  {
+    "x": 169,
+    "y": 251,
+    "type": "make",
+    "game": "Mar 10, 2013, NOH vs POR",
+    "time": "3rd Qtr, 8:14 remaining",
+    "shot": "Made 2-pointer from 21 ft",
+    "score": "NOH now leads 61-51"
+  },
+  {
+    "x": 252,
+    "y": 57,
+    "type": "make",
+    "game": "Mar 10, 2013, NOH vs POR",
+    "time": "3rd Qtr, 6:53 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "NOH now leads 63-56"
+  },
+  {
+    "x": 53,
+    "y": 34,
+    "type": "miss",
+    "game": "Mar 10, 2013, NOH vs POR",
+    "time": "3rd Qtr, 3:02 remaining",
+    "shot": "Missed 2-pointer from 19 ft",
+    "score": "NOH leads 65-63"
+  },
+  {
+    "x": 307,
+    "y": 116,
+    "type": "miss",
+    "game": "Mar 10, 2013, NOH vs POR",
+    "time": "4th Qtr, 5:32 remaining",
+    "shot": "Missed 2-pointer from 9 ft",
+    "score": "NOH leads 87-82"
+  },
+  {
+    "x": 225,
+    "y": 51,
+    "type": "make",
+    "game": "Mar 10, 2013, NOH vs POR",
+    "time": "4th Qtr, 2:14 remaining",
+    "shot": "Made 2-pointer from 2 ft",
+    "score": "NOH now leads 92-91"
+  },
+  {
+    "x": 307,
+    "y": 53,
+    "type": "miss",
+    "game": "Mar 12, 2013, NOH at BRK",
+    "time": "1st Qtr, 10:46 remaining",
+    "shot": "Missed 2-pointer from 7 ft",
+    "score": "NOH trails 0-2"
+  },
+  {
+    "x": 241,
+    "y": 61,
+    "type": "make",
+    "game": "Mar 12, 2013, NOH at BRK",
+    "time": "1st Qtr, 9:47 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "NOH now tied 2-2"
+  },
+  {
+    "x": 217,
+    "y": 237,
+    "type": "miss",
+    "game": "Mar 12, 2013, NOH at BRK",
+    "time": "1st Qtr, 9:17 remaining",
+    "shot": "Missed 2-pointer from 19 ft",
+    "score": "NOH tied 2-2"
+  },
+  {
+    "x": 433,
+    "y": 114,
+    "type": "miss",
+    "game": "Mar 12, 2013, NOH at BRK",
+    "time": "1st Qtr, 5:31 remaining",
+    "shot": "Missed 2-pointer from 20 ft",
+    "score": "NOH trails 4-11"
+  },
+  {
+    "x": 260,
+    "y": 54,
+    "type": "make",
+    "game": "Mar 12, 2013, NOH at BRK",
+    "time": "1st Qtr, 1:19 remaining",
+    "shot": "Made 2-pointer from 2 ft",
+    "score": "NOH now trails 15-26"
+  },
+  {
+    "x": 222,
+    "y": 56,
+    "type": "make",
+    "game": "Mar 12, 2013, NOH at BRK",
+    "time": "2nd Qtr, 11:09 remaining",
+    "shot": "Made 2-pointer from 2 ft",
+    "score": "NOH now trails 23-28"
+  },
+  {
+    "x": 53,
+    "y": 57,
+    "type": "miss",
+    "game": "Mar 12, 2013, NOH at BRK",
+    "time": "2nd Qtr, 10:40 remaining",
+    "shot": "Missed 2-pointer from 19 ft",
+    "score": "NOH trails 23-28"
+  },
+  {
+    "x": 87,
+    "y": 48,
+    "type": "miss",
+    "game": "Mar 12, 2013, NOH at BRK",
+    "time": "2nd Qtr, 4:08 remaining",
+    "shot": "Missed 2-pointer from 15 ft",
+    "score": "NOH trails 34-45"
+  },
+  {
+    "x": 216,
+    "y": 92,
+    "type": "make",
+    "game": "Mar 12, 2013, NOH at BRK",
+    "time": "2nd Qtr, 3:45 remaining",
+    "shot": "Made 2-pointer from 5 ft",
+    "score": "NOH now trails 36-47"
+  },
+  {
+    "x": 305,
+    "y": 62,
+    "type": "make",
+    "game": "Mar 12, 2013, NOH at BRK",
+    "time": "2nd Qtr, 1:40 remaining",
+    "shot": "Made 2-pointer from 7 ft",
+    "score": "NOH now trails 44-51"
+  },
+  {
+    "x": 323,
+    "y": 54,
+    "type": "make",
+    "game": "Mar 12, 2013, NOH at BRK",
+    "time": "2nd Qtr, 0:0.5 remaining",
+    "shot": "Made 2-pointer from 8 ft",
+    "score": "NOH now trails 48-57"
+  },
+  {
+    "x": 242,
+    "y": 105,
+    "type": "make",
+    "game": "Mar 12, 2013, NOH at BRK",
+    "time": "3rd Qtr, 9:20 remaining",
+    "shot": "Made 2-pointer from 6 ft",
+    "score": "NOH now trails 52-60"
+  },
+  {
+    "x": 240,
+    "y": 57,
+    "type": "make",
+    "game": "Mar 12, 2013, NOH at BRK",
+    "time": "4th Qtr, 10:28 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "NOH now trails 81-85"
+  },
+  {
+    "x": 261,
+    "y": 53,
+    "type": "make",
+    "game": "Mar 12, 2013, NOH at BRK",
+    "time": "4th Qtr, 1:56 remaining",
+    "shot": "Made 2-pointer from 2 ft",
+    "score": "NOH now trails 95-106"
+  },
+  {
+    "x": 332,
+    "y": 207,
+    "type": "miss",
+    "game": "Mar 15, 2013, NOH at WAS",
+    "time": "1st Qtr, 8:36 remaining",
+    "shot": "Missed 2-pointer from 18 ft",
+    "score": "NOH trails 4-8"
+  },
+  {
+    "x": 260,
+    "y": 62,
+    "type": "make",
+    "game": "Mar 15, 2013, NOH at WAS",
+    "time": "1st Qtr, 6:31 remaining",
+    "shot": "Made 2-pointer from 2 ft",
+    "score": "NOH now trails 11-13"
+  },
+  {
+    "x": 173,
+    "y": 48,
+    "type": "make",
+    "game": "Mar 15, 2013, NOH at WAS",
+    "time": "1st Qtr, 4:31 remaining",
+    "shot": "Made 2-pointer from 7 ft",
+    "score": "NOH now leads 17-16"
+  },
+  {
+    "x": 250,
+    "y": 51,
+    "type": "make",
+    "game": "Mar 15, 2013, NOH at WAS",
+    "time": "1st Qtr, 3:54 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "NOH now leads 19-18"
+  },
+  {
+    "x": 263,
+    "y": 50,
+    "type": "miss",
+    "game": "Mar 15, 2013, NOH at WAS",
+    "time": "1st Qtr, 2:55 remaining",
+    "shot": "Missed 2-pointer from 2 ft",
+    "score": "NOH leads 21-20"
+  },
+  {
+    "x": 241,
+    "y": 45,
+    "type": "make",
+    "game": "Mar 15, 2013, NOH at WAS",
+    "time": "1st Qtr, 2:51 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "NOH now leads 23-20"
+  },
+  {
+    "x": 112,
+    "y": 135,
+    "type": "miss",
+    "game": "Mar 15, 2013, NOH at WAS",
+    "time": "2nd Qtr, 3:30 remaining",
+    "shot": "Missed 2-pointer from 15 ft",
+    "score": "NOH trails 40-44"
+  },
+  {
+    "x": 264,
+    "y": 62,
+    "type": "miss",
+    "game": "Mar 15, 2013, NOH at WAS",
+    "time": "3rd Qtr, 11:44 remaining",
+    "shot": "Missed 2-pointer from 3 ft",
+    "score": "NOH tied 50-50"
+  },
+  {
+    "x": 261,
+    "y": 84,
+    "type": "make",
+    "game": "Mar 17, 2013, NOH at MIN",
+    "time": "1st Qtr, 10:55 remaining",
+    "shot": "Made 2-pointer from 4 ft",
+    "score": "NOH now trails 2-4"
+  },
+  {
+    "x": 240,
+    "y": 65,
+    "type": "make",
+    "game": "Mar 17, 2013, NOH at MIN",
+    "time": "1st Qtr, 9:51 remaining",
+    "shot": "Made 2-pointer from 2 ft",
+    "score": "NOH now leads 6-5"
+  },
+  {
+    "x": 222,
+    "y": 48,
+    "type": "make",
+    "game": "Mar 17, 2013, NOH at MIN",
+    "time": "1st Qtr, 4:49 remaining",
+    "shot": "Made 2-pointer from 2 ft",
+    "score": "NOH now leads 17-11"
+  },
+  {
+    "x": 236,
+    "y": 65,
+    "type": "make",
+    "game": "Mar 17, 2013, NOH at MIN",
+    "time": "2nd Qtr, 5:08 remaining",
+    "shot": "Made 2-pointer from 2 ft",
+    "score": "NOH now leads 47-39"
+  },
+  {
+    "x": 277,
+    "y": 64,
+    "type": "miss",
+    "game": "Mar 17, 2013, NOH at MIN",
+    "time": "3rd Qtr, 10:16 remaining",
+    "shot": "Missed 2-pointer from 4 ft",
+    "score": "NOH leads 54-52"
+  },
+  {
+    "x": 222,
+    "y": 56,
+    "type": "miss",
+    "game": "Mar 17, 2013, NOH at MIN",
+    "time": "3rd Qtr, 7:46 remaining",
+    "shot": "Missed 2-pointer from 2 ft",
+    "score": "NOH leads 62-57"
+  },
+  {
+    "x": 236,
+    "y": 256,
+    "type": "miss",
+    "game": "Mar 17, 2013, NOH at MIN",
+    "time": "3rd Qtr, 6:16 remaining",
+    "shot": "Missed 2-pointer from 21 ft",
+    "score": "NOH trails 62-63"
+  },
+  {
+    "x": 236,
+    "y": 70,
+    "type": "miss",
+    "game": "Mar 17, 2013, NOH at MIN",
+    "time": "3rd Qtr, 2:16 remaining",
+    "shot": "Missed 2-pointer from 2 ft",
+    "score": "NOH trails 68-69"
+  },
+  {
+    "x": 244,
+    "y": 121,
+    "type": "miss",
+    "game": "Mar 17, 2013, NOH at MIN",
+    "time": "3rd Qtr, 1:23 remaining",
+    "shot": "Missed 2-pointer from 7 ft",
+    "score": "NOH trails 70-72"
+  },
+  {
+    "x": 232,
+    "y": 61,
+    "type": "make",
+    "game": "Mar 17, 2013, NOH at MIN",
+    "time": "3rd Qtr, 0:59.2 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "NOH now trails 72-74"
+  },
+  {
+    "x": 238,
+    "y": 45,
+    "type": "make",
+    "game": "Mar 17, 2013, NOH at MIN",
+    "time": "4th Qtr, 10:23 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "NOH now trails 76-78"
+  },
+  {
+    "x": 240,
+    "y": 51,
+    "type": "make",
+    "game": "Mar 17, 2013, NOH at MIN",
+    "time": "4th Qtr, 8:12 remaining",
+    "shot": "Made 2-pointer from 0 ft",
+    "score": "NOH now tied 80-80"
+  },
+  {
+    "x": 230,
+    "y": 75,
+    "type": "miss",
+    "game": "Mar 17, 2013, NOH at MIN",
+    "time": "4th Qtr, 3:52 remaining",
+    "shot": "Missed 2-pointer from 3 ft",
+    "score": "NOH tied 88-88"
+  },
+  {
+    "x": 120,
+    "y": 168,
+    "type": "miss",
+    "game": "Mar 18, 2013, NOH vs GSW",
+    "time": "1st Qtr, 11:24 remaining",
+    "shot": "Missed 2-pointer from 17 ft",
+    "score": "NOH tied 0-0"
+  },
+  {
+    "x": 175,
+    "y": 98,
+    "type": "make",
+    "game": "Mar 18, 2013, NOH vs GSW",
+    "time": "1st Qtr, 11:06 remaining",
+    "shot": "Made 2-pointer from 8 ft",
+    "score": "NOH now leads 2-0"
+  },
+  {
+    "x": 305,
+    "y": 174,
+    "type": "make",
+    "game": "Mar 18, 2013, NOH vs GSW",
+    "time": "1st Qtr, 8:30 remaining",
+    "shot": "Made 2-pointer from 14 ft",
+    "score": "NOH now leads 10-7"
+  },
+  {
+    "x": 236,
+    "y": 47,
+    "type": "make",
+    "game": "Mar 18, 2013, NOH vs GSW",
+    "time": "1st Qtr, 7:56 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "NOH now leads 12-9"
+  },
+  {
+    "x": 381,
+    "y": 155,
+    "type": "miss",
+    "game": "Mar 18, 2013, NOH vs GSW",
+    "time": "2nd Qtr, 5:15 remaining",
+    "shot": "Missed 2-pointer from 18 ft",
+    "score": "NOH leads 34-32"
+  },
+  {
+    "x": 216,
+    "y": 70,
+    "type": "miss",
+    "game": "Mar 18, 2013, NOH vs GSW",
+    "time": "3rd Qtr, 9:36 remaining",
+    "shot": "Missed 2-pointer from 3 ft",
+    "score": "NOH trails 40-50"
+  },
+  {
+    "x": 235,
+    "y": 59,
+    "type": "make",
+    "game": "Mar 18, 2013, NOH vs GSW",
+    "time": "3rd Qtr, 9:07 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "NOH now trails 42-50"
+  },
+  {
+    "x": 241,
+    "y": 48,
+    "type": "make",
+    "game": "Mar 18, 2013, NOH vs GSW",
+    "time": "3rd Qtr, 5:55 remaining",
+    "shot": "Made 2-pointer from 0 ft",
+    "score": "NOH now trails 48-59"
+  },
+  {
+    "x": 241,
+    "y": 51,
+    "type": "make",
+    "game": "Mar 18, 2013, NOH vs GSW",
+    "time": "3rd Qtr, 4:37 remaining",
+    "shot": "Made 2-pointer from 0 ft",
+    "score": "NOH now trails 52-60"
+  },
+  {
+    "x": 403,
+    "y": 64,
+    "type": "miss",
+    "game": "Mar 18, 2013, NOH vs GSW",
+    "time": "4th Qtr, 7:13 remaining",
+    "shot": "Missed 2-pointer from 16 ft",
+    "score": "NOH trails 65-78"
+  },
+  {
+    "x": 246,
+    "y": 69,
+    "type": "make",
+    "game": "Mar 18, 2013, NOH vs GSW",
+    "time": "4th Qtr, 6:42 remaining",
+    "shot": "Made 2-pointer from 2 ft",
+    "score": "NOH now trails 69-78"
+  },
+  {
+    "x": 255,
+    "y": 54,
+    "type": "miss",
+    "game": "Mar 18, 2013, NOH vs GSW",
+    "time": "4th Qtr, 2:22 remaining",
+    "shot": "Missed 2-pointer from 2 ft",
+    "score": "NOH trails 72-88"
+  },
+  {
+    "x": 208,
+    "y": 231,
+    "type": "make",
+    "game": "Mar 20, 2013, NOH vs BOS",
+    "time": "1st Qtr, 11:25 remaining",
+    "shot": "Made 2-pointer from 18 ft",
+    "score": "NOH now tied 2-2"
+  },
+  {
+    "x": 238,
+    "y": 51,
+    "type": "make",
+    "game": "Mar 20, 2013, NOH vs BOS",
+    "time": "1st Qtr, 4:51 remaining",
+    "shot": "Made 2-pointer from 0 ft",
+    "score": "NOH now trails 9-17"
+  },
+  {
+    "x": 253,
+    "y": 62,
+    "type": "make",
+    "game": "Mar 20, 2013, NOH vs BOS",
+    "time": "3rd Qtr, 9:54 remaining",
+    "shot": "Made 2-pointer from 2 ft",
+    "score": "NOH now trails 49-60"
+  },
+  {
+    "x": 294,
+    "y": 128,
+    "type": "miss",
+    "game": "Mar 20, 2013, NOH vs BOS",
+    "time": "3rd Qtr, 8:08 remaining",
+    "shot": "Missed 2-pointer from 9 ft",
+    "score": "NOH trails 52-60"
+  },
+  {
+    "x": 427,
+    "y": 59,
+    "type": "miss",
+    "game": "Mar 20, 2013, NOH vs BOS",
+    "time": "3rd Qtr, 6:22 remaining",
+    "shot": "Missed 2-pointer from 19 ft",
+    "score": "NOH trails 56-63"
+  },
+  {
+    "x": 241,
+    "y": 69,
+    "type": "miss",
+    "game": "Mar 20, 2013, NOH vs BOS",
+    "time": "3rd Qtr, 1:25 remaining",
+    "shot": "Missed 2-pointer from 2 ft",
+    "score": "NOH trails 64-65"
+  },
+  {
+    "x": 233,
+    "y": 70,
+    "type": "make",
+    "game": "Mar 20, 2013, NOH vs BOS",
+    "time": "4th Qtr, 0:0.3 remaining",
+    "shot": "Made 2-pointer from 2 ft",
+    "score": "NOH now leads 87-86"
+  },
+  {
+    "x": 101,
+    "y": 169,
+    "type": "miss",
+    "game": "Mar 22, 2013, NOH vs MEM",
+    "time": "1st Qtr, 11:45 remaining",
+    "shot": "Missed 2-pointer from 18 ft",
+    "score": "NOH tied 0-0"
+  },
+  {
+    "x": 217,
+    "y": 61,
+    "type": "miss",
+    "game": "Mar 22, 2013, NOH vs MEM",
+    "time": "1st Qtr, 10:28 remaining",
+    "shot": "Missed 2-pointer from 3 ft",
+    "score": "NOH tied 2-2"
+  },
+  {
+    "x": 225,
+    "y": 64,
+    "type": "make",
+    "game": "Mar 22, 2013, NOH vs MEM",
+    "time": "1st Qtr, 10:25 remaining",
+    "shot": "Made 2-pointer from 2 ft",
+    "score": "NOH now leads 4-2"
+  },
+  {
+    "x": 353,
+    "y": 135,
+    "type": "miss",
+    "game": "Mar 22, 2013, NOH vs MEM",
+    "time": "1st Qtr, 9:08 remaining",
+    "shot": "Missed 2-pointer from 14 ft",
+    "score": "NOH trails 4-6"
+  },
+  {
+    "x": 369,
+    "y": 125,
+    "type": "miss",
+    "game": "Mar 22, 2013, NOH vs MEM",
+    "time": "1st Qtr, 7:29 remaining",
+    "shot": "Missed 2-pointer from 15 ft",
+    "score": "NOH trails 6-9"
+  },
+  {
+    "x": 282,
+    "y": 57,
+    "type": "make",
+    "game": "Mar 22, 2013, NOH vs MEM",
+    "time": "1st Qtr, 6:49 remaining",
+    "shot": "Made 2-pointer from 4 ft",
+    "score": "NOH now trails 8-9"
+  },
+  {
+    "x": 380,
+    "y": 50,
+    "type": "make",
+    "game": "Mar 22, 2013, NOH vs MEM",
+    "time": "1st Qtr, 4:33 remaining",
+    "shot": "Made 2-pointer from 14 ft",
+    "score": "NOH now trails 10-13"
+  },
+  {
+    "x": 246,
+    "y": 64,
+    "type": "make",
+    "game": "Mar 22, 2013, NOH vs MEM",
+    "time": "2nd Qtr, 9:08 remaining",
+    "shot": "Made 2-pointer from 2 ft",
+    "score": "NOH now trails 18-25"
+  },
+  {
+    "x": 269,
+    "y": 59,
+    "type": "make",
+    "game": "Mar 22, 2013, NOH vs MEM",
+    "time": "2nd Qtr, 8:11 remaining",
+    "shot": "Made 2-pointer from 3 ft",
+    "score": "NOH now trails 20-25"
+  },
+  {
+    "x": 321,
+    "y": 128,
+    "type": "make",
+    "game": "Mar 22, 2013, NOH vs MEM",
+    "time": "2nd Qtr, 4:54 remaining",
+    "shot": "Made 2-pointer from 11 ft",
+    "score": "NOH now trails 29-33"
+  },
+  {
+    "x": 123,
+    "y": 45,
+    "type": "make",
+    "game": "Mar 22, 2013, NOH vs MEM",
+    "time": "2nd Qtr, 3:48 remaining",
+    "shot": "Made 2-pointer from 12 ft",
+    "score": "NOH now trails 33-35"
+  },
+  {
+    "x": 383,
+    "y": 157,
+    "type": "miss",
+    "game": "Mar 22, 2013, NOH vs MEM",
+    "time": "3rd Qtr, 8:42 remaining",
+    "shot": "Missed 2-pointer from 18 ft",
+    "score": "NOH leads 52-47"
+  },
+  {
+    "x": 240,
+    "y": 51,
+    "type": "make",
+    "game": "Mar 22, 2013, NOH vs MEM",
+    "time": "4th Qtr, 8:27 remaining",
+    "shot": "Made 2-pointer from 0 ft",
+    "score": "NOH now leads 78-64"
+  },
+  {
+    "x": 224,
+    "y": 59,
+    "type": "miss",
+    "game": "Mar 22, 2013, NOH vs MEM",
+    "time": "4th Qtr, 4:46 remaining",
+    "shot": "Missed 2-pointer from 2 ft",
+    "score": "NOH leads 80-71"
+  },
+  {
+    "x": 107,
+    "y": 141,
+    "type": "miss",
+    "game": "Mar 25, 2013, NOH vs DEN",
+    "time": "1st Qtr, 11:21 remaining",
+    "shot": "Missed 2-pointer from 16 ft",
+    "score": "NOH trails 0-2"
+  },
+  {
+    "x": 188,
+    "y": 51,
+    "type": "make",
+    "game": "Mar 25, 2013, NOH vs DEN",
+    "time": "1st Qtr, 9:40 remaining",
+    "shot": "Made 2-pointer from 5 ft",
+    "score": "NOH now leads 7-2"
+  },
+  {
+    "x": 74,
+    "y": 42,
+    "type": "make",
+    "game": "Mar 25, 2013, NOH vs DEN",
+    "time": "2nd Qtr, 6:05 remaining",
+    "shot": "Made 2-pointer from 17 ft",
+    "score": "NOH now leads 41-25"
+  },
+  {
+    "x": 247,
+    "y": 195,
+    "type": "make",
+    "game": "Mar 25, 2013, NOH vs DEN",
+    "time": "2nd Qtr, 3:14 remaining",
+    "shot": "Made 2-pointer from 15 ft",
+    "score": "NOH now leads 50-37"
+  },
+  {
+    "x": 285,
+    "y": 50,
+    "type": "make",
+    "game": "Mar 25, 2013, NOH vs DEN",
+    "time": "3rd Qtr, 10:34 remaining",
+    "shot": "Made 2-pointer from 5 ft",
+    "score": "NOH now leads 63-42"
+  },
+  {
+    "x": 229,
+    "y": 59,
+    "type": "miss",
+    "game": "Mar 25, 2013, NOH vs DEN",
+    "time": "3rd Qtr, 7:46 remaining",
+    "shot": "Missed 2-pointer from 1 ft",
+    "score": "NOH leads 65-52"
+  },
+  {
+    "x": 233,
+    "y": 51,
+    "type": "make",
+    "game": "Mar 25, 2013, NOH vs DEN",
+    "time": "4th Qtr, 3:26 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "NOH now leads 103-84"
+  },
+  {
+    "x": 324,
+    "y": 133,
+    "type": "miss",
+    "game": "Mar 25, 2013, NOH vs DEN",
+    "time": "4th Qtr, 1:16 remaining",
+    "shot": "Missed 2-pointer from 12 ft",
+    "score": "NOH leads 108-84"
+  },
+  {
+    "x": 370,
+    "y": 50,
+    "type": "miss",
+    "game": "Mar 27, 2013, NOH vs LAC",
+    "time": "1st Qtr, 10:56 remaining",
+    "shot": "Missed 2-pointer from 13 ft",
+    "score": "NOH tied 0-0"
+  },
+  {
+    "x": 246,
+    "y": 57,
+    "type": "miss",
+    "game": "Mar 27, 2013, NOH vs LAC",
+    "time": "1st Qtr, 9:43 remaining",
+    "shot": "Missed 2-pointer from 1 ft",
+    "score": "NOH tied 2-2"
+  },
+  {
+    "x": 221,
+    "y": 67,
+    "type": "miss",
+    "game": "Mar 27, 2013, NOH vs LAC",
+    "time": "2nd Qtr, 6:04 remaining",
+    "shot": "Missed 2-pointer from 3 ft",
+    "score": "NOH leads 39-34"
+  },
+  {
+    "x": 346,
+    "y": 203,
+    "type": "make",
+    "game": "Mar 27, 2013, NOH vs LAC",
+    "time": "2nd Qtr, 3:37 remaining",
+    "shot": "Made 2-pointer from 19 ft",
+    "score": "NOH now leads 43-39"
+  },
+  {
+    "x": 246,
+    "y": 53,
+    "type": "make",
+    "game": "Mar 27, 2013, NOH vs LAC",
+    "time": "2nd Qtr, 1:08 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "NOH now tied 47-47"
+  },
+  {
+    "x": 113,
+    "y": 177,
+    "type": "make",
+    "game": "Mar 27, 2013, NOH vs LAC",
+    "time": "3rd Qtr, 7:58 remaining",
+    "shot": "Made 2-pointer from 18 ft",
+    "score": "NOH now trails 56-63"
+  },
+  {
+    "x": 69,
+    "y": 141,
+    "type": "make",
+    "game": "Mar 27, 2013, NOH vs LAC",
+    "time": "3rd Qtr, 7:36 remaining",
+    "shot": "Made 2-pointer from 19 ft",
+    "score": "NOH now trails 58-63"
+  },
+  {
+    "x": 321,
+    "y": 95,
+    "type": "make",
+    "game": "Mar 27, 2013, NOH vs LAC",
+    "time": "3rd Qtr, 4:54 remaining",
+    "shot": "Made 2-pointer from 9 ft",
+    "score": "NOH now trails 64-68"
+  },
+  {
+    "x": 184,
+    "y": 259,
+    "type": "make",
+    "game": "Mar 27, 2013, NOH vs LAC",
+    "time": "3rd Qtr, 3:46 remaining",
+    "shot": "Made 2-pointer from 22 ft",
+    "score": "NOH now trails 69-70"
+  },
+  {
+    "x": 225,
+    "y": 64,
+    "type": "make",
+    "game": "Mar 27, 2013, NOH vs LAC",
+    "time": "3rd Qtr, 1:00 remaining",
+    "shot": "Made 2-pointer from 2 ft",
+    "score": "NOH now trails 76-77"
+  },
+  {
+    "x": 217,
+    "y": 57,
+    "type": "make",
+    "game": "Mar 27, 2013, NOH vs LAC",
+    "time": "4th Qtr, 4:13 remaining",
+    "shot": "Made 2-pointer from 2 ft",
+    "score": "NOH now trails 87-98"
+  },
+  {
+    "x": 222,
+    "y": 57,
+    "type": "make",
+    "game": "Mar 27, 2013, NOH vs LAC",
+    "time": "4th Qtr, 2:36 remaining",
+    "shot": "Made 2-pointer from 2 ft",
+    "score": "NOH now trails 91-99"
+  },
+  {
+    "x": 210,
+    "y": 53,
+    "type": "miss",
+    "game": "Mar 27, 2013, NOH vs LAC",
+    "time": "4th Qtr, 1:20 remaining",
+    "shot": "Missed 2-pointer from 3 ft",
+    "score": "NOH trails 91-101"
+  },
+  {
+    "x": 93,
+    "y": 149,
+    "type": "miss",
+    "game": "Mar 29, 2013, NOH vs MIA",
+    "time": "1st Qtr, 9:08 remaining",
+    "shot": "Missed 2-pointer from 18 ft",
+    "score": "NOH trails 2-4"
+  },
+  {
+    "x": 266,
+    "y": 64,
+    "type": "make",
+    "game": "Mar 29, 2013, NOH vs MIA",
+    "time": "1st Qtr, 8:10 remaining",
+    "shot": "Made 2-pointer from 3 ft",
+    "score": "NOH now leads 6-4"
+  },
+  {
+    "x": 271,
+    "y": 62,
+    "type": "miss",
+    "game": "Mar 29, 2013, NOH vs MIA",
+    "time": "1st Qtr, 6:04 remaining",
+    "shot": "Missed 2-pointer from 3 ft",
+    "score": "NOH leads 11-9"
+  },
+  {
+    "x": 88,
+    "y": 128,
+    "type": "miss",
+    "game": "Mar 29, 2013, NOH vs MIA",
+    "time": "1st Qtr, 5:51 remaining",
+    "shot": "Missed 2-pointer from 17 ft",
+    "score": "NOH leads 11-9"
+  },
+  {
+    "x": 433,
+    "y": 54,
+    "type": "miss",
+    "game": "Mar 29, 2013, NOH vs MIA",
+    "time": "3rd Qtr, 5:41 remaining",
+    "shot": "Missed 2-pointer from 19 ft",
+    "score": "NOH trails 45-70"
+  },
+  {
+    "x": 252,
+    "y": 53,
+    "type": "make",
+    "game": "Mar 29, 2013, NOH vs MIA",
+    "time": "3rd Qtr, 2:38 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "NOH now trails 51-75"
+  },
+  {
+    "x": 240,
+    "y": 67,
+    "type": "make",
+    "game": "Mar 29, 2013, NOH vs MIA",
+    "time": "4th Qtr, 4:35 remaining",
+    "shot": "Made 2-pointer from 2 ft",
+    "score": "NOH now trails 79-98"
+  },
+  {
+    "x": 172,
+    "y": 119,
+    "type": "make",
+    "game": "Mar 29, 2013, NOH vs MIA",
+    "time": "4th Qtr, 3:06 remaining",
+    "shot": "Made 2-pointer from 10 ft",
+    "score": "NOH now trails 83-103"
+  },
+  {
+    "x": 151,
+    "y": 127,
+    "type": "miss",
+    "game": "Mar 29, 2013, NOH vs MIA",
+    "time": "4th Qtr, 1:52 remaining",
+    "shot": "Missed 2-pointer from 12 ft",
+    "score": "NOH trails 85-106"
+  },
+  {
+    "x": 230,
+    "y": 57,
+    "type": "make",
+    "game": "Mar 29, 2013, NOH vs MIA",
+    "time": "4th Qtr, 0:4.1 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "NOH now trails 89-108"
+  },
+  {
+    "x": 310,
+    "y": 212,
+    "type": "miss",
+    "game": "Mar 31, 2013, NOH vs CLE",
+    "time": "1st Qtr, 8:08 remaining",
+    "shot": "Missed 2-pointer from 18 ft",
+    "score": "NOH trails 4-8"
+  },
+  {
+    "x": 233,
+    "y": 59,
+    "type": "make",
+    "game": "Mar 31, 2013, NOH vs CLE",
+    "time": "1st Qtr, 7:25 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "NOH now tied 8-8"
+  },
+  {
+    "x": 121,
+    "y": 127,
+    "type": "miss",
+    "game": "Mar 31, 2013, NOH vs CLE",
+    "time": "1st Qtr, 3:02 remaining",
+    "shot": "Missed 2-pointer from 14 ft",
+    "score": "NOH leads 16-14"
+  },
+  {
+    "x": 380,
+    "y": 72,
+    "type": "miss",
+    "game": "Mar 31, 2013, NOH vs CLE",
+    "time": "2nd Qtr, 2:08 remaining",
+    "shot": "Missed 2-pointer from 14 ft",
+    "score": "NOH leads 43-42"
+  },
+  {
+    "x": 253,
+    "y": 198,
+    "type": "make",
+    "game": "Mar 31, 2013, NOH vs CLE",
+    "time": "3rd Qtr, 11:09 remaining",
+    "shot": "Made 2-pointer from 15 ft",
+    "score": "NOH now trails 50-51"
+  },
+  {
+    "x": 241,
+    "y": 51,
+    "type": "make",
+    "game": "Mar 31, 2013, NOH vs CLE",
+    "time": "3rd Qtr, 8:44 remaining",
+    "shot": "Made 2-pointer from 0 ft",
+    "score": "NOH now leads 60-53"
+  },
+  {
+    "x": 255,
+    "y": 67,
+    "type": "make",
+    "game": "Mar 31, 2013, NOH vs CLE",
+    "time": "3rd Qtr, 8:07 remaining",
+    "shot": "Made 2-pointer from 2 ft",
+    "score": "NOH now leads 65-53"
+  },
+  {
+    "x": 264,
+    "y": 256,
+    "type": "miss",
+    "game": "Mar 31, 2013, NOH vs CLE",
+    "time": "3rd Qtr, 5:19 remaining",
+    "shot": "Missed 2-pointer from 21 ft",
+    "score": "NOH leads 70-57"
+  },
+  {
+    "x": 227,
+    "y": 65,
+    "type": "make",
+    "game": "Mar 31, 2013, NOH vs CLE",
+    "time": "3rd Qtr, 2:48 remaining",
+    "shot": "Made 2-pointer from 2 ft",
+    "score": "NOH now leads 75-64"
+  },
+  {
+    "x": 169,
+    "y": 223,
+    "type": "miss",
+    "game": "Mar 31, 2013, NOH vs CLE",
+    "time": "3rd Qtr, 1:16 remaining",
+    "shot": "Missed 2-pointer from 19 ft",
+    "score": "NOH leads 78-69"
+  },
+  {
+    "x": 255,
+    "y": 81,
+    "type": "miss",
+    "game": "Mar 31, 2013, NOH vs CLE",
+    "time": "4th Qtr, 5:01 remaining",
+    "shot": "Missed 2-pointer from 3 ft",
+    "score": "NOH leads 98-81"
+  },
+  {
+    "x": 135,
+    "y": 193,
+    "type": "miss",
+    "game": "Apr 3, 2013, NOH at GSW",
+    "time": "1st Qtr, 11:27 remaining",
+    "shot": "Missed 2-pointer from 18 ft",
+    "score": "NOH trails 0-2"
+  },
+  {
+    "x": 219,
+    "y": 229,
+    "type": "miss",
+    "game": "Apr 3, 2013, NOH at GSW",
+    "time": "1st Qtr, 8:55 remaining",
+    "shot": "Missed 2-pointer from 18 ft",
+    "score": "NOH leads 7-6"
+  },
+  {
+    "x": 337,
+    "y": 215,
+    "type": "miss",
+    "game": "Apr 3, 2013, NOH at GSW",
+    "time": "1st Qtr, 6:26 remaining",
+    "shot": "Missed 2-pointer from 19 ft",
+    "score": "NOH leads 11-10"
+  },
+  {
+    "x": 255,
+    "y": 56,
+    "type": "make",
+    "game": "Apr 3, 2013, NOH at GSW",
+    "time": "2nd Qtr, 6:24 remaining",
+    "shot": "Made 2-pointer from 2 ft",
+    "score": "NOH now leads 34-33"
+  },
+  {
+    "x": 227,
+    "y": 65,
+    "type": "miss",
+    "game": "Apr 3, 2013, NOH at GSW",
+    "time": "2nd Qtr, 4:22 remaining",
+    "shot": "Missed 2-pointer from 2 ft",
+    "score": "NOH trails 36-39"
+  },
+  {
+    "x": 180,
+    "y": 78,
+    "type": "miss",
+    "game": "Apr 3, 2013, NOH at GSW",
+    "time": "2nd Qtr, 3:40 remaining",
+    "shot": "Missed 2-pointer from 7 ft",
+    "score": "NOH trails 36-41"
+  },
+  {
+    "x": 298,
+    "y": 143,
+    "type": "miss",
+    "game": "Apr 3, 2013, NOH at GSW",
+    "time": "3rd Qtr, 11:06 remaining",
+    "shot": "Missed 2-pointer from 11 ft",
+    "score": "NOH trails 44-51"
+  },
+  {
+    "x": 225,
+    "y": 212,
+    "type": "miss",
+    "game": "Apr 3, 2013, NOH at GSW",
+    "time": "3rd Qtr, 7:44 remaining",
+    "shot": "Missed 2-pointer from 16 ft",
+    "score": "NOH trails 49-57"
+  },
+  {
+    "x": 237,
+    "y": 58,
+    "type": "make",
+    "game": "Apr 3, 2013, NOH at GSW",
+    "time": "3rd Qtr, 6:17 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "NOH now trails 56-60"
+  },
+  {
+    "x": 291,
+    "y": 114,
+    "type": "miss",
+    "game": "Apr 3, 2013, NOH at GSW",
+    "time": "3rd Qtr, 4:42 remaining",
+    "shot": "Missed 2-pointer from 8 ft",
+    "score": "NOH trails 61-65"
+  },
+  {
+    "x": 332,
+    "y": 73,
+    "type": "miss",
+    "game": "Apr 3, 2013, NOH at GSW",
+    "time": "4th Qtr, 6:39 remaining",
+    "shot": "Missed 2-pointer from 9 ft",
+    "score": "NOH trails 74-84"
+  },
+  {
+    "x": 99,
+    "y": 193,
+    "type": "make",
+    "game": "Apr 5, 2013, NOH at UTA",
+    "time": "1st Qtr, 9:43 remaining",
+    "shot": "Made 2-pointer from 20 ft",
+    "score": "NOH now trails 4-6"
+  },
+  {
+    "x": 246,
+    "y": 250,
+    "type": "miss",
+    "game": "Apr 5, 2013, NOH at UTA",
+    "time": "1st Qtr, 8:18 remaining",
+    "shot": "Missed 2-pointer from 20 ft",
+    "score": "NOH trails 6-9"
+  },
+  {
+    "x": 240,
+    "y": 59,
+    "type": "make",
+    "game": "Apr 5, 2013, NOH at UTA",
+    "time": "1st Qtr, 4:09 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "NOH now leads 18-11"
+  },
+  {
+    "x": 247,
+    "y": 199,
+    "type": "miss",
+    "game": "Apr 5, 2013, NOH at UTA",
+    "time": "1st Qtr, 3:43 remaining",
+    "shot": "Missed 2-pointer from 15 ft",
+    "score": "NOH leads 18-11"
+  },
+  {
+    "x": 217,
+    "y": 54,
+    "type": "miss",
+    "game": "Apr 5, 2013, NOH at UTA",
+    "time": "2nd Qtr, 6:38 remaining",
+    "shot": "Missed 2-pointer from 2 ft",
+    "score": "NOH trails 28-34"
+  },
+  {
+    "x": 229,
+    "y": 94,
+    "type": "miss",
+    "game": "Apr 5, 2013, NOH at UTA",
+    "time": "2nd Qtr, 6:33 remaining",
+    "shot": "Missed 2-pointer from 5 ft",
+    "score": "NOH trails 28-34"
+  },
+  {
+    "x": 331,
+    "y": 53,
+    "type": "make",
+    "game": "Apr 5, 2013, NOH at UTA",
+    "time": "2nd Qtr, 2:17 remaining",
+    "shot": "Made 2-pointer from 9 ft",
+    "score": "NOH now trails 36-42"
+  },
+  {
+    "x": 247,
+    "y": 177,
+    "type": "make",
+    "game": "Apr 5, 2013, NOH at UTA",
+    "time": "2nd Qtr, 1:05 remaining",
+    "shot": "Made 2-pointer from 13 ft",
+    "score": "NOH now trails 41-45"
+  },
+  {
+    "x": 255,
+    "y": 48,
+    "type": "miss",
+    "game": "Apr 5, 2013, NOH at UTA",
+    "time": "3rd Qtr, 10:51 remaining",
+    "shot": "Missed 2-pointer from 2 ft",
+    "score": "NOH trails 45-47"
+  },
+  {
+    "x": 158,
+    "y": 94,
+    "type": "make",
+    "game": "Apr 5, 2013, NOH at UTA",
+    "time": "3rd Qtr, 10:16 remaining",
+    "shot": "Made 2-pointer from 9 ft",
+    "score": "NOH now trails 47-50"
+  },
+  {
+    "x": 346,
+    "y": 36,
+    "type": "make",
+    "game": "Apr 5, 2013, NOH at UTA",
+    "time": "3rd Qtr, 9:01 remaining",
+    "shot": "Made 2-pointer from 11 ft",
+    "score": "NOH now trails 49-55"
+  },
+  {
+    "x": 250,
+    "y": 54,
+    "type": "make",
+    "game": "Apr 5, 2013, NOH at UTA",
+    "time": "3rd Qtr, 8:14 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "NOH now trails 53-57"
+  },
+  {
+    "x": 258,
+    "y": 59,
+    "type": "make",
+    "game": "Apr 5, 2013, NOH at UTA",
+    "time": "4th Qtr, 6:25 remaining",
+    "shot": "Made 2-pointer from 2 ft",
+    "score": "NOH now trails 71-82"
+  },
+  {
+    "x": 386,
+    "y": 48,
+    "type": "make",
+    "game": "Apr 5, 2013, NOH at UTA",
+    "time": "4th Qtr, 4:14 remaining",
+    "shot": "Made 2-pointer from 15 ft",
+    "score": "NOH now trails 75-87"
+  },
+  {
+    "x": 233,
+    "y": 51,
+    "type": "make",
+    "game": "Apr 5, 2013, NOH at UTA",
+    "time": "4th Qtr, 1:09 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "NOH now trails 80-93"
+  },
+  {
+    "x": 191,
+    "y": 143,
+    "type": "miss",
+    "game": "Apr 5, 2013, NOH at UTA",
+    "time": "4th Qtr, 0:8.9 remaining",
+    "shot": "Missed 2-pointer from 11 ft",
+    "score": "NOH trails 83-95"
+  },
+  {
+    "x": 211,
+    "y": 201,
+    "type": "miss",
+    "game": "Apr 7, 2013, NOH at PHO",
+    "time": "1st Qtr, 11:03 remaining",
+    "shot": "Missed 2-pointer from 15 ft",
+    "score": "NOH trails 0-3"
+  },
+  {
+    "x": 247,
+    "y": 61,
+    "type": "make",
+    "game": "Apr 7, 2013, NOH at PHO",
+    "time": "1st Qtr, 8:52 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "NOH now trails 6-9"
+  },
+  {
+    "x": 235,
+    "y": 61,
+    "type": "make",
+    "game": "Apr 7, 2013, NOH at PHO",
+    "time": "1st Qtr, 6:29 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "NOH now trails 12-13"
+  },
+  {
+    "x": 250,
+    "y": 57,
+    "type": "miss",
+    "game": "Apr 7, 2013, NOH at PHO",
+    "time": "1st Qtr, 4:25 remaining",
+    "shot": "Missed 2-pointer from 1 ft",
+    "score": "NOH trails 12-19"
+  },
+  {
+    "x": 238,
+    "y": 54,
+    "type": "make",
+    "game": "Apr 7, 2013, NOH at PHO",
+    "time": "2nd Qtr, 4:46 remaining",
+    "shot": "Made 2-pointer from 0 ft",
+    "score": "NOH now trails 29-36"
+  },
+  {
+    "x": 206,
+    "y": 117,
+    "type": "miss",
+    "game": "Apr 7, 2013, NOH at PHO",
+    "time": "2nd Qtr, 4:04 remaining",
+    "shot": "Missed 2-pointer from 8 ft",
+    "score": "NOH trails 29-38"
+  },
+  {
+    "x": 221,
+    "y": 111,
+    "type": "miss",
+    "game": "Apr 7, 2013, NOH at PHO",
+    "time": "3rd Qtr, 11:29 remaining",
+    "shot": "Missed 2-pointer from 6 ft",
+    "score": "NOH trails 39-43"
+  },
+  {
+    "x": 236,
+    "y": 61,
+    "type": "make",
+    "game": "Apr 7, 2013, NOH at PHO",
+    "time": "3rd Qtr, 8:58 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "NOH now leads 51-49"
+  },
+  {
+    "x": 247,
+    "y": 48,
+    "type": "make",
+    "game": "Apr 7, 2013, NOH at PHO",
+    "time": "3rd Qtr, 5:29 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "NOH now leads 63-55"
+  },
+  {
+    "x": 240,
+    "y": 64,
+    "type": "make",
+    "game": "Apr 7, 2013, NOH at PHO",
+    "time": "4th Qtr, 5:45 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "NOH now leads 85-75"
+  },
+  {
+    "x": 227,
+    "y": 67,
+    "type": "miss",
+    "game": "Apr 9, 2013, NOH at LAL",
+    "time": "1st Qtr, 11:21 remaining",
+    "shot": "Missed 2-pointer from 2 ft",
+    "score": "NOH trails 0-2"
+  },
+  {
+    "x": 175,
+    "y": 154,
+    "type": "make",
+    "game": "Apr 9, 2013, NOH at LAL",
+    "time": "1st Qtr, 11:17 remaining",
+    "shot": "Made 2-pointer from 12 ft",
+    "score": "NOH now tied 2-2"
+  },
+  {
+    "x": 304,
+    "y": 84,
+    "type": "miss",
+    "game": "Apr 9, 2013, NOH at LAL",
+    "time": "1st Qtr, 6:33 remaining",
+    "shot": "Missed 2-pointer from 7 ft",
+    "score": "NOH leads 13-11"
+  },
+  {
+    "x": 35,
+    "y": 56,
+    "type": "miss",
+    "game": "Apr 9, 2013, NOH at LAL",
+    "time": "1st Qtr, 5:47 remaining",
+    "shot": "Missed 2-pointer from 21 ft",
+    "score": "NOH leads 15-13"
+  },
+  {
+    "x": 293,
+    "y": 204,
+    "type": "make",
+    "game": "Apr 9, 2013, NOH at LAL",
+    "time": "1st Qtr, 5:20 remaining",
+    "shot": "Made 2-pointer from 16 ft",
+    "score": "NOH now leads 17-15"
+  },
+  {
+    "x": 395,
+    "y": 139,
+    "type": "miss",
+    "game": "Apr 9, 2013, NOH at LAL",
+    "time": "1st Qtr, 4:13 remaining",
+    "shot": "Missed 2-pointer from 18 ft",
+    "score": "NOH leads 19-17"
+  },
+  {
+    "x": 225,
+    "y": 56,
+    "type": "make",
+    "game": "Apr 9, 2013, NOH at LAL",
+    "time": "2nd Qtr, 8:22 remaining",
+    "shot": "Made 2-pointer from 2 ft",
+    "score": "NOH now trails 31-34"
+  },
+  {
+    "x": 224,
+    "y": 69,
+    "type": "miss",
+    "game": "Apr 9, 2013, NOH at LAL",
+    "time": "3rd Qtr, 11:40 remaining",
+    "shot": "Missed 2-pointer from 2 ft",
+    "score": "NOH leads 50-45"
+  },
+  {
+    "x": 255,
+    "y": 50,
+    "type": "miss",
+    "game": "Apr 9, 2013, NOH at LAL",
+    "time": "3rd Qtr, 10:53 remaining",
+    "shot": "Missed 2-pointer from 2 ft",
+    "score": "NOH leads 51-45"
+  },
+  {
+    "x": 233,
+    "y": 67,
+    "type": "make",
+    "game": "Apr 9, 2013, NOH at LAL",
+    "time": "4th Qtr, 8:34 remaining",
+    "shot": "Made 2-pointer from 2 ft",
+    "score": "NOH now trails 78-80"
+  },
+  {
+    "x": 249,
+    "y": 56,
+    "type": "make",
+    "game": "Apr 9, 2013, NOH at LAL",
+    "time": "4th Qtr, 6:02 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "NOH now tied 84-84"
+  },
+  {
+    "x": 240,
+    "y": 61,
+    "type": "make",
+    "game": "Apr 9, 2013, NOH at LAL",
+    "time": "4th Qtr, 2:16 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "NOH now trails 88-94"
+  },
+  {
+    "x": 257,
+    "y": 75,
+    "type": "miss",
+    "game": "Apr 9, 2013, NOH at LAL",
+    "time": "4th Qtr, 1:53 remaining",
+    "shot": "Missed 2-pointer from 3 ft",
+    "score": "NOH trails 88-94"
+  },
+  {
+    "x": 240,
+    "y": 64,
+    "type": "make",
+    "game": "Apr 9, 2013, NOH at LAL",
+    "time": "4th Qtr, 1:04 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "NOH now trails 90-96"
+  },
+  {
+    "x": 238,
+    "y": 146,
+    "type": "miss",
+    "game": "Apr 10, 2013, NOH at SAC",
+    "time": "1st Qtr, 6:26 remaining",
+    "shot": "Missed 2-pointer from 10 ft",
+    "score": "NOH trails 13-14"
+  },
+  {
+    "x": 323,
+    "y": 223,
+    "type": "miss",
+    "game": "Apr 10, 2013, NOH at SAC",
+    "time": "1st Qtr, 2:25 remaining",
+    "shot": "Missed 2-pointer from 19 ft",
+    "score": "NOH trails 22-26"
+  },
+  {
+    "x": 241,
+    "y": 54,
+    "type": "miss",
+    "game": "Apr 10, 2013, NOH at SAC",
+    "time": "2nd Qtr, 7:43 remaining",
+    "shot": "Missed 2-pointer from 0 ft",
+    "score": "NOH trails 32-43"
+  },
+  {
+    "x": 247,
+    "y": 54,
+    "type": "make",
+    "game": "Apr 10, 2013, NOH at SAC",
+    "time": "2nd Qtr, 7:34 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "NOH now trails 34-43"
+  },
+  {
+    "x": 252,
+    "y": 73,
+    "type": "make",
+    "game": "Apr 10, 2013, NOH at SAC",
+    "time": "2nd Qtr, 1:32 remaining",
+    "shot": "Made 2-pointer from 3 ft",
+    "score": "NOH now trails 41-62"
+  },
+  {
+    "x": 230,
+    "y": 61,
+    "type": "make",
+    "game": "Apr 10, 2013, NOH at SAC",
+    "time": "2nd Qtr, 0:54.6 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "NOH now trails 43-62"
+  },
+  {
+    "x": 208,
+    "y": 165,
+    "type": "miss",
+    "game": "Apr 10, 2013, NOH at SAC",
+    "time": "3rd Qtr, 10:39 remaining",
+    "shot": "Missed 2-pointer from 12 ft",
+    "score": "NOH trails 51-65"
+  },
+  {
+    "x": 213,
+    "y": 50,
+    "type": "miss",
+    "game": "Apr 10, 2013, NOH at SAC",
+    "time": "3rd Qtr, 8:11 remaining",
+    "shot": "Missed 2-pointer from 3 ft",
+    "score": "NOH trails 55-72"
+  },
+  {
+    "x": 232,
+    "y": 76,
+    "type": "make",
+    "game": "Apr 10, 2013, NOH at SAC",
+    "time": "3rd Qtr, 7:27 remaining",
+    "shot": "Made 2-pointer from 3 ft",
+    "score": "NOH now trails 59-74"
+  }
+]

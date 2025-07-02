@@ -1,0 +1,6284 @@
+[
+  {
+    "x": 332,
+    "y": 169,
+    "type": "miss",
+    "game": "Dec 22, 2020, LAL vs LAC",
+    "time": "1st Qtr, 11:40 remaining",
+    "shot": "Missed 2-pointer from 15 ft",
+    "score": "LAL tied 0-0"
+  },
+  {
+    "x": 230,
+    "y": 88,
+    "type": "make",
+    "game": "Dec 22, 2020, LAL vs LAC",
+    "time": "1st Qtr, 9:19 remaining",
+    "shot": "Made 2-pointer from 4 ft",
+    "score": "LAL now trails 5-8"
+  },
+  {
+    "x": 309,
+    "y": 215,
+    "type": "make",
+    "game": "Dec 22, 2020, LAL vs LAC",
+    "time": "1st Qtr, 5:51 remaining",
+    "shot": "Made 2-pointer from 18 ft",
+    "score": "LAL now trails 10-21"
+  },
+  {
+    "x": 149,
+    "y": 285,
+    "type": "miss",
+    "game": "Dec 22, 2020, LAL vs LAC",
+    "time": "1st Qtr, 3:27 remaining",
+    "shot": "Missed 3-pointer from 25 ft",
+    "score": "LAL trails 15-31"
+  },
+  {
+    "x": 123,
+    "y": 116,
+    "type": "miss",
+    "game": "Dec 22, 2020, LAL vs LAC",
+    "time": "1st Qtr, 1:39 remaining",
+    "shot": "Missed 2-pointer from 13 ft",
+    "score": "LAL trails 17-39"
+  },
+  {
+    "x": 197,
+    "y": 89,
+    "type": "miss",
+    "game": "Dec 22, 2020, LAL vs LAC",
+    "time": "2nd Qtr, 4:35 remaining",
+    "shot": "Missed 2-pointer from 6 ft",
+    "score": "LAL trails 35-44"
+  },
+  {
+    "x": 112,
+    "y": 159,
+    "type": "make",
+    "game": "Dec 22, 2020, LAL vs LAC",
+    "time": "2nd Qtr, 3:53 remaining",
+    "shot": "Made 2-pointer from 17 ft",
+    "score": "LAL now trails 39-49"
+  },
+  {
+    "x": 106,
+    "y": 84,
+    "type": "make",
+    "game": "Dec 22, 2020, LAL vs LAC",
+    "time": "2nd Qtr, 3:27 remaining",
+    "shot": "Made 2-pointer from 14 ft",
+    "score": "LAL now trails 41-51"
+  },
+  {
+    "x": 311,
+    "y": 302,
+    "type": "miss",
+    "game": "Dec 22, 2020, LAL vs LAC",
+    "time": "2nd Qtr, 0:32 remaining",
+    "shot": "Missed 3-pointer from 26 ft",
+    "score": "LAL trails 54-56"
+  },
+  {
+    "x": 296,
+    "y": 126,
+    "type": "make",
+    "game": "Dec 22, 2020, LAL vs LAC",
+    "time": "3rd Qtr, 10:51 remaining",
+    "shot": "Made 2-pointer from 9 ft",
+    "score": "LAL now trails 56-61"
+  },
+  {
+    "x": 400,
+    "y": 142,
+    "type": "make",
+    "game": "Dec 22, 2020, LAL vs LAC",
+    "time": "3rd Qtr, 8:43 remaining",
+    "shot": "Made 2-pointer from 18 ft",
+    "score": "LAL now trails 65-68"
+  },
+  {
+    "x": 142,
+    "y": 213,
+    "type": "miss",
+    "game": "Dec 22, 2020, LAL vs LAC",
+    "time": "3rd Qtr, 3:31 remaining",
+    "shot": "Missed 2-pointer from 19 ft",
+    "score": "LAL trails 75-77"
+  },
+  {
+    "x": 330,
+    "y": 180,
+    "type": "miss",
+    "game": "Dec 22, 2020, LAL vs LAC",
+    "time": "3rd Qtr, 2:52 remaining",
+    "shot": "Missed 2-pointer from 16 ft",
+    "score": "LAL trails 75-77"
+  },
+  {
+    "x": 122,
+    "y": 136,
+    "type": "make",
+    "game": "Dec 22, 2020, LAL vs LAC",
+    "time": "4th Qtr, 6:27 remaining",
+    "shot": "Made 2-pointer from 14 ft",
+    "score": "LAL now trails 94-105"
+  },
+  {
+    "x": 114,
+    "y": 105,
+    "type": "make",
+    "game": "Dec 22, 2020, LAL vs LAC",
+    "time": "4th Qtr, 3:56 remaining",
+    "shot": "Made 2-pointer from 14 ft",
+    "score": "LAL now trails 96-111"
+  },
+  {
+    "x": 233,
+    "y": 67,
+    "type": "make",
+    "game": "Dec 25, 2020, LAL vs DAL",
+    "time": "1st Qtr, 9:16 remaining",
+    "shot": "Made 2-pointer from 2 ft",
+    "score": "LAL now leads 8-7"
+  },
+  {
+    "x": 232,
+    "y": 74,
+    "type": "make",
+    "game": "Dec 25, 2020, LAL vs DAL",
+    "time": "1st Qtr, 7:34 remaining",
+    "shot": "Made 2-pointer from 2 ft",
+    "score": "LAL now leads 15-12"
+  },
+  {
+    "x": 243,
+    "y": 80,
+    "type": "make",
+    "game": "Dec 25, 2020, LAL vs DAL",
+    "time": "1st Qtr, 7:02 remaining",
+    "shot": "Made 2-pointer from 3 ft",
+    "score": "LAL now leads 18-12"
+  },
+  {
+    "x": 95,
+    "y": 268,
+    "type": "miss",
+    "game": "Dec 25, 2020, LAL vs DAL",
+    "time": "1st Qtr, 5:41 remaining",
+    "shot": "Missed 3-pointer from 26 ft",
+    "score": "LAL leads 18-15"
+  },
+  {
+    "x": 279,
+    "y": 64,
+    "type": "make",
+    "game": "Dec 25, 2020, LAL vs DAL",
+    "time": "1st Qtr, 2:39 remaining",
+    "shot": "Made 2-pointer from 4 ft",
+    "score": "LAL now leads 27-23"
+  },
+  {
+    "x": 77,
+    "y": 233,
+    "type": "make",
+    "game": "Dec 25, 2020, LAL vs DAL",
+    "time": "2nd Qtr, 5:25 remaining",
+    "shot": "Made 3-pointer from 24 ft",
+    "score": "LAL now leads 54-41"
+  },
+  {
+    "x": 311,
+    "y": 183,
+    "type": "miss",
+    "game": "Dec 25, 2020, LAL vs DAL",
+    "time": "2nd Qtr, 3:40 remaining",
+    "shot": "Missed 2-pointer from 15 ft",
+    "score": "LAL leads 55-48"
+  },
+  {
+    "x": 124,
+    "y": 113,
+    "type": "make",
+    "game": "Dec 25, 2020, LAL vs DAL",
+    "time": "2nd Qtr, 2:04 remaining",
+    "shot": "Made 2-pointer from 13 ft",
+    "score": "LAL now leads 60-53"
+  },
+  {
+    "x": 242,
+    "y": 57,
+    "type": "make",
+    "game": "Dec 25, 2020, LAL vs DAL",
+    "time": "2nd Qtr, 0:30 remaining",
+    "shot": "Made 2-pointer from 0 ft",
+    "score": "LAL now leads 66-55"
+  },
+  {
+    "x": 201,
+    "y": 147,
+    "type": "make",
+    "game": "Dec 25, 2020, LAL vs DAL",
+    "time": "3rd Qtr, 10:30 remaining",
+    "shot": "Made 2-pointer from 10 ft",
+    "score": "LAL now leads 75-59"
+  },
+  {
+    "x": 458,
+    "y": 198,
+    "type": "miss",
+    "game": "Dec 25, 2020, LAL vs DAL",
+    "time": "3rd Qtr, 8:01 remaining",
+    "shot": "Missed 3-pointer from 26 ft",
+    "score": "LAL leads 80-65"
+  },
+  {
+    "x": 101,
+    "y": 63,
+    "type": "miss",
+    "game": "Dec 25, 2020, LAL vs DAL",
+    "time": "3rd Qtr, 7:34 remaining",
+    "shot": "Missed 2-pointer from 14 ft",
+    "score": "LAL leads 80-65"
+  },
+  {
+    "x": 125,
+    "y": 225,
+    "type": "miss",
+    "game": "Dec 25, 2020, LAL vs DAL",
+    "time": "3rd Qtr, 4:30 remaining",
+    "shot": "Missed 2-pointer from 21 ft",
+    "score": "LAL leads 86-73"
+  },
+  {
+    "x": 178,
+    "y": 185,
+    "type": "miss",
+    "game": "Dec 25, 2020, LAL vs DAL",
+    "time": "4th Qtr, 6:09 remaining",
+    "shot": "Missed 2-pointer from 15 ft",
+    "score": "LAL leads 114-100"
+  },
+  {
+    "x": 474,
+    "y": 82,
+    "type": "make",
+    "game": "Dec 25, 2020, LAL vs DAL",
+    "time": "4th Qtr, 4:12 remaining",
+    "shot": "Made 3-pointer from 24 ft",
+    "score": "LAL now leads 121-104"
+  },
+  {
+    "x": 88,
+    "y": 278,
+    "type": "make",
+    "game": "Dec 25, 2020, LAL vs DAL",
+    "time": "4th Qtr, 2:51 remaining",
+    "shot": "Made 3-pointer from 27 ft",
+    "score": "LAL now leads 128-109"
+  },
+  {
+    "x": 268,
+    "y": 228,
+    "type": "make",
+    "game": "Dec 28, 2020, LAL vs POR",
+    "time": "1st Qtr, 10:59 remaining",
+    "shot": "Made 2-pointer from 18 ft",
+    "score": "LAL now leads 4-0"
+  },
+  {
+    "x": 138,
+    "y": 48,
+    "type": "miss",
+    "game": "Dec 28, 2020, LAL vs POR",
+    "time": "1st Qtr, 7:09 remaining",
+    "shot": "Missed 2-pointer from 10 ft",
+    "score": "LAL leads 17-5"
+  },
+  {
+    "x": 117,
+    "y": 162,
+    "type": "miss",
+    "game": "Dec 28, 2020, LAL vs POR",
+    "time": "1st Qtr, 6:16 remaining",
+    "shot": "Missed 2-pointer from 16 ft",
+    "score": "LAL leads 20-7"
+  },
+  {
+    "x": 187,
+    "y": 63,
+    "type": "miss",
+    "game": "Dec 28, 2020, LAL vs POR",
+    "time": "2nd Qtr, 6:53 remaining",
+    "shot": "Missed 2-pointer from 5 ft",
+    "score": "LAL trails 35-41"
+  },
+  {
+    "x": 383,
+    "y": 188,
+    "type": "miss",
+    "game": "Dec 28, 2020, LAL vs POR",
+    "time": "3rd Qtr, 11:37 remaining",
+    "shot": "Missed 2-pointer from 20 ft",
+    "score": "LAL trails 54-58"
+  },
+  {
+    "x": 251,
+    "y": 62,
+    "type": "make",
+    "game": "Dec 28, 2020, LAL vs POR",
+    "time": "3rd Qtr, 6:33 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "LAL now leads 73-64"
+  },
+  {
+    "x": 290,
+    "y": 46,
+    "type": "miss",
+    "game": "Dec 28, 2020, LAL vs POR",
+    "time": "3rd Qtr, 5:27 remaining",
+    "shot": "Missed 2-pointer from 5 ft",
+    "score": "LAL leads 73-68"
+  },
+  {
+    "x": 204,
+    "y": 105,
+    "type": "make",
+    "game": "Dec 28, 2020, LAL vs POR",
+    "time": "3rd Qtr, 4:15 remaining",
+    "shot": "Made 2-pointer from 6 ft",
+    "score": "LAL now leads 75-71"
+  },
+  {
+    "x": 264,
+    "y": 69,
+    "type": "make",
+    "game": "Dec 28, 2020, LAL vs POR",
+    "time": "3rd Qtr, 3:24 remaining",
+    "shot": "Made 2-pointer from 3 ft",
+    "score": "LAL now leads 77-73"
+  },
+  {
+    "x": 242,
+    "y": 125,
+    "type": "make",
+    "game": "Dec 28, 2020, LAL vs POR",
+    "time": "3rd Qtr, 0:55 remaining",
+    "shot": "Made 2-pointer from 7 ft",
+    "score": "LAL now leads 85-82"
+  },
+  {
+    "x": 228,
+    "y": 131,
+    "type": "miss",
+    "game": "Dec 28, 2020, LAL vs POR",
+    "time": "4th Qtr, 7:06 remaining",
+    "shot": "Missed 2-pointer from 8 ft",
+    "score": "LAL trails 91-96"
+  },
+  {
+    "x": 256,
+    "y": 63,
+    "type": "make",
+    "game": "Dec 28, 2020, LAL vs POR",
+    "time": "4th Qtr, 3:49 remaining",
+    "shot": "Made 2-pointer from 2 ft",
+    "score": "LAL now trails 101-103"
+  },
+  {
+    "x": 273,
+    "y": 69,
+    "type": "miss",
+    "game": "Dec 28, 2020, LAL vs POR",
+    "time": "4th Qtr, 3:18 remaining",
+    "shot": "Missed 2-pointer from 4 ft",
+    "score": "LAL trails 101-106"
+  },
+  {
+    "x": 226,
+    "y": 57,
+    "type": "miss",
+    "game": "Dec 28, 2020, LAL vs POR",
+    "time": "4th Qtr, 2:02 remaining",
+    "shot": "Missed 2-pointer from 1 ft",
+    "score": "LAL trails 103-111"
+  },
+  {
+    "x": 238,
+    "y": 78,
+    "type": "miss",
+    "game": "Dec 30, 2020, LAL at SAS",
+    "time": "1st Qtr, 11:26 remaining",
+    "shot": "Missed 2-pointer from 3 ft",
+    "score": "LAL tied 0-0"
+  },
+  {
+    "x": 96,
+    "y": 133,
+    "type": "make",
+    "game": "Dec 30, 2020, LAL at SAS",
+    "time": "1st Qtr, 9:20 remaining",
+    "shot": "Made 2-pointer from 16 ft",
+    "score": "LAL now trails 4-9"
+  },
+  {
+    "x": 240,
+    "y": 53,
+    "type": "make",
+    "game": "Dec 30, 2020, LAL at SAS",
+    "time": "1st Qtr, 7:56 remaining",
+    "shot": "Made 2-pointer from 0 ft",
+    "score": "LAL now leads 11-9"
+  },
+  {
+    "x": 127,
+    "y": 118,
+    "type": "make",
+    "game": "Dec 30, 2020, LAL at SAS",
+    "time": "1st Qtr, 4:33 remaining",
+    "shot": "Made 2-pointer from 13 ft",
+    "score": "LAL now leads 22-17"
+  },
+  {
+    "x": 38,
+    "y": 199,
+    "type": "miss",
+    "game": "Dec 30, 2020, LAL at SAS",
+    "time": "1st Qtr, 3:33 remaining",
+    "shot": "Missed 3-pointer from 25 ft",
+    "score": "LAL leads 24-19"
+  },
+  {
+    "x": 117,
+    "y": 64,
+    "type": "miss",
+    "game": "Dec 30, 2020, LAL at SAS",
+    "time": "1st Qtr, 2:05 remaining",
+    "shot": "Missed 2-pointer from 12 ft",
+    "score": "LAL leads 29-25"
+  },
+  {
+    "x": 137,
+    "y": 197,
+    "type": "make",
+    "game": "Dec 30, 2020, LAL at SAS",
+    "time": "2nd Qtr, 4:18 remaining",
+    "shot": "Made 2-pointer from 18 ft",
+    "score": "LAL now leads 50-41"
+  },
+  {
+    "x": 241,
+    "y": 62,
+    "type": "make",
+    "game": "Dec 30, 2020, LAL at SAS",
+    "time": "2nd Qtr, 1:48 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "LAL now leads 56-45"
+  },
+  {
+    "x": 442,
+    "y": 240,
+    "type": "miss",
+    "game": "Dec 30, 2020, LAL at SAS",
+    "time": "2nd Qtr, 0:23 remaining",
+    "shot": "Missed 3-pointer from 28 ft",
+    "score": "LAL leads 58-51"
+  },
+  {
+    "x": 246,
+    "y": 69,
+    "type": "make",
+    "game": "Dec 30, 2020, LAL at SAS",
+    "time": "3rd Qtr, 11:47 remaining",
+    "shot": "Made 2-pointer from 2 ft",
+    "score": "LAL now leads 65-53"
+  },
+  {
+    "x": 241,
+    "y": 59,
+    "type": "make",
+    "game": "Dec 30, 2020, LAL at SAS",
+    "time": "3rd Qtr, 8:00 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "LAL now leads 73-62"
+  },
+  {
+    "x": 242,
+    "y": 138,
+    "type": "miss",
+    "game": "Dec 30, 2020, LAL at SAS",
+    "time": "3rd Qtr, 5:47 remaining",
+    "shot": "Missed 2-pointer from 9 ft",
+    "score": "LAL leads 78-67"
+  },
+  {
+    "x": 161,
+    "y": 218,
+    "type": "miss",
+    "game": "Dec 30, 2020, LAL at SAS",
+    "time": "3rd Qtr, 5:09 remaining",
+    "shot": "Missed 2-pointer from 18 ft",
+    "score": "LAL leads 80-69"
+  },
+  {
+    "x": 121,
+    "y": 177,
+    "type": "make",
+    "game": "Dec 30, 2020, LAL at SAS",
+    "time": "4th Qtr, 4:06 remaining",
+    "shot": "Made 2-pointer from 17 ft",
+    "score": "LAL now leads 110-99"
+  },
+  {
+    "x": 399,
+    "y": 73,
+    "type": "make",
+    "game": "Dec 30, 2020, LAL at SAS",
+    "time": "4th Qtr, 2:43 remaining",
+    "shot": "Made 2-pointer from 16 ft",
+    "score": "LAL now leads 114-104"
+  },
+  {
+    "x": 102,
+    "y": 95,
+    "type": "miss",
+    "game": "Jan 1, 2021, LAL at SAS",
+    "time": "1st Qtr, 11:25 remaining",
+    "shot": "Missed 2-pointer from 14 ft",
+    "score": "LAL trails 0-2"
+  },
+  {
+    "x": 240,
+    "y": 53,
+    "type": "miss",
+    "game": "Jan 1, 2021, LAL at SAS",
+    "time": "1st Qtr, 10:21 remaining",
+    "shot": "Missed 2-pointer from 0 ft",
+    "score": "LAL trails 2-4"
+  },
+  {
+    "x": 179,
+    "y": 164,
+    "type": "miss",
+    "game": "Jan 1, 2021, LAL at SAS",
+    "time": "1st Qtr, 8:40 remaining",
+    "shot": "Missed 2-pointer from 13 ft",
+    "score": "LAL trails 5-8"
+  },
+  {
+    "x": 314,
+    "y": 139,
+    "type": "miss",
+    "game": "Jan 1, 2021, LAL at SAS",
+    "time": "1st Qtr, 7:58 remaining",
+    "shot": "Missed 2-pointer from 11 ft",
+    "score": "LAL trails 7-8"
+  },
+  {
+    "x": 453,
+    "y": 205,
+    "type": "make",
+    "game": "Jan 1, 2021, LAL at SAS",
+    "time": "1st Qtr, 7:08 remaining",
+    "shot": "Made 3-pointer from 26 ft",
+    "score": "LAL now trails 13-14"
+  },
+  {
+    "x": 216,
+    "y": 62,
+    "type": "make",
+    "game": "Jan 1, 2021, LAL at SAS",
+    "time": "1st Qtr, 5:45 remaining",
+    "shot": "Made 2-pointer from 3 ft",
+    "score": "LAL now leads 15-14"
+  },
+  {
+    "x": 216,
+    "y": 70,
+    "type": "make",
+    "game": "Jan 1, 2021, LAL at SAS",
+    "time": "1st Qtr, 5:03 remaining",
+    "shot": "Made 2-pointer from 3 ft",
+    "score": "LAL now leads 17-14"
+  },
+  {
+    "x": 358,
+    "y": 182,
+    "type": "miss",
+    "game": "Jan 1, 2021, LAL at SAS",
+    "time": "1st Qtr, 4:16 remaining",
+    "shot": "Missed 2-pointer from 18 ft",
+    "score": "LAL tied 17-17"
+  },
+  {
+    "x": 122,
+    "y": 143,
+    "type": "miss",
+    "game": "Jan 1, 2021, LAL at SAS",
+    "time": "2nd Qtr, 5:10 remaining",
+    "shot": "Missed 2-pointer from 15 ft",
+    "score": "LAL trails 42-44"
+  },
+  {
+    "x": 240,
+    "y": 53,
+    "type": "make",
+    "game": "Jan 1, 2021, LAL at SAS",
+    "time": "2nd Qtr, 4:59 remaining",
+    "shot": "Made 2-pointer from 0 ft",
+    "score": "LAL now tied 44-44"
+  },
+  {
+    "x": 117,
+    "y": 148,
+    "type": "make",
+    "game": "Jan 1, 2021, LAL at SAS",
+    "time": "2nd Qtr, 3:48 remaining",
+    "shot": "Made 2-pointer from 16 ft",
+    "score": "LAL now leads 50-48"
+  },
+  {
+    "x": 239,
+    "y": 152,
+    "type": "make",
+    "game": "Jan 1, 2021, LAL at SAS",
+    "time": "2nd Qtr, 2:12 remaining",
+    "shot": "Made 2-pointer from 10 ft",
+    "score": "LAL now tied 53-53"
+  },
+  {
+    "x": 201,
+    "y": 66,
+    "type": "make",
+    "game": "Jan 1, 2021, LAL at SAS",
+    "time": "2nd Qtr, 1:57 remaining",
+    "shot": "Made 2-pointer from 4 ft",
+    "score": "LAL now tied 55-55"
+  },
+  {
+    "x": 240,
+    "y": 53,
+    "type": "miss",
+    "game": "Jan 1, 2021, LAL at SAS",
+    "time": "2nd Qtr, 0:00 remaining",
+    "shot": "Missed 2-pointer from 0 ft",
+    "score": "LAL leads 58-57"
+  },
+  {
+    "x": 339,
+    "y": 293,
+    "type": "miss",
+    "game": "Jan 1, 2021, LAL at SAS",
+    "time": "3rd Qtr, 9:54 remaining",
+    "shot": "Missed 3-pointer from 26 ft",
+    "score": "LAL leads 66-62"
+  },
+  {
+    "x": 274,
+    "y": 84,
+    "type": "make",
+    "game": "Jan 1, 2021, LAL at SAS",
+    "time": "3rd Qtr, 8:55 remaining",
+    "shot": "Made 2-pointer from 5 ft",
+    "score": "LAL now leads 68-65"
+  },
+  {
+    "x": 241,
+    "y": 141,
+    "type": "make",
+    "game": "Jan 1, 2021, LAL at SAS",
+    "time": "3rd Qtr, 5:58 remaining",
+    "shot": "Made 2-pointer from 9 ft",
+    "score": "LAL now trails 72-73"
+  },
+  {
+    "x": 117,
+    "y": 149,
+    "type": "make",
+    "game": "Jan 1, 2021, LAL at SAS",
+    "time": "3rd Qtr, 4:13 remaining",
+    "shot": "Made 2-pointer from 16 ft",
+    "score": "LAL now tied 76-76"
+  },
+  {
+    "x": 53,
+    "y": 246,
+    "type": "make",
+    "game": "Jan 1, 2021, LAL at SAS",
+    "time": "3rd Qtr, 3:24 remaining",
+    "shot": "Made 3-pointer from 27 ft",
+    "score": "LAL now leads 79-78"
+  },
+  {
+    "x": 119,
+    "y": 123,
+    "type": "miss",
+    "game": "Jan 1, 2021, LAL at SAS",
+    "time": "3rd Qtr, 2:35 remaining",
+    "shot": "Missed 2-pointer from 14 ft",
+    "score": "LAL trails 79-80"
+  },
+  {
+    "x": -1,
+    "y": 64,
+    "type": "miss",
+    "game": "Jan 1, 2021, LAL at SAS",
+    "time": "3rd Qtr, 1:43 remaining",
+    "shot": "Missed 3-pointer from 24 ft",
+    "score": "LAL trails 81-83"
+  },
+  {
+    "x": 4,
+    "y": 111,
+    "type": "make",
+    "game": "Jan 1, 2021, LAL at SAS",
+    "time": "4th Qtr, 5:47 remaining",
+    "shot": "Made 3-pointer from 24 ft",
+    "score": "LAL now leads 97-95"
+  },
+  {
+    "x": 207,
+    "y": 113,
+    "type": "miss",
+    "game": "Jan 1, 2021, LAL at SAS",
+    "time": "4th Qtr, 4:38 remaining",
+    "shot": "Missed 2-pointer from 7 ft",
+    "score": "LAL tied 97-97"
+  },
+  {
+    "x": 240,
+    "y": 53,
+    "type": "miss",
+    "game": "Jan 1, 2021, LAL at SAS",
+    "time": "4th Qtr, 4:34 remaining",
+    "shot": "Missed 2-pointer from 0 ft",
+    "score": "LAL tied 97-97"
+  },
+  {
+    "x": 240,
+    "y": 53,
+    "type": "miss",
+    "game": "Jan 1, 2021, LAL at SAS",
+    "time": "4th Qtr, 3:06 remaining",
+    "shot": "Missed 2-pointer from 0 ft",
+    "score": "LAL tied 100-100"
+  },
+  {
+    "x": 53,
+    "y": 248,
+    "type": "make",
+    "game": "Jan 1, 2021, LAL at SAS",
+    "time": "4th Qtr, 2:26 remaining",
+    "shot": "Made 3-pointer from 27 ft",
+    "score": "LAL now tied 103-103"
+  },
+  {
+    "x": 85,
+    "y": 264,
+    "type": "miss",
+    "game": "Jan 3, 2021, LAL at MEM",
+    "time": "1st Qtr, 5:49 remaining",
+    "shot": "Missed 3-pointer from 26 ft",
+    "score": "LAL leads 18-14"
+  },
+  {
+    "x": 149,
+    "y": 233,
+    "type": "miss",
+    "game": "Jan 3, 2021, LAL at MEM",
+    "time": "1st Qtr, 5:16 remaining",
+    "shot": "Missed 2-pointer from 20 ft",
+    "score": "LAL leads 18-16"
+  },
+  {
+    "x": 139,
+    "y": 107,
+    "type": "miss",
+    "game": "Jan 3, 2021, LAL at MEM",
+    "time": "1st Qtr, 4:13 remaining",
+    "shot": "Missed 2-pointer from 11 ft",
+    "score": "LAL trails 18-19"
+  },
+  {
+    "x": 265,
+    "y": 236,
+    "type": "miss",
+    "game": "Jan 3, 2021, LAL at MEM",
+    "time": "1st Qtr, 2:47 remaining",
+    "shot": "Missed 2-pointer from 19 ft",
+    "score": "LAL trails 18-26"
+  },
+  {
+    "x": 176,
+    "y": 72,
+    "type": "make",
+    "game": "Jan 3, 2021, LAL at MEM",
+    "time": "2nd Qtr, 4:05 remaining",
+    "shot": "Made 2-pointer from 7 ft",
+    "score": "LAL now trails 45-47"
+  },
+  {
+    "x": 129,
+    "y": 98,
+    "type": "miss",
+    "game": "Jan 3, 2021, LAL at MEM",
+    "time": "2nd Qtr, 3:31 remaining",
+    "shot": "Missed 2-pointer from 12 ft",
+    "score": "LAL trails 45-47"
+  },
+  {
+    "x": 230,
+    "y": 108,
+    "type": "miss",
+    "game": "Jan 3, 2021, LAL at MEM",
+    "time": "2nd Qtr, 2:38 remaining",
+    "shot": "Missed 2-pointer from 6 ft",
+    "score": "LAL trails 47-49"
+  },
+  {
+    "x": 327,
+    "y": 292,
+    "type": "miss",
+    "game": "Jan 3, 2021, LAL at MEM",
+    "time": "2nd Qtr, 1:33 remaining",
+    "shot": "Missed 3-pointer from 25 ft",
+    "score": "LAL leads 51-49"
+  },
+  {
+    "x": 434,
+    "y": 75,
+    "type": "miss",
+    "game": "Jan 3, 2021, LAL at MEM",
+    "time": "3rd Qtr, 10:46 remaining",
+    "shot": "Missed 2-pointer from 20 ft",
+    "score": "LAL tied 56-56"
+  },
+  {
+    "x": 138,
+    "y": 64,
+    "type": "make",
+    "game": "Jan 3, 2021, LAL at MEM",
+    "time": "3rd Qtr, 8:13 remaining",
+    "shot": "Made 2-pointer from 10 ft",
+    "score": "LAL now trails 58-60"
+  },
+  {
+    "x": 237,
+    "y": 68,
+    "type": "miss",
+    "game": "Jan 3, 2021, LAL at MEM",
+    "time": "3rd Qtr, 7:43 remaining",
+    "shot": "Missed 2-pointer from 2 ft",
+    "score": "LAL trails 58-60"
+  },
+  {
+    "x": 208,
+    "y": 108,
+    "type": "make",
+    "game": "Jan 3, 2021, LAL at MEM",
+    "time": "3rd Qtr, 6:40 remaining",
+    "shot": "Made 2-pointer from 6 ft",
+    "score": "LAL now trails 62-64"
+  },
+  {
+    "x": 278,
+    "y": 82,
+    "type": "make",
+    "game": "Jan 3, 2021, LAL at MEM",
+    "time": "3rd Qtr, 2:36 remaining",
+    "shot": "Made 2-pointer from 5 ft",
+    "score": "LAL now leads 71-69"
+  },
+  {
+    "x": 310,
+    "y": 174,
+    "type": "make",
+    "game": "Jan 3, 2021, LAL at MEM",
+    "time": "4th Qtr, 6:04 remaining",
+    "shot": "Made 2-pointer from 14 ft",
+    "score": "LAL now leads 92-83"
+  },
+  {
+    "x": 307,
+    "y": 139,
+    "type": "make",
+    "game": "Jan 3, 2021, LAL at MEM",
+    "time": "4th Qtr, 3:03 remaining",
+    "shot": "Made 2-pointer from 11 ft",
+    "score": "LAL now leads 98-90"
+  },
+  {
+    "x": 298,
+    "y": 138,
+    "type": "make",
+    "game": "Jan 5, 2021, LAL at MEM",
+    "time": "1st Qtr, 11:43 remaining",
+    "shot": "Made 2-pointer from 10 ft",
+    "score": "LAL now leads 2-0"
+  },
+  {
+    "x": 296,
+    "y": 121,
+    "type": "miss",
+    "game": "Jan 5, 2021, LAL at MEM",
+    "time": "1st Qtr, 10:59 remaining",
+    "shot": "Missed 2-pointer from 9 ft",
+    "score": "LAL leads 2-0"
+  },
+  {
+    "x": 238,
+    "y": 62,
+    "type": "make",
+    "game": "Jan 5, 2021, LAL at MEM",
+    "time": "1st Qtr, 9:47 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "LAL now leads 6-3"
+  },
+  {
+    "x": 408,
+    "y": 248,
+    "type": "miss",
+    "game": "Jan 5, 2021, LAL at MEM",
+    "time": "1st Qtr, 8:46 remaining",
+    "shot": "Missed 3-pointer from 26 ft",
+    "score": "LAL leads 6-3"
+  },
+  {
+    "x": 342,
+    "y": 281,
+    "type": "miss",
+    "game": "Jan 5, 2021, LAL at MEM",
+    "time": "1st Qtr, 2:50 remaining",
+    "shot": "Missed 3-pointer from 25 ft",
+    "score": "LAL leads 17-13"
+  },
+  {
+    "x": 123,
+    "y": 207,
+    "type": "make",
+    "game": "Jan 5, 2021, LAL at MEM",
+    "time": "2nd Qtr, 5:31 remaining",
+    "shot": "Made 2-pointer from 19 ft",
+    "score": "LAL now trails 34-40"
+  },
+  {
+    "x": 468,
+    "y": 67,
+    "type": "make",
+    "game": "Jan 5, 2021, LAL at MEM",
+    "time": "2nd Qtr, 4:41 remaining",
+    "shot": "Made 3-pointer from 23 ft",
+    "score": "LAL now trails 37-40"
+  },
+  {
+    "x": 338,
+    "y": 115,
+    "type": "miss",
+    "game": "Jan 5, 2021, LAL at MEM",
+    "time": "2nd Qtr, 4:13 remaining",
+    "shot": "Missed 2-pointer from 12 ft",
+    "score": "LAL trails 37-40"
+  },
+  {
+    "x": 290,
+    "y": 313,
+    "type": "make",
+    "game": "Jan 5, 2021, LAL at MEM",
+    "time": "2nd Qtr, 1:07 remaining",
+    "shot": "Made 3-pointer from 26 ft",
+    "score": "LAL now trails 42-49"
+  },
+  {
+    "x": 13,
+    "y": 82,
+    "type": "make",
+    "game": "Jan 5, 2021, LAL at MEM",
+    "time": "3rd Qtr, 9:31 remaining",
+    "shot": "Made 3-pointer from 23 ft",
+    "score": "LAL now trails 50-51"
+  },
+  {
+    "x": 398,
+    "y": 252,
+    "type": "miss",
+    "game": "Jan 5, 2021, LAL at MEM",
+    "time": "3rd Qtr, 8:59 remaining",
+    "shot": "Missed 3-pointer from 25 ft",
+    "score": "LAL trails 50-51"
+  },
+  {
+    "x": 171,
+    "y": 123,
+    "type": "make",
+    "game": "Jan 5, 2021, LAL at MEM",
+    "time": "3rd Qtr, 3:45 remaining",
+    "shot": "Made 2-pointer from 10 ft",
+    "score": "LAL now leads 65-58"
+  },
+  {
+    "x": 171,
+    "y": 290,
+    "type": "miss",
+    "game": "Jan 5, 2021, LAL at MEM",
+    "time": "3rd Qtr, 2:51 remaining",
+    "shot": "Missed 3-pointer from 25 ft",
+    "score": "LAL leads 65-61"
+  },
+  {
+    "x": 166,
+    "y": 175,
+    "type": "make",
+    "game": "Jan 5, 2021, LAL at MEM",
+    "time": "3rd Qtr, 1:26 remaining",
+    "shot": "Made 2-pointer from 14 ft",
+    "score": "LAL now leads 67-66"
+  },
+  {
+    "x": 405,
+    "y": 178,
+    "type": "miss",
+    "game": "Jan 5, 2021, LAL at MEM",
+    "time": "3rd Qtr, 0:35 remaining",
+    "shot": "Missed 2-pointer from 21 ft",
+    "score": "LAL trails 67-68"
+  },
+  {
+    "x": 298,
+    "y": 152,
+    "type": "miss",
+    "game": "Jan 5, 2021, LAL at MEM",
+    "time": "4th Qtr, 6:04 remaining",
+    "shot": "Missed 2-pointer from 12 ft",
+    "score": "LAL trails 74-75"
+  },
+  {
+    "x": 155,
+    "y": 289,
+    "type": "miss",
+    "game": "Jan 5, 2021, LAL at MEM",
+    "time": "4th Qtr, 4:53 remaining",
+    "shot": "Missed 3-pointer from 25 ft",
+    "score": "LAL trails 77-79"
+  },
+  {
+    "x": 13,
+    "y": 62,
+    "type": "make",
+    "game": "Jan 5, 2021, LAL at MEM",
+    "time": "4th Qtr, 4:22 remaining",
+    "shot": "Made 3-pointer from 23 ft",
+    "score": "LAL now leads 80-79"
+  },
+  {
+    "x": 308,
+    "y": 299,
+    "type": "miss",
+    "game": "Jan 5, 2021, LAL at MEM",
+    "time": "4th Qtr, 3:27 remaining",
+    "shot": "Missed 3-pointer from 26 ft",
+    "score": "LAL leads 82-79"
+  },
+  {
+    "x": 243,
+    "y": 57,
+    "type": "make",
+    "game": "Jan 5, 2021, LAL at MEM",
+    "time": "4th Qtr, 1:35 remaining",
+    "shot": "Made 2-pointer from 0 ft",
+    "score": "LAL now leads 86-81"
+  },
+  {
+    "x": 352,
+    "y": 184,
+    "type": "miss",
+    "game": "Jan 7, 2021, LAL vs SAS",
+    "time": "1st Qtr, 11:42 remaining",
+    "shot": "Missed 2-pointer from 17 ft",
+    "score": "LAL tied 0-0"
+  },
+  {
+    "x": 227,
+    "y": 69,
+    "type": "make",
+    "game": "Jan 7, 2021, LAL vs SAS",
+    "time": "1st Qtr, 7:59 remaining",
+    "shot": "Made 2-pointer from 2 ft",
+    "score": "LAL now trails 2-9"
+  },
+  {
+    "x": 243,
+    "y": 66,
+    "type": "make",
+    "game": "Jan 7, 2021, LAL vs SAS",
+    "time": "1st Qtr, 6:50 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "LAL now trails 6-15"
+  },
+  {
+    "x": 142,
+    "y": 125,
+    "type": "miss",
+    "game": "Jan 7, 2021, LAL vs SAS",
+    "time": "1st Qtr, 5:45 remaining",
+    "shot": "Missed 2-pointer from 12 ft",
+    "score": "LAL trails 8-17"
+  },
+  {
+    "x": 239,
+    "y": 59,
+    "type": "make",
+    "game": "Jan 7, 2021, LAL vs SAS",
+    "time": "1st Qtr, 4:08 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "LAL now trails 12-23"
+  },
+  {
+    "x": 91,
+    "y": 263,
+    "type": "miss",
+    "game": "Jan 7, 2021, LAL vs SAS",
+    "time": "1st Qtr, 3:11 remaining",
+    "shot": "Missed 3-pointer from 26 ft",
+    "score": "LAL trails 12-25"
+  },
+  {
+    "x": 223,
+    "y": 63,
+    "type": "make",
+    "game": "Jan 7, 2021, LAL vs SAS",
+    "time": "1st Qtr, 2:51 remaining",
+    "shot": "Made 2-pointer from 2 ft",
+    "score": "LAL now trails 14-25"
+  },
+  {
+    "x": 251,
+    "y": 46,
+    "type": "make",
+    "game": "Jan 7, 2021, LAL vs SAS",
+    "time": "3rd Qtr, 11:30 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "LAL now trails 58-65"
+  },
+  {
+    "x": 133,
+    "y": 80,
+    "type": "miss",
+    "game": "Jan 7, 2021, LAL vs SAS",
+    "time": "3rd Qtr, 7:54 remaining",
+    "shot": "Missed 2-pointer from 11 ft",
+    "score": "LAL trails 67-76"
+  },
+  {
+    "x": 107,
+    "y": 281,
+    "type": "make",
+    "game": "Jan 7, 2021, LAL vs SAS",
+    "time": "3rd Qtr, 5:31 remaining",
+    "shot": "Made 3-pointer from 26 ft",
+    "score": "LAL now trails 77-84"
+  },
+  {
+    "x": 247,
+    "y": 66,
+    "type": "make",
+    "game": "Jan 7, 2021, LAL vs SAS",
+    "time": "3rd Qtr, 4:06 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "LAL now trails 81-87"
+  },
+  {
+    "x": 236,
+    "y": 51,
+    "type": "make",
+    "game": "Jan 7, 2021, LAL vs SAS",
+    "time": "3rd Qtr, 3:10 remaining",
+    "shot": "Made 2-pointer from 0 ft",
+    "score": "LAL now trails 85-87"
+  },
+  {
+    "x": 240,
+    "y": 53,
+    "type": "make",
+    "game": "Jan 7, 2021, LAL vs SAS",
+    "time": "4th Qtr, 8:28 remaining",
+    "shot": "Made 2-pointer from 0 ft",
+    "score": "LAL now trails 95-102"
+  },
+  {
+    "x": 240,
+    "y": 53,
+    "type": "make",
+    "game": "Jan 7, 2021, LAL vs SAS",
+    "time": "4th Qtr, 6:05 remaining",
+    "shot": "Made 2-pointer from 0 ft",
+    "score": "LAL now trails 100-108"
+  },
+  {
+    "x": 223,
+    "y": 73,
+    "type": "miss",
+    "game": "Jan 7, 2021, LAL vs SAS",
+    "time": "4th Qtr, 4:29 remaining",
+    "shot": "Missed 2-pointer from 3 ft",
+    "score": "LAL trails 100-110"
+  },
+  {
+    "x": 239,
+    "y": 51,
+    "type": "make",
+    "game": "Jan 7, 2021, LAL vs SAS",
+    "time": "4th Qtr, 3:29 remaining",
+    "shot": "Made 2-pointer from 0 ft",
+    "score": "LAL now trails 102-114"
+  },
+  {
+    "x": 22,
+    "y": 190,
+    "type": "miss",
+    "game": "Jan 7, 2021, LAL vs SAS",
+    "time": "4th Qtr, 2:06 remaining",
+    "shot": "Missed 3-pointer from 26 ft",
+    "score": "LAL trails 104-114"
+  },
+  {
+    "x": 302,
+    "y": 241,
+    "type": "make",
+    "game": "Jan 10, 2021, LAL at HOU",
+    "time": "1st Qtr, 9:06 remaining",
+    "shot": "Made 2-pointer from 20 ft",
+    "score": "LAL now leads 4-3"
+  },
+  {
+    "x": 236,
+    "y": 70,
+    "type": "make",
+    "game": "Jan 10, 2021, LAL at HOU",
+    "time": "1st Qtr, 7:06 remaining",
+    "shot": "Made 2-pointer from 2 ft",
+    "score": "LAL now leads 14-3"
+  },
+  {
+    "x": 361,
+    "y": 79,
+    "type": "make",
+    "game": "Jan 10, 2021, LAL at HOU",
+    "time": "1st Qtr, 6:33 remaining",
+    "shot": "Made 2-pointer from 12 ft",
+    "score": "LAL now leads 16-6"
+  },
+  {
+    "x": 421,
+    "y": 64,
+    "type": "make",
+    "game": "Jan 10, 2021, LAL at HOU",
+    "time": "1st Qtr, 5:46 remaining",
+    "shot": "Made 2-pointer from 18 ft",
+    "score": "LAL now leads 18-6"
+  },
+  {
+    "x": 228,
+    "y": 133,
+    "type": "make",
+    "game": "Jan 10, 2021, LAL at HOU",
+    "time": "2nd Qtr, 9:24 remaining",
+    "shot": "Made 2-pointer from 8 ft",
+    "score": "LAL now leads 33-28"
+  },
+  {
+    "x": 159,
+    "y": 64,
+    "type": "make",
+    "game": "Jan 10, 2021, LAL at HOU",
+    "time": "2nd Qtr, 5:22 remaining",
+    "shot": "Made 2-pointer from 8 ft",
+    "score": "LAL now leads 49-36"
+  },
+  {
+    "x": 227,
+    "y": 53,
+    "type": "make",
+    "game": "Jan 10, 2021, LAL at HOU",
+    "time": "2nd Qtr, 5:08 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "LAL now leads 51-36"
+  },
+  {
+    "x": 232,
+    "y": 61,
+    "type": "make",
+    "game": "Jan 10, 2021, LAL at HOU",
+    "time": "2nd Qtr, 3:58 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "LAL now leads 55-36"
+  },
+  {
+    "x": 220,
+    "y": 167,
+    "type": "make",
+    "game": "Jan 10, 2021, LAL at HOU",
+    "time": "3rd Qtr, 7:48 remaining",
+    "shot": "Made 2-pointer from 12 ft",
+    "score": "LAL now leads 78-54"
+  },
+  {
+    "x": 425,
+    "y": 148,
+    "type": "miss",
+    "game": "Jan 10, 2021, LAL at HOU",
+    "time": "3rd Qtr, 7:01 remaining",
+    "shot": "Missed 2-pointer from 21 ft",
+    "score": "LAL leads 78-57"
+  },
+  {
+    "x": 240,
+    "y": 53,
+    "type": "miss",
+    "game": "Jan 10, 2021, LAL at HOU",
+    "time": "4th Qtr, 8:33 remaining",
+    "shot": "Missed 2-pointer from 0 ft",
+    "score": "LAL leads 98-79"
+  },
+  {
+    "x": 93,
+    "y": 268,
+    "type": "miss",
+    "game": "Jan 10, 2021, LAL at HOU",
+    "time": "4th Qtr, 6:36 remaining",
+    "shot": "Missed 3-pointer from 26 ft",
+    "score": "LAL leads 102-82"
+  },
+  {
+    "x": 67,
+    "y": 22,
+    "type": "miss",
+    "game": "Jan 12, 2021, LAL at HOU",
+    "time": "1st Qtr, 11:28 remaining",
+    "shot": "Missed 2-pointer from 18 ft",
+    "score": "LAL tied 0-0"
+  },
+  {
+    "x": 303,
+    "y": 138,
+    "type": "make",
+    "game": "Jan 12, 2021, LAL at HOU",
+    "time": "1st Qtr, 10:09 remaining",
+    "shot": "Made 2-pointer from 11 ft",
+    "score": "LAL now leads 6-3"
+  },
+  {
+    "x": 148,
+    "y": 97,
+    "type": "make",
+    "game": "Jan 12, 2021, LAL at HOU",
+    "time": "2nd Qtr, 6:10 remaining",
+    "shot": "Made 2-pointer from 10 ft",
+    "score": "LAL now leads 52-28"
+  },
+  {
+    "x": 242,
+    "y": 64,
+    "type": "make",
+    "game": "Jan 12, 2021, LAL at HOU",
+    "time": "2nd Qtr, 4:41 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "LAL now leads 56-33"
+  },
+  {
+    "x": 179,
+    "y": 64,
+    "type": "make",
+    "game": "Jan 12, 2021, LAL at HOU",
+    "time": "2nd Qtr, 0:36 remaining",
+    "shot": "Made 2-pointer from 6 ft",
+    "score": "LAL now leads 71-46"
+  },
+  {
+    "x": 240,
+    "y": 53,
+    "type": "make",
+    "game": "Jan 12, 2021, LAL at HOU",
+    "time": "3rd Qtr, 10:23 remaining",
+    "shot": "Made 2-pointer from 0 ft",
+    "score": "LAL now leads 75-48"
+  },
+  {
+    "x": 308,
+    "y": 90,
+    "type": "make",
+    "game": "Jan 12, 2021, LAL at HOU",
+    "time": "3rd Qtr, 9:00 remaining",
+    "shot": "Made 2-pointer from 8 ft",
+    "score": "LAL now leads 77-50"
+  },
+  {
+    "x": 10,
+    "y": 80,
+    "type": "make",
+    "game": "Jan 12, 2021, LAL at HOU",
+    "time": "3rd Qtr, 2:55 remaining",
+    "shot": "Made 3-pointer from 23 ft",
+    "score": "LAL now leads 93-65"
+  },
+  {
+    "x": 242,
+    "y": 53,
+    "type": "make",
+    "game": "Jan 13, 2021, LAL at OKC",
+    "time": "1st Qtr, 10:45 remaining",
+    "shot": "Made 2-pointer from 0 ft",
+    "score": "LAL now leads 5-2"
+  },
+  {
+    "x": 182,
+    "y": 100,
+    "type": "make",
+    "game": "Jan 13, 2021, LAL at OKC",
+    "time": "1st Qtr, 10:15 remaining",
+    "shot": "Made 2-pointer from 8 ft",
+    "score": "LAL now leads 7-4"
+  },
+  {
+    "x": 274,
+    "y": 133,
+    "type": "make",
+    "game": "Jan 13, 2021, LAL at OKC",
+    "time": "1st Qtr, 9:24 remaining",
+    "shot": "Made 2-pointer from 9 ft",
+    "score": "LAL now leads 9-4"
+  },
+  {
+    "x": 275,
+    "y": 99,
+    "type": "make",
+    "game": "Jan 13, 2021, LAL at OKC",
+    "time": "1st Qtr, 8:14 remaining",
+    "shot": "Made 2-pointer from 6 ft",
+    "score": "LAL now leads 13-4"
+  },
+  {
+    "x": 237,
+    "y": 68,
+    "type": "miss",
+    "game": "Jan 13, 2021, LAL at OKC",
+    "time": "1st Qtr, 5:31 remaining",
+    "shot": "Missed 2-pointer from 2 ft",
+    "score": "LAL leads 16-9"
+  },
+  {
+    "x": 237,
+    "y": 62,
+    "type": "make",
+    "game": "Jan 13, 2021, LAL at OKC",
+    "time": "1st Qtr, 5:29 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "LAL now leads 18-9"
+  },
+  {
+    "x": 110,
+    "y": 126,
+    "type": "miss",
+    "game": "Jan 13, 2021, LAL at OKC",
+    "time": "1st Qtr, 4:50 remaining",
+    "shot": "Missed 2-pointer from 15 ft",
+    "score": "LAL leads 18-9"
+  },
+  {
+    "x": 248,
+    "y": 66,
+    "type": "miss",
+    "game": "Jan 13, 2021, LAL at OKC",
+    "time": "1st Qtr, 3:04 remaining",
+    "shot": "Missed 2-pointer from 2 ft",
+    "score": "LAL leads 22-13"
+  },
+  {
+    "x": 314,
+    "y": 116,
+    "type": "make",
+    "game": "Jan 13, 2021, LAL at OKC",
+    "time": "3rd Qtr, 11:17 remaining",
+    "shot": "Made 2-pointer from 10 ft",
+    "score": "LAL now leads 60-48"
+  },
+  {
+    "x": 266,
+    "y": 153,
+    "type": "make",
+    "game": "Jan 13, 2021, LAL at OKC",
+    "time": "3rd Qtr, 9:29 remaining",
+    "shot": "Made 2-pointer from 10 ft",
+    "score": "LAL now leads 65-48"
+  },
+  {
+    "x": 220,
+    "y": 133,
+    "type": "make",
+    "game": "Jan 13, 2021, LAL at OKC",
+    "time": "3rd Qtr, 4:34 remaining",
+    "shot": "Made 2-pointer from 8 ft",
+    "score": "LAL now leads 85-58"
+  },
+  {
+    "x": 163,
+    "y": 295,
+    "type": "miss",
+    "game": "Jan 13, 2021, LAL at OKC",
+    "time": "3rd Qtr, 3:37 remaining",
+    "shot": "Missed 3-pointer from 25 ft",
+    "score": "LAL leads 85-60"
+  },
+  {
+    "x": 249,
+    "y": 52,
+    "type": "miss",
+    "game": "Jan 13, 2021, LAL at OKC",
+    "time": "3rd Qtr, 2:36 remaining",
+    "shot": "Missed 2-pointer from 1 ft",
+    "score": "LAL leads 87-61"
+  },
+  {
+    "x": 327,
+    "y": 284,
+    "type": "miss",
+    "game": "Jan 15, 2021, LAL vs NOP",
+    "time": "1st Qtr, 10:41 remaining",
+    "shot": "Missed 3-pointer from 25 ft",
+    "score": "LAL trails 3-4"
+  },
+  {
+    "x": 132,
+    "y": 51,
+    "type": "miss",
+    "game": "Jan 15, 2021, LAL vs NOP",
+    "time": "1st Qtr, 7:11 remaining",
+    "shot": "Missed 2-pointer from 11 ft",
+    "score": "LAL trails 7-14"
+  },
+  {
+    "x": 124,
+    "y": 82,
+    "type": "miss",
+    "game": "Jan 15, 2021, LAL vs NOP",
+    "time": "1st Qtr, 5:17 remaining",
+    "shot": "Missed 2-pointer from 12 ft",
+    "score": "LAL trails 9-18"
+  },
+  {
+    "x": 307,
+    "y": 74,
+    "type": "make",
+    "game": "Jan 15, 2021, LAL vs NOP",
+    "time": "1st Qtr, 4:21 remaining",
+    "shot": "Made 2-pointer from 7 ft",
+    "score": "LAL now trails 11-20"
+  },
+  {
+    "x": 145,
+    "y": 118,
+    "type": "miss",
+    "game": "Jan 15, 2021, LAL vs NOP",
+    "time": "1st Qtr, 2:56 remaining",
+    "shot": "Missed 2-pointer from 12 ft",
+    "score": "LAL trails 14-22"
+  },
+  {
+    "x": 207,
+    "y": 194,
+    "type": "miss",
+    "game": "Jan 15, 2021, LAL vs NOP",
+    "time": "1st Qtr, 2:19 remaining",
+    "shot": "Missed 2-pointer from 15 ft",
+    "score": "LAL trails 14-22"
+  },
+  {
+    "x": 205,
+    "y": 59,
+    "type": "miss",
+    "game": "Jan 15, 2021, LAL vs NOP",
+    "time": "1st Qtr, 1:28 remaining",
+    "shot": "Missed 2-pointer from 4 ft",
+    "score": "LAL trails 14-28"
+  },
+  {
+    "x": 230,
+    "y": 66,
+    "type": "make",
+    "game": "Jan 15, 2021, LAL vs NOP",
+    "time": "1st Qtr, 0:35 remaining",
+    "shot": "Made 2-pointer from 2 ft",
+    "score": "LAL now trails 19-28"
+  },
+  {
+    "x": 275,
+    "y": 104,
+    "type": "miss",
+    "game": "Jan 15, 2021, LAL vs NOP",
+    "time": "2nd Qtr, 4:26 remaining",
+    "shot": "Missed 2-pointer from 6 ft",
+    "score": "LAL trails 41-48"
+  },
+  {
+    "x": 240,
+    "y": 53,
+    "type": "miss",
+    "game": "Jan 15, 2021, LAL vs NOP",
+    "time": "2nd Qtr, 4:21 remaining",
+    "shot": "Missed 2-pointer from 0 ft",
+    "score": "LAL trails 41-48"
+  },
+  {
+    "x": 173,
+    "y": 182,
+    "type": "make",
+    "game": "Jan 15, 2021, LAL vs NOP",
+    "time": "2nd Qtr, 2:32 remaining",
+    "shot": "Made 2-pointer from 15 ft",
+    "score": "LAL now trails 48-54"
+  },
+  {
+    "x": 274,
+    "y": 102,
+    "type": "make",
+    "game": "Jan 15, 2021, LAL vs NOP",
+    "time": "2nd Qtr, 0:55 remaining",
+    "shot": "Made 2-pointer from 6 ft",
+    "score": "LAL now trails 55-58"
+  },
+  {
+    "x": 243,
+    "y": 63,
+    "type": "make",
+    "game": "Jan 15, 2021, LAL vs NOP",
+    "time": "3rd Qtr, 11:49 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "LAL now leads 59-58"
+  },
+  {
+    "x": 373,
+    "y": 149,
+    "type": "miss",
+    "game": "Jan 15, 2021, LAL vs NOP",
+    "time": "3rd Qtr, 10:16 remaining",
+    "shot": "Missed 2-pointer from 16 ft",
+    "score": "LAL leads 62-60"
+  },
+  {
+    "x": 471,
+    "y": 151,
+    "type": "miss",
+    "game": "Jan 15, 2021, LAL vs NOP",
+    "time": "3rd Qtr, 7:07 remaining",
+    "shot": "Missed 3-pointer from 25 ft",
+    "score": "LAL tied 67-67"
+  },
+  {
+    "x": 260,
+    "y": 63,
+    "type": "miss",
+    "game": "Jan 15, 2021, LAL vs NOP",
+    "time": "4th Qtr, 6:29 remaining",
+    "shot": "Missed 2-pointer from 2 ft",
+    "score": "LAL leads 96-83"
+  },
+  {
+    "x": 106,
+    "y": 41,
+    "type": "miss",
+    "game": "Jan 18, 2021, LAL vs GSW",
+    "time": "1st Qtr, 9:41 remaining",
+    "shot": "Missed 2-pointer from 13 ft",
+    "score": "LAL leads 10-4"
+  },
+  {
+    "x": 241,
+    "y": 59,
+    "type": "make",
+    "game": "Jan 18, 2021, LAL vs GSW",
+    "time": "1st Qtr, 6:17 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "LAL now leads 20-10"
+  },
+  {
+    "x": 210,
+    "y": 74,
+    "type": "make",
+    "game": "Jan 18, 2021, LAL vs GSW",
+    "time": "1st Qtr, 2:14 remaining",
+    "shot": "Made 2-pointer from 4 ft",
+    "score": "LAL now leads 33-14"
+  },
+  {
+    "x": 257,
+    "y": 215,
+    "type": "miss",
+    "game": "Jan 18, 2021, LAL vs GSW",
+    "time": "2nd Qtr, 4:50 remaining",
+    "shot": "Missed 2-pointer from 16 ft",
+    "score": "LAL leads 47-39"
+  },
+  {
+    "x": 217,
+    "y": 80,
+    "type": "miss",
+    "game": "Jan 18, 2021, LAL vs GSW",
+    "time": "2nd Qtr, 0:59 remaining",
+    "shot": "Missed 2-pointer from 4 ft",
+    "score": "LAL leads 60-46"
+  },
+  {
+    "x": 301,
+    "y": 208,
+    "type": "miss",
+    "game": "Jan 18, 2021, LAL vs GSW",
+    "time": "3rd Qtr, 11:33 remaining",
+    "shot": "Missed 2-pointer from 17 ft",
+    "score": "LAL leads 64-48"
+  },
+  {
+    "x": 231,
+    "y": 63,
+    "type": "make",
+    "game": "Jan 18, 2021, LAL vs GSW",
+    "time": "3rd Qtr, 11:13 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "LAL now leads 66-49"
+  },
+  {
+    "x": 472,
+    "y": 49,
+    "type": "miss",
+    "game": "Jan 18, 2021, LAL vs GSW",
+    "time": "3rd Qtr, 8:27 remaining",
+    "shot": "Missed 3-pointer from 23 ft",
+    "score": "LAL leads 70-61"
+  },
+  {
+    "x": 242,
+    "y": 61,
+    "type": "miss",
+    "game": "Jan 18, 2021, LAL vs GSW",
+    "time": "3rd Qtr, 5:38 remaining",
+    "shot": "Missed 2-pointer from 1 ft",
+    "score": "LAL leads 70-68"
+  },
+  {
+    "x": 240,
+    "y": 53,
+    "type": "make",
+    "game": "Jan 18, 2021, LAL vs GSW",
+    "time": "3rd Qtr, 5:36 remaining",
+    "shot": "Made 2-pointer from 0 ft",
+    "score": "LAL now leads 72-68"
+  },
+  {
+    "x": 126,
+    "y": 148,
+    "type": "miss",
+    "game": "Jan 18, 2021, LAL vs GSW",
+    "time": "3rd Qtr, 3:57 remaining",
+    "shot": "Missed 2-pointer from 15 ft",
+    "score": "LAL leads 77-73"
+  },
+  {
+    "x": 244,
+    "y": 187,
+    "type": "miss",
+    "game": "Jan 18, 2021, LAL vs GSW",
+    "time": "3rd Qtr, 3:09 remaining",
+    "shot": "Missed 2-pointer from 13 ft",
+    "score": "LAL leads 79-77"
+  },
+  {
+    "x": 167,
+    "y": 84,
+    "type": "make",
+    "game": "Jan 18, 2021, LAL vs GSW",
+    "time": "3rd Qtr, 1:25 remaining",
+    "shot": "Made 2-pointer from 8 ft",
+    "score": "LAL now leads 90-79"
+  },
+  {
+    "x": 140,
+    "y": 173,
+    "type": "miss",
+    "game": "Jan 18, 2021, LAL vs GSW",
+    "time": "3rd Qtr, 0:43 remaining",
+    "shot": "Missed 2-pointer from 16 ft",
+    "score": "LAL leads 90-81"
+  },
+  {
+    "x": 208,
+    "y": 246,
+    "type": "miss",
+    "game": "Jan 18, 2021, LAL vs GSW",
+    "time": "4th Qtr, 2:52 remaining",
+    "shot": "Missed 2-pointer from 20 ft",
+    "score": "LAL tied 108-108"
+  },
+  {
+    "x": 240,
+    "y": 53,
+    "type": "make",
+    "game": "Jan 18, 2021, LAL vs GSW",
+    "time": "4th Qtr, 1:24 remaining",
+    "shot": "Made 2-pointer from 0 ft",
+    "score": "LAL now trails 110-112"
+  },
+  {
+    "x": 100,
+    "y": 183,
+    "type": "make",
+    "game": "Jan 21, 2021, LAL at MIL",
+    "time": "1st Qtr, 11:31 remaining",
+    "shot": "Made 2-pointer from 19 ft",
+    "score": "LAL now tied 2-2"
+  },
+  {
+    "x": 231,
+    "y": 136,
+    "type": "make",
+    "game": "Jan 21, 2021, LAL at MIL",
+    "time": "1st Qtr, 7:46 remaining",
+    "shot": "Made 2-pointer from 8 ft",
+    "score": "LAL now tied 13-13"
+  },
+  {
+    "x": 132,
+    "y": 133,
+    "type": "make",
+    "game": "Jan 21, 2021, LAL at MIL",
+    "time": "1st Qtr, 5:22 remaining",
+    "shot": "Made 2-pointer from 14 ft",
+    "score": "LAL now trails 18-19"
+  },
+  {
+    "x": 172,
+    "y": 184,
+    "type": "miss",
+    "game": "Jan 21, 2021, LAL at MIL",
+    "time": "1st Qtr, 4:47 remaining",
+    "shot": "Missed 2-pointer from 15 ft",
+    "score": "LAL trails 18-19"
+  },
+  {
+    "x": 205,
+    "y": 94,
+    "type": "miss",
+    "game": "Jan 21, 2021, LAL at MIL",
+    "time": "1st Qtr, 4:18 remaining",
+    "shot": "Missed 2-pointer from 5 ft",
+    "score": "LAL trails 18-19"
+  },
+  {
+    "x": 241,
+    "y": 74,
+    "type": "make",
+    "game": "Jan 21, 2021, LAL at MIL",
+    "time": "1st Qtr, 3:54 remaining",
+    "shot": "Made 2-pointer from 2 ft",
+    "score": "LAL now trails 20-21"
+  },
+  {
+    "x": 230,
+    "y": 115,
+    "type": "make",
+    "game": "Jan 21, 2021, LAL at MIL",
+    "time": "2nd Qtr, 7:02 remaining",
+    "shot": "Made 2-pointer from 6 ft",
+    "score": "LAL now tied 41-41"
+  },
+  {
+    "x": 166,
+    "y": 221,
+    "type": "miss",
+    "game": "Jan 21, 2021, LAL at MIL",
+    "time": "2nd Qtr, 6:30 remaining",
+    "shot": "Missed 2-pointer from 18 ft",
+    "score": "LAL trails 41-44"
+  },
+  {
+    "x": 313,
+    "y": 307,
+    "type": "miss",
+    "game": "Jan 21, 2021, LAL at MIL",
+    "time": "2nd Qtr, 2:20 remaining",
+    "shot": "Missed 3-pointer from 26 ft",
+    "score": "LAL trails 52-55"
+  },
+  {
+    "x": 244,
+    "y": 58,
+    "type": "make",
+    "game": "Jan 21, 2021, LAL at MIL",
+    "time": "2nd Qtr, 2:00 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "LAL now trails 54-55"
+  },
+  {
+    "x": 346,
+    "y": 246,
+    "type": "miss",
+    "game": "Jan 21, 2021, LAL at MIL",
+    "time": "3rd Qtr, 10:25 remaining",
+    "shot": "Missed 2-pointer from 22 ft",
+    "score": "LAL leads 69-59"
+  },
+  {
+    "x": 278,
+    "y": 125,
+    "type": "miss",
+    "game": "Jan 21, 2021, LAL at MIL",
+    "time": "3rd Qtr, 6:31 remaining",
+    "shot": "Missed 2-pointer from 8 ft",
+    "score": "LAL leads 76-67"
+  },
+  {
+    "x": 307,
+    "y": 131,
+    "type": "miss",
+    "game": "Jan 21, 2021, LAL at MIL",
+    "time": "3rd Qtr, 5:52 remaining",
+    "shot": "Missed 2-pointer from 10 ft",
+    "score": "LAL leads 78-70"
+  },
+  {
+    "x": 236,
+    "y": 151,
+    "type": "miss",
+    "game": "Jan 21, 2021, LAL at MIL",
+    "time": "3rd Qtr, 4:04 remaining",
+    "shot": "Missed 2-pointer from 10 ft",
+    "score": "LAL leads 78-72"
+  },
+  {
+    "x": 116,
+    "y": 90,
+    "type": "make",
+    "game": "Jan 21, 2021, LAL at MIL",
+    "time": "3rd Qtr, 2:09 remaining",
+    "shot": "Made 2-pointer from 13 ft",
+    "score": "LAL now leads 82-78"
+  },
+  {
+    "x": 273,
+    "y": 113,
+    "type": "make",
+    "game": "Jan 21, 2021, LAL at MIL",
+    "time": "3rd Qtr, 0:19 remaining",
+    "shot": "Made 2-pointer from 7 ft",
+    "score": "LAL now leads 86-81"
+  },
+  {
+    "x": 122,
+    "y": 192,
+    "type": "miss",
+    "game": "Jan 21, 2021, LAL at MIL",
+    "time": "4th Qtr, 6:52 remaining",
+    "shot": "Missed 2-pointer from 18 ft",
+    "score": "LAL leads 98-89"
+  },
+  {
+    "x": 125,
+    "y": 172,
+    "type": "miss",
+    "game": "Jan 21, 2021, LAL at MIL",
+    "time": "4th Qtr, 4:24 remaining",
+    "shot": "Missed 2-pointer from 17 ft",
+    "score": "LAL leads 102-93"
+  },
+  {
+    "x": 244,
+    "y": 113,
+    "type": "make",
+    "game": "Jan 23, 2021, LAL at CHI",
+    "time": "1st Qtr, 11:46 remaining",
+    "shot": "Made 2-pointer from 6 ft",
+    "score": "LAL now leads 2-0"
+  },
+  {
+    "x": 243,
+    "y": 266,
+    "type": "miss",
+    "game": "Jan 23, 2021, LAL at CHI",
+    "time": "1st Qtr, 11:12 remaining",
+    "shot": "Missed 2-pointer from 21 ft",
+    "score": "LAL tied 2-2"
+  },
+  {
+    "x": 230,
+    "y": 52,
+    "type": "make",
+    "game": "Jan 23, 2021, LAL at CHI",
+    "time": "1st Qtr, 10:02 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "LAL now tied 4-4"
+  },
+  {
+    "x": 236,
+    "y": 52,
+    "type": "make",
+    "game": "Jan 23, 2021, LAL at CHI",
+    "time": "1st Qtr, 8:16 remaining",
+    "shot": "Made 2-pointer from 0 ft",
+    "score": "LAL now leads 7-4"
+  },
+  {
+    "x": 227,
+    "y": 48,
+    "type": "make",
+    "game": "Jan 23, 2021, LAL at CHI",
+    "time": "1st Qtr, 7:30 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "LAL now leads 10-4"
+  },
+  {
+    "x": 239,
+    "y": 56,
+    "type": "make",
+    "game": "Jan 23, 2021, LAL at CHI",
+    "time": "1st Qtr, 6:37 remaining",
+    "shot": "Made 2-pointer from 0 ft",
+    "score": "LAL now leads 14-6"
+  },
+  {
+    "x": 237,
+    "y": 53,
+    "type": "make",
+    "game": "Jan 23, 2021, LAL at CHI",
+    "time": "1st Qtr, 6:10 remaining",
+    "shot": "Made 2-pointer from 0 ft",
+    "score": "LAL now leads 16-6"
+  },
+  {
+    "x": 295,
+    "y": 163,
+    "type": "make",
+    "game": "Jan 23, 2021, LAL at CHI",
+    "time": "1st Qtr, 3:46 remaining",
+    "shot": "Made 2-pointer from 12 ft",
+    "score": "LAL now leads 22-12"
+  },
+  {
+    "x": 358,
+    "y": 228,
+    "type": "make",
+    "game": "Jan 23, 2021, LAL at CHI",
+    "time": "2nd Qtr, 6:56 remaining",
+    "shot": "Made 2-pointer from 21 ft",
+    "score": "LAL now leads 43-21"
+  },
+  {
+    "x": 351,
+    "y": 274,
+    "type": "make",
+    "game": "Jan 23, 2021, LAL at CHI",
+    "time": "2nd Qtr, 3:06 remaining",
+    "shot": "Made 3-pointer from 25 ft",
+    "score": "LAL now leads 54-27"
+  },
+  {
+    "x": 126,
+    "y": 56,
+    "type": "miss",
+    "game": "Jan 23, 2021, LAL at CHI",
+    "time": "2nd Qtr, 1:57 remaining",
+    "shot": "Missed 2-pointer from 11 ft",
+    "score": "LAL leads 56-29"
+  },
+  {
+    "x": 272,
+    "y": 303,
+    "type": "make",
+    "game": "Jan 23, 2021, LAL at CHI",
+    "time": "2nd Qtr, 0:43 remaining",
+    "shot": "Made 3-pointer from 25 ft",
+    "score": "LAL now leads 61-31"
+  },
+  {
+    "x": 244,
+    "y": 120,
+    "type": "miss",
+    "game": "Jan 23, 2021, LAL at CHI",
+    "time": "3rd Qtr, 11:28 remaining",
+    "shot": "Missed 2-pointer from 7 ft",
+    "score": "LAL leads 63-35"
+  },
+  {
+    "x": 426,
+    "y": 202,
+    "type": "miss",
+    "game": "Jan 23, 2021, LAL at CHI",
+    "time": "3rd Qtr, 11:17 remaining",
+    "shot": "Missed 3-pointer from 24 ft",
+    "score": "LAL leads 63-35"
+  },
+  {
+    "x": 301,
+    "y": 153,
+    "type": "make",
+    "game": "Jan 23, 2021, LAL at CHI",
+    "time": "3rd Qtr, 6:08 remaining",
+    "shot": "Made 2-pointer from 12 ft",
+    "score": "LAL now leads 71-43"
+  },
+  {
+    "x": 245,
+    "y": 56,
+    "type": "make",
+    "game": "Jan 23, 2021, LAL at CHI",
+    "time": "3rd Qtr, 3:41 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "LAL now leads 76-52"
+  },
+  {
+    "x": 241,
+    "y": 130,
+    "type": "miss",
+    "game": "Jan 23, 2021, LAL at CHI",
+    "time": "3rd Qtr, 2:00 remaining",
+    "shot": "Missed 2-pointer from 8 ft",
+    "score": "LAL leads 77-57"
+  },
+  {
+    "x": 117,
+    "y": 82,
+    "type": "miss",
+    "game": "Jan 23, 2021, LAL at CHI",
+    "time": "3rd Qtr, 0:50 remaining",
+    "shot": "Missed 2-pointer from 13 ft",
+    "score": "LAL leads 79-65"
+  },
+  {
+    "x": 232,
+    "y": 113,
+    "type": "make",
+    "game": "Jan 23, 2021, LAL at CHI",
+    "time": "3rd Qtr, 0:35 remaining",
+    "shot": "Made 2-pointer from 6 ft",
+    "score": "LAL now leads 81-66"
+  },
+  {
+    "x": 127,
+    "y": 177,
+    "type": "miss",
+    "game": "Jan 23, 2021, LAL at CHI",
+    "time": "3rd Qtr, 0:05 remaining",
+    "shot": "Missed 2-pointer from 17 ft",
+    "score": "LAL leads 81-66"
+  },
+  {
+    "x": 278,
+    "y": 87,
+    "type": "make",
+    "game": "Jan 23, 2021, LAL at CHI",
+    "time": "3rd Qtr, 0:01 remaining",
+    "shot": "Made 2-pointer from 5 ft",
+    "score": "LAL now leads 83-66"
+  },
+  {
+    "x": 368,
+    "y": 288,
+    "type": "miss",
+    "game": "Jan 25, 2021, LAL at CLE",
+    "time": "1st Qtr, 10:53 remaining",
+    "shot": "Missed 3-pointer from 27 ft",
+    "score": "LAL tied 2-2"
+  },
+  {
+    "x": 203,
+    "y": 103,
+    "type": "miss",
+    "game": "Jan 25, 2021, LAL at CLE",
+    "time": "1st Qtr, 10:16 remaining",
+    "shot": "Missed 2-pointer from 6 ft",
+    "score": "LAL trails 2-6"
+  },
+  {
+    "x": 244,
+    "y": 208,
+    "type": "miss",
+    "game": "Jan 25, 2021, LAL at CLE",
+    "time": "1st Qtr, 8:51 remaining",
+    "shot": "Missed 2-pointer from 16 ft",
+    "score": "LAL trails 6-12"
+  },
+  {
+    "x": 331,
+    "y": 166,
+    "type": "miss",
+    "game": "Jan 25, 2021, LAL at CLE",
+    "time": "1st Qtr, 6:15 remaining",
+    "shot": "Missed 2-pointer from 15 ft",
+    "score": "LAL leads 15-14"
+  },
+  {
+    "x": 237,
+    "y": 58,
+    "type": "make",
+    "game": "Jan 25, 2021, LAL at CLE",
+    "time": "1st Qtr, 5:47 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "LAL now leads 17-16"
+  },
+  {
+    "x": 278,
+    "y": 154,
+    "type": "make",
+    "game": "Jan 25, 2021, LAL at CLE",
+    "time": "1st Qtr, 4:34 remaining",
+    "shot": "Made 2-pointer from 11 ft",
+    "score": "LAL now leads 21-19"
+  },
+  {
+    "x": 192,
+    "y": 125,
+    "type": "miss",
+    "game": "Jan 25, 2021, LAL at CLE",
+    "time": "2nd Qtr, 6:06 remaining",
+    "shot": "Missed 2-pointer from 9 ft",
+    "score": "LAL leads 52-40"
+  },
+  {
+    "x": 232,
+    "y": 62,
+    "type": "make",
+    "game": "Jan 25, 2021, LAL at CLE",
+    "time": "2nd Qtr, 0:35 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "LAL now leads 63-53"
+  },
+  {
+    "x": 346,
+    "y": 292,
+    "type": "miss",
+    "game": "Jan 25, 2021, LAL at CLE",
+    "time": "3rd Qtr, 9:18 remaining",
+    "shot": "Missed 3-pointer from 26 ft",
+    "score": "LAL leads 69-68"
+  },
+  {
+    "x": 177,
+    "y": 157,
+    "type": "miss",
+    "game": "Jan 25, 2021, LAL at CLE",
+    "time": "3rd Qtr, 5:48 remaining",
+    "shot": "Missed 2-pointer from 12 ft",
+    "score": "LAL tied 77-77"
+  },
+  {
+    "x": 241,
+    "y": 51,
+    "type": "make",
+    "game": "Jan 25, 2021, LAL at CLE",
+    "time": "3rd Qtr, 4:57 remaining",
+    "shot": "Made 2-pointer from 0 ft",
+    "score": "LAL now leads 79-77"
+  },
+  {
+    "x": 54,
+    "y": 148,
+    "type": "miss",
+    "game": "Jan 25, 2021, LAL at CLE",
+    "time": "3rd Qtr, 2:08 remaining",
+    "shot": "Missed 2-pointer from 21 ft",
+    "score": "LAL tied 83-83"
+  },
+  {
+    "x": 199,
+    "y": 133,
+    "type": "miss",
+    "game": "Jan 25, 2021, LAL at CLE",
+    "time": "4th Qtr, 7:58 remaining",
+    "shot": "Missed 2-pointer from 9 ft",
+    "score": "LAL trails 95-96"
+  },
+  {
+    "x": 363,
+    "y": 282,
+    "type": "miss",
+    "game": "Jan 25, 2021, LAL at CLE",
+    "time": "4th Qtr, 7:35 remaining",
+    "shot": "Missed 3-pointer from 26 ft",
+    "score": "LAL trails 95-96"
+  },
+  {
+    "x": 108,
+    "y": 180,
+    "type": "miss",
+    "game": "Jan 25, 2021, LAL at CLE",
+    "time": "4th Qtr, 6:43 remaining",
+    "shot": "Missed 2-pointer from 18 ft",
+    "score": "LAL leads 97-96"
+  },
+  {
+    "x": 231,
+    "y": 68,
+    "type": "make",
+    "game": "Jan 25, 2021, LAL at CLE",
+    "time": "4th Qtr, 2:44 remaining",
+    "shot": "Made 2-pointer from 2 ft",
+    "score": "LAL now leads 110-102"
+  },
+  {
+    "x": 225,
+    "y": 116,
+    "type": "make",
+    "game": "Jan 27, 2021, LAL at PHI",
+    "time": "1st Qtr, 8:01 remaining",
+    "shot": "Made 2-pointer from 7 ft",
+    "score": "LAL now leads 14-11"
+  },
+  {
+    "x": 105,
+    "y": 149,
+    "type": "miss",
+    "game": "Jan 27, 2021, LAL at PHI",
+    "time": "1st Qtr, 7:35 remaining",
+    "shot": "Missed 2-pointer from 17 ft",
+    "score": "LAL leads 14-13"
+  },
+  {
+    "x": 246,
+    "y": 49,
+    "type": "make",
+    "game": "Jan 27, 2021, LAL at PHI",
+    "time": "1st Qtr, 6:54 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "LAL now tied 16-16"
+  },
+  {
+    "x": 248,
+    "y": 73,
+    "type": "make",
+    "game": "Jan 27, 2021, LAL at PHI",
+    "time": "1st Qtr, 4:07 remaining",
+    "shot": "Made 2-pointer from 2 ft",
+    "score": "LAL now trails 18-25"
+  },
+  {
+    "x": 288,
+    "y": 33,
+    "type": "make",
+    "game": "Jan 27, 2021, LAL at PHI",
+    "time": "2nd Qtr, 4:53 remaining",
+    "shot": "Made 2-pointer from 5 ft",
+    "score": "LAL now trails 40-46"
+  },
+  {
+    "x": 205,
+    "y": 174,
+    "type": "make",
+    "game": "Jan 27, 2021, LAL at PHI",
+    "time": "2nd Qtr, 3:49 remaining",
+    "shot": "Made 2-pointer from 13 ft",
+    "score": "LAL now trails 45-47"
+  },
+  {
+    "x": 181,
+    "y": 135,
+    "type": "miss",
+    "game": "Jan 27, 2021, LAL at PHI",
+    "time": "2nd Qtr, 3:10 remaining",
+    "shot": "Missed 2-pointer from 10 ft",
+    "score": "LAL trails 45-47"
+  },
+  {
+    "x": 199,
+    "y": 333,
+    "type": "miss",
+    "game": "Jan 27, 2021, LAL at PHI",
+    "time": "2nd Qtr, 0:36 remaining",
+    "shot": "Missed 3-pointer from 28 ft",
+    "score": "LAL trails 49-53"
+  },
+  {
+    "x": 249,
+    "y": 108,
+    "type": "make",
+    "game": "Jan 27, 2021, LAL at PHI",
+    "time": "2nd Qtr, 0:17 remaining",
+    "shot": "Made 2-pointer from 6 ft",
+    "score": "LAL now trails 51-55"
+  },
+  {
+    "x": 132,
+    "y": 189,
+    "type": "miss",
+    "game": "Jan 27, 2021, LAL at PHI",
+    "time": "3rd Qtr, 9:55 remaining",
+    "shot": "Missed 2-pointer from 17 ft",
+    "score": "LAL trails 53-62"
+  },
+  {
+    "x": 220,
+    "y": 57,
+    "type": "make",
+    "game": "Jan 27, 2021, LAL at PHI",
+    "time": "3rd Qtr, 9:28 remaining",
+    "shot": "Made 2-pointer from 2 ft",
+    "score": "LAL now trails 55-65"
+  },
+  {
+    "x": 250,
+    "y": 52,
+    "type": "make",
+    "game": "Jan 27, 2021, LAL at PHI",
+    "time": "3rd Qtr, 5:26 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "LAL now trails 65-70"
+  },
+  {
+    "x": 130,
+    "y": 43,
+    "type": "miss",
+    "game": "Jan 27, 2021, LAL at PHI",
+    "time": "3rd Qtr, 3:47 remaining",
+    "shot": "Missed 2-pointer from 11 ft",
+    "score": "LAL trails 68-72"
+  },
+  {
+    "x": 238,
+    "y": 223,
+    "type": "miss",
+    "game": "Jan 27, 2021, LAL at PHI",
+    "time": "3rd Qtr, 3:16 remaining",
+    "shot": "Missed 2-pointer from 17 ft",
+    "score": "LAL trails 68-74"
+  },
+  {
+    "x": 242,
+    "y": 49,
+    "type": "miss",
+    "game": "Jan 27, 2021, LAL at PHI",
+    "time": "4th Qtr, 7:50 remaining",
+    "shot": "Missed 2-pointer from 0 ft",
+    "score": "LAL trails 81-90"
+  },
+  {
+    "x": 248,
+    "y": 326,
+    "type": "miss",
+    "game": "Jan 27, 2021, LAL at PHI",
+    "time": "4th Qtr, 1:53 remaining",
+    "shot": "Missed 3-pointer from 27 ft",
+    "score": "LAL trails 98-105"
+  },
+  {
+    "x": 248,
+    "y": 89,
+    "type": "make",
+    "game": "Jan 27, 2021, LAL at PHI",
+    "time": "4th Qtr, 0:11 remaining",
+    "shot": "Made 2-pointer from 4 ft",
+    "score": "LAL now leads 106-105"
+  },
+  {
+    "x": 293,
+    "y": 398,
+    "type": "miss",
+    "game": "Jan 27, 2021, LAL at PHI",
+    "time": "4th Qtr, 0:00 remaining",
+    "shot": "Missed 3-pointer from 35 ft",
+    "score": "LAL trails 106-107"
+  },
+  {
+    "x": 260,
+    "y": 69,
+    "type": "miss",
+    "game": "Jan 30, 2021, LAL at BOS",
+    "time": "1st Qtr, 11:41 remaining",
+    "shot": "Missed 2-pointer from 3 ft",
+    "score": "LAL tied 0-0"
+  },
+  {
+    "x": 248,
+    "y": 68,
+    "type": "make",
+    "game": "Jan 30, 2021, LAL at BOS",
+    "time": "1st Qtr, 10:20 remaining",
+    "shot": "Made 2-pointer from 2 ft",
+    "score": "LAL now tied 4-4"
+  },
+  {
+    "x": 278,
+    "y": 88,
+    "type": "miss",
+    "game": "Jan 30, 2021, LAL at BOS",
+    "time": "1st Qtr, 9:48 remaining",
+    "shot": "Missed 2-pointer from 5 ft",
+    "score": "LAL tied 4-4"
+  },
+  {
+    "x": 357,
+    "y": 88,
+    "type": "make",
+    "game": "Jan 30, 2021, LAL at BOS",
+    "time": "1st Qtr, 8:54 remaining",
+    "shot": "Made 2-pointer from 12 ft",
+    "score": "LAL now leads 8-5"
+  },
+  {
+    "x": 284,
+    "y": 106,
+    "type": "miss",
+    "game": "Jan 30, 2021, LAL at BOS",
+    "time": "1st Qtr, 8:09 remaining",
+    "shot": "Missed 2-pointer from 7 ft",
+    "score": "LAL tied 8-8"
+  },
+  {
+    "x": 474,
+    "y": 78,
+    "type": "make",
+    "game": "Jan 30, 2021, LAL at BOS",
+    "time": "1st Qtr, 5:49 remaining",
+    "shot": "Made 3-pointer from 24 ft",
+    "score": "LAL now leads 15-13"
+  },
+  {
+    "x": 348,
+    "y": 137,
+    "type": "make",
+    "game": "Jan 30, 2021, LAL at BOS",
+    "time": "1st Qtr, 4:02 remaining",
+    "shot": "Made 2-pointer from 14 ft",
+    "score": "LAL now leads 19-15"
+  },
+  {
+    "x": 203,
+    "y": 73,
+    "type": "miss",
+    "game": "Jan 30, 2021, LAL at BOS",
+    "time": "1st Qtr, 1:15 remaining",
+    "shot": "Missed 2-pointer from 4 ft",
+    "score": "LAL leads 26-24"
+  },
+  {
+    "x": 240,
+    "y": 53,
+    "type": "make",
+    "game": "Jan 30, 2021, LAL at BOS",
+    "time": "1st Qtr, 1:14 remaining",
+    "shot": "Made 2-pointer from 0 ft",
+    "score": "LAL now leads 28-24"
+  },
+  {
+    "x": 302,
+    "y": 149,
+    "type": "miss",
+    "game": "Jan 30, 2021, LAL at BOS",
+    "time": "1st Qtr, 0:51 remaining",
+    "shot": "Missed 2-pointer from 11 ft",
+    "score": "LAL leads 28-24"
+  },
+  {
+    "x": 194,
+    "y": 49,
+    "type": "miss",
+    "game": "Jan 30, 2021, LAL at BOS",
+    "time": "2nd Qtr, 4:11 remaining",
+    "shot": "Missed 2-pointer from 5 ft",
+    "score": "LAL leads 43-37"
+  },
+  {
+    "x": 384,
+    "y": 101,
+    "type": "make",
+    "game": "Jan 30, 2021, LAL at BOS",
+    "time": "2nd Qtr, 3:38 remaining",
+    "shot": "Made 2-pointer from 15 ft",
+    "score": "LAL now leads 45-40"
+  },
+  {
+    "x": 274,
+    "y": 82,
+    "type": "miss",
+    "game": "Jan 30, 2021, LAL at BOS",
+    "time": "2nd Qtr, 2:08 remaining",
+    "shot": "Missed 2-pointer from 4 ft",
+    "score": "LAL leads 45-44"
+  },
+  {
+    "x": 298,
+    "y": 192,
+    "type": "make",
+    "game": "Jan 30, 2021, LAL at BOS",
+    "time": "2nd Qtr, 1:25 remaining",
+    "shot": "Made 2-pointer from 15 ft",
+    "score": "LAL now leads 49-47"
+  },
+  {
+    "x": 144,
+    "y": 118,
+    "type": "make",
+    "game": "Jan 30, 2021, LAL at BOS",
+    "time": "3rd Qtr, 9:28 remaining",
+    "shot": "Made 2-pointer from 12 ft",
+    "score": "LAL now leads 57-56"
+  },
+  {
+    "x": 340,
+    "y": 303,
+    "type": "miss",
+    "game": "Jan 30, 2021, LAL at BOS",
+    "time": "3rd Qtr, 8:52 remaining",
+    "shot": "Missed 3-pointer from 27 ft",
+    "score": "LAL trails 57-58"
+  },
+  {
+    "x": 235,
+    "y": 172,
+    "type": "make",
+    "game": "Jan 30, 2021, LAL at BOS",
+    "time": "3rd Qtr, 6:50 remaining",
+    "shot": "Made 2-pointer from 12 ft",
+    "score": "LAL now tied 60-60"
+  },
+  {
+    "x": 288,
+    "y": 174,
+    "type": "make",
+    "game": "Jan 30, 2021, LAL at BOS",
+    "time": "3rd Qtr, 5:12 remaining",
+    "shot": "Made 2-pointer from 13 ft",
+    "score": "LAL now leads 66-64"
+  },
+  {
+    "x": 220,
+    "y": 212,
+    "type": "miss",
+    "game": "Jan 30, 2021, LAL at BOS",
+    "time": "3rd Qtr, 2:31 remaining",
+    "shot": "Missed 2-pointer from 16 ft",
+    "score": "LAL trails 68-70"
+  },
+  {
+    "x": 176,
+    "y": 183,
+    "type": "miss",
+    "game": "Jan 30, 2021, LAL at BOS",
+    "time": "4th Qtr, 7:27 remaining",
+    "shot": "Missed 2-pointer from 15 ft",
+    "score": "LAL tied 81-81"
+  },
+  {
+    "x": 332,
+    "y": 185,
+    "type": "make",
+    "game": "Jan 30, 2021, LAL at BOS",
+    "time": "4th Qtr, 6:12 remaining",
+    "shot": "Made 2-pointer from 16 ft",
+    "score": "LAL now tied 85-85"
+  },
+  {
+    "x": 404,
+    "y": 152,
+    "type": "miss",
+    "game": "Jan 30, 2021, LAL at BOS",
+    "time": "4th Qtr, 5:35 remaining",
+    "shot": "Missed 2-pointer from 19 ft",
+    "score": "LAL tied 85-85"
+  },
+  {
+    "x": 283,
+    "y": 203,
+    "type": "miss",
+    "game": "Jan 30, 2021, LAL at BOS",
+    "time": "4th Qtr, 2:05 remaining",
+    "shot": "Missed 2-pointer from 16 ft",
+    "score": "LAL leads 93-89"
+  },
+  {
+    "x": 100,
+    "y": 135,
+    "type": "miss",
+    "game": "Jan 30, 2021, LAL at BOS",
+    "time": "4th Qtr, 1:27 remaining",
+    "shot": "Missed 2-pointer from 16 ft",
+    "score": "LAL leads 96-91"
+  },
+  {
+    "x": 160,
+    "y": 194,
+    "type": "miss",
+    "game": "Jan 30, 2021, LAL at BOS",
+    "time": "4th Qtr, 0:10 remaining",
+    "shot": "Missed 2-pointer from 16 ft",
+    "score": "LAL leads 96-95"
+  },
+  {
+    "x": 232,
+    "y": 54,
+    "type": "make",
+    "game": "Feb 1, 2021, LAL at ATL",
+    "time": "1st Qtr, 10:37 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "LAL now leads 4-2"
+  },
+  {
+    "x": 232,
+    "y": 49,
+    "type": "make",
+    "game": "Feb 1, 2021, LAL at ATL",
+    "time": "1st Qtr, 5:15 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "LAL now leads 15-12"
+  },
+  {
+    "x": 238,
+    "y": 120,
+    "type": "make",
+    "game": "Feb 1, 2021, LAL at ATL",
+    "time": "1st Qtr, 4:52 remaining",
+    "shot": "Made 2-pointer from 7 ft",
+    "score": "LAL now leads 17-14"
+  },
+  {
+    "x": 352,
+    "y": 147,
+    "type": "make",
+    "game": "Feb 1, 2021, LAL at ATL",
+    "time": "2nd Qtr, 4:47 remaining",
+    "shot": "Made 2-pointer from 15 ft",
+    "score": "LAL now leads 43-40"
+  },
+  {
+    "x": 313,
+    "y": 298,
+    "type": "miss",
+    "game": "Feb 1, 2021, LAL at ATL",
+    "time": "3rd Qtr, 9:19 remaining",
+    "shot": "Missed 3-pointer from 26 ft",
+    "score": "LAL leads 55-50"
+  },
+  {
+    "x": 227,
+    "y": 67,
+    "type": "make",
+    "game": "Feb 1, 2021, LAL at ATL",
+    "time": "3rd Qtr, 6:38 remaining",
+    "shot": "Made 2-pointer from 2 ft",
+    "score": "LAL now leads 62-56"
+  },
+  {
+    "x": 225,
+    "y": 169,
+    "type": "make",
+    "game": "Feb 1, 2021, LAL at ATL",
+    "time": "3rd Qtr, 5:58 remaining",
+    "shot": "Made 2-pointer from 12 ft",
+    "score": "LAL now leads 64-58"
+  },
+  {
+    "x": 231,
+    "y": 58,
+    "type": "make",
+    "game": "Feb 1, 2021, LAL at ATL",
+    "time": "3rd Qtr, 4:37 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "LAL now leads 66-63"
+  },
+  {
+    "x": 152,
+    "y": 113,
+    "type": "make",
+    "game": "Feb 1, 2021, LAL at ATL",
+    "time": "3rd Qtr, 3:51 remaining",
+    "shot": "Made 2-pointer from 11 ft",
+    "score": "LAL now leads 68-66"
+  },
+  {
+    "x": 197,
+    "y": 195,
+    "type": "make",
+    "game": "Feb 1, 2021, LAL at ATL",
+    "time": "3rd Qtr, 3:03 remaining",
+    "shot": "Made 2-pointer from 15 ft",
+    "score": "LAL now leads 70-68"
+  },
+  {
+    "x": 177,
+    "y": 263,
+    "type": "miss",
+    "game": "Feb 1, 2021, LAL at ATL",
+    "time": "3rd Qtr, 2:35 remaining",
+    "shot": "Missed 2-pointer from 22 ft",
+    "score": "LAL trails 70-71"
+  },
+  {
+    "x": 413,
+    "y": 231,
+    "type": "miss",
+    "game": "Feb 1, 2021, LAL at ATL",
+    "time": "4th Qtr, 6:50 remaining",
+    "shot": "Missed 3-pointer from 25 ft",
+    "score": "LAL leads 88-80"
+  },
+  {
+    "x": 202,
+    "y": 233,
+    "type": "miss",
+    "game": "Feb 1, 2021, LAL at ATL",
+    "time": "4th Qtr, 2:15 remaining",
+    "shot": "Missed 2-pointer from 18 ft",
+    "score": "LAL leads 96-92"
+  },
+  {
+    "x": 134,
+    "y": 107,
+    "type": "make",
+    "game": "Feb 1, 2021, LAL at ATL",
+    "time": "4th Qtr, 1:48 remaining",
+    "shot": "Made 2-pointer from 12 ft",
+    "score": "LAL now leads 98-94"
+  },
+  {
+    "x": 214,
+    "y": 235,
+    "type": "make",
+    "game": "Feb 4, 2021, LAL vs DEN",
+    "time": "1st Qtr, 11:18 remaining",
+    "shot": "Made 2-pointer from 18 ft",
+    "score": "LAL now trails 2-3"
+  },
+  {
+    "x": 243,
+    "y": 63,
+    "type": "make",
+    "game": "Feb 4, 2021, LAL vs DEN",
+    "time": "1st Qtr, 3:24 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "LAL now leads 23-21"
+  },
+  {
+    "x": 38,
+    "y": 203,
+    "type": "miss",
+    "game": "Feb 4, 2021, LAL vs DEN",
+    "time": "2nd Qtr, 6:01 remaining",
+    "shot": "Missed 3-pointer from 25 ft",
+    "score": "LAL trails 40-46"
+  },
+  {
+    "x": 197,
+    "y": 133,
+    "type": "miss",
+    "game": "Feb 4, 2021, LAL vs DEN",
+    "time": "2nd Qtr, 1:52 remaining",
+    "shot": "Missed 2-pointer from 9 ft",
+    "score": "LAL trails 42-52"
+  },
+  {
+    "x": 291,
+    "y": 172,
+    "type": "make",
+    "game": "Feb 4, 2021, LAL vs DEN",
+    "time": "3rd Qtr, 9:45 remaining",
+    "shot": "Made 2-pointer from 13 ft",
+    "score": "LAL now trails 55-62"
+  },
+  {
+    "x": 248,
+    "y": 84,
+    "type": "miss",
+    "game": "Feb 4, 2021, LAL vs DEN",
+    "time": "3rd Qtr, 4:55 remaining",
+    "shot": "Missed 2-pointer from 3 ft",
+    "score": "LAL trails 66-73"
+  },
+  {
+    "x": 254,
+    "y": 77,
+    "type": "make",
+    "game": "Feb 4, 2021, LAL vs DEN",
+    "time": "4th Qtr, 7:10 remaining",
+    "shot": "Made 2-pointer from 3 ft",
+    "score": "LAL now leads 96-82"
+  },
+  {
+    "x": 248,
+    "y": 84,
+    "type": "make",
+    "game": "Feb 4, 2021, LAL vs DEN",
+    "time": "4th Qtr, 3:14 remaining",
+    "shot": "Made 2-pointer from 3 ft",
+    "score": "LAL now leads 106-89"
+  },
+  {
+    "x": 254,
+    "y": 89,
+    "type": "make",
+    "game": "Feb 6, 2021, LAL vs DET",
+    "time": "1st Qtr, 11:51 remaining",
+    "shot": "Made 2-pointer from 4 ft",
+    "score": "LAL now leads 2-0"
+  },
+  {
+    "x": 231,
+    "y": 61,
+    "type": "make",
+    "game": "Feb 6, 2021, LAL vs DET",
+    "time": "1st Qtr, 11:17 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "LAL now leads 4-1"
+  },
+  {
+    "x": 230,
+    "y": 58,
+    "type": "make",
+    "game": "Feb 6, 2021, LAL vs DET",
+    "time": "1st Qtr, 11:01 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "LAL now leads 6-1"
+  },
+  {
+    "x": 265,
+    "y": 80,
+    "type": "make",
+    "game": "Feb 6, 2021, LAL vs DET",
+    "time": "1st Qtr, 7:21 remaining",
+    "shot": "Made 2-pointer from 4 ft",
+    "score": "LAL now leads 14-8"
+  },
+  {
+    "x": 233,
+    "y": 63,
+    "type": "make",
+    "game": "Feb 6, 2021, LAL vs DET",
+    "time": "1st Qtr, 5:16 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "LAL now leads 19-16"
+  },
+  {
+    "x": 103,
+    "y": 73,
+    "type": "make",
+    "game": "Feb 6, 2021, LAL vs DET",
+    "time": "1st Qtr, 4:18 remaining",
+    "shot": "Made 2-pointer from 14 ft",
+    "score": "LAL now leads 23-19"
+  },
+  {
+    "x": 217,
+    "y": 100,
+    "type": "miss",
+    "game": "Feb 6, 2021, LAL vs DET",
+    "time": "1st Qtr, 2:32 remaining",
+    "shot": "Missed 2-pointer from 5 ft",
+    "score": "LAL tied 23-23"
+  },
+  {
+    "x": 220,
+    "y": 95,
+    "type": "miss",
+    "game": "Feb 6, 2021, LAL vs DET",
+    "time": "1st Qtr, 2:26 remaining",
+    "shot": "Missed 2-pointer from 5 ft",
+    "score": "LAL tied 23-23"
+  },
+  {
+    "x": 92,
+    "y": 85,
+    "type": "make",
+    "game": "Feb 6, 2021, LAL vs DET",
+    "time": "2nd Qtr, 3:52 remaining",
+    "shot": "Made 2-pointer from 15 ft",
+    "score": "LAL now leads 54-47"
+  },
+  {
+    "x": 214,
+    "y": 64,
+    "type": "miss",
+    "game": "Feb 6, 2021, LAL vs DET",
+    "time": "2nd Qtr, 1:12 remaining",
+    "shot": "Missed 2-pointer from 3 ft",
+    "score": "LAL leads 59-48"
+  },
+  {
+    "x": 377,
+    "y": 263,
+    "type": "miss",
+    "game": "Feb 6, 2021, LAL vs DET",
+    "time": "3rd Qtr, 8:38 remaining",
+    "shot": "Missed 3-pointer from 25 ft",
+    "score": "LAL leads 70-61"
+  },
+  {
+    "x": 247,
+    "y": 168,
+    "type": "miss",
+    "game": "Feb 6, 2021, LAL vs DET",
+    "time": "3rd Qtr, 7:37 remaining",
+    "shot": "Missed 2-pointer from 12 ft",
+    "score": "LAL leads 70-61"
+  },
+  {
+    "x": 278,
+    "y": 178,
+    "type": "make",
+    "game": "Feb 6, 2021, LAL vs DET",
+    "time": "3rd Qtr, 3:55 remaining",
+    "shot": "Made 2-pointer from 13 ft",
+    "score": "LAL now leads 80-63"
+  },
+  {
+    "x": 255,
+    "y": 68,
+    "type": "make",
+    "game": "Feb 6, 2021, LAL vs DET",
+    "time": "4th Qtr, 8:08 remaining",
+    "shot": "Made 2-pointer from 2 ft",
+    "score": "LAL now leads 96-90"
+  },
+  {
+    "x": 351,
+    "y": 173,
+    "type": "miss",
+    "game": "Feb 6, 2021, LAL vs DET",
+    "time": "4th Qtr, 6:45 remaining",
+    "shot": "Missed 2-pointer from 16 ft",
+    "score": "LAL leads 98-92"
+  },
+  {
+    "x": 208,
+    "y": 103,
+    "type": "make",
+    "game": "Feb 6, 2021, LAL vs DET",
+    "time": "4th Qtr, 5:57 remaining",
+    "shot": "Made 2-pointer from 6 ft",
+    "score": "LAL now leads 100-95"
+  },
+  {
+    "x": 233,
+    "y": 113,
+    "type": "make",
+    "game": "Feb 6, 2021, LAL vs DET",
+    "time": "4th Qtr, 5:18 remaining",
+    "shot": "Made 2-pointer from 6 ft",
+    "score": "LAL now leads 102-98"
+  },
+  {
+    "x": 98,
+    "y": 108,
+    "type": "miss",
+    "game": "Feb 6, 2021, LAL vs DET",
+    "time": "4th Qtr, 1:36 remaining",
+    "shot": "Missed 2-pointer from 15 ft",
+    "score": "LAL leads 106-104"
+  },
+  {
+    "x": 320,
+    "y": 298,
+    "type": "miss",
+    "game": "Feb 6, 2021, LAL vs DET",
+    "time": "1st OT, 3:59 remaining",
+    "shot": "Missed 3-pointer from 26 ft",
+    "score": "LAL trails 106-108"
+  },
+  {
+    "x": 226,
+    "y": 64,
+    "type": "make",
+    "game": "Feb 6, 2021, LAL vs DET",
+    "time": "1st OT, 0:18 remaining",
+    "shot": "Made 2-pointer from 2 ft",
+    "score": "LAL now tied 118-118"
+  },
+  {
+    "x": 348,
+    "y": 128,
+    "type": "miss",
+    "game": "Feb 6, 2021, LAL vs DET",
+    "time": "2nd OT, 3:58 remaining",
+    "shot": "Missed 2-pointer from 13 ft",
+    "score": "LAL tied 118-118"
+  },
+  {
+    "x": 468,
+    "y": 75,
+    "type": "make",
+    "game": "Feb 6, 2021, LAL vs DET",
+    "time": "2nd OT, 3:00 remaining",
+    "shot": "Made 3-pointer from 23 ft",
+    "score": "LAL now leads 121-120"
+  },
+  {
+    "x": 247,
+    "y": 82,
+    "type": "miss",
+    "game": "Feb 12, 2021, LAL vs MEM",
+    "time": "1st Qtr, 11:52 remaining",
+    "shot": "Missed 2-pointer from 3 ft",
+    "score": "LAL tied 0-0"
+  },
+  {
+    "x": 116,
+    "y": 161,
+    "type": "miss",
+    "game": "Feb 12, 2021, LAL vs MEM",
+    "time": "1st Qtr, 9:30 remaining",
+    "shot": "Missed 2-pointer from 16 ft",
+    "score": "LAL trails 0-7"
+  },
+  {
+    "x": 294,
+    "y": 157,
+    "type": "miss",
+    "game": "Feb 12, 2021, LAL vs MEM",
+    "time": "1st Qtr, 8:15 remaining",
+    "shot": "Missed 2-pointer from 12 ft",
+    "score": "LAL trails 2-13"
+  },
+  {
+    "x": 177,
+    "y": 125,
+    "type": "miss",
+    "game": "Feb 12, 2021, LAL vs MEM",
+    "time": "1st Qtr, 7:49 remaining",
+    "shot": "Missed 2-pointer from 10 ft",
+    "score": "LAL trails 2-16"
+  },
+  {
+    "x": 348,
+    "y": 42,
+    "type": "miss",
+    "game": "Feb 12, 2021, LAL vs MEM",
+    "time": "1st Qtr, 5:33 remaining",
+    "shot": "Missed 2-pointer from 11 ft",
+    "score": "LAL trails 2-22"
+  },
+  {
+    "x": 283,
+    "y": 61,
+    "type": "make",
+    "game": "Feb 12, 2021, LAL vs MEM",
+    "time": "1st Qtr, 4:40 remaining",
+    "shot": "Made 2-pointer from 4 ft",
+    "score": "LAL now trails 6-22"
+  },
+  {
+    "x": 231,
+    "y": 62,
+    "type": "make",
+    "game": "Feb 12, 2021, LAL vs MEM",
+    "time": "1st Qtr, 3:14 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "LAL now trails 9-27"
+  },
+  {
+    "x": 259,
+    "y": 182,
+    "type": "make",
+    "game": "Feb 12, 2021, LAL vs MEM",
+    "time": "1st Qtr, 1:53 remaining",
+    "shot": "Made 2-pointer from 13 ft",
+    "score": "LAL now trails 11-27"
+  },
+  {
+    "x": 283,
+    "y": 158,
+    "type": "make",
+    "game": "Feb 12, 2021, LAL vs MEM",
+    "time": "2nd Qtr, 6:27 remaining",
+    "shot": "Made 2-pointer from 11 ft",
+    "score": "LAL now trails 30-45"
+  },
+  {
+    "x": 364,
+    "y": 156,
+    "type": "make",
+    "game": "Feb 12, 2021, LAL vs MEM",
+    "time": "2nd Qtr, 5:57 remaining",
+    "shot": "Made 2-pointer from 16 ft",
+    "score": "LAL now trails 32-45"
+  },
+  {
+    "x": 116,
+    "y": 108,
+    "type": "make",
+    "game": "Feb 12, 2021, LAL vs MEM",
+    "time": "2nd Qtr, 3:16 remaining",
+    "shot": "Made 2-pointer from 14 ft",
+    "score": "LAL now trails 41-52"
+  },
+  {
+    "x": 30,
+    "y": 198,
+    "type": "miss",
+    "game": "Feb 12, 2021, LAL vs MEM",
+    "time": "2nd Qtr, 2:34 remaining",
+    "shot": "Missed 3-pointer from 26 ft",
+    "score": "LAL trails 41-54"
+  },
+  {
+    "x": 244,
+    "y": 61,
+    "type": "make",
+    "game": "Feb 12, 2021, LAL vs MEM",
+    "time": "2nd Qtr, 1:21 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "LAL now trails 46-56"
+  },
+  {
+    "x": 338,
+    "y": 305,
+    "type": "miss",
+    "game": "Feb 12, 2021, LAL vs MEM",
+    "time": "2nd Qtr, 0:19 remaining",
+    "shot": "Missed 3-pointer from 27 ft",
+    "score": "LAL trails 46-56"
+  },
+  {
+    "x": 242,
+    "y": 54,
+    "type": "make",
+    "game": "Feb 12, 2021, LAL vs MEM",
+    "time": "3rd Qtr, 10:49 remaining",
+    "shot": "Made 2-pointer from 0 ft",
+    "score": "LAL now trails 48-61"
+  },
+  {
+    "x": 222,
+    "y": 64,
+    "type": "make",
+    "game": "Feb 12, 2021, LAL vs MEM",
+    "time": "3rd Qtr, 10:24 remaining",
+    "shot": "Made 2-pointer from 2 ft",
+    "score": "LAL now trails 50-61"
+  },
+  {
+    "x": 356,
+    "y": 199,
+    "type": "make",
+    "game": "Feb 12, 2021, LAL vs MEM",
+    "time": "3rd Qtr, 8:36 remaining",
+    "shot": "Made 2-pointer from 19 ft",
+    "score": "LAL now trails 59-63"
+  },
+  {
+    "x": 222,
+    "y": 100,
+    "type": "make",
+    "game": "Feb 12, 2021, LAL vs MEM",
+    "time": "3rd Qtr, 6:57 remaining",
+    "shot": "Made 2-pointer from 5 ft",
+    "score": "LAL now trails 63-68"
+  },
+  {
+    "x": 334,
+    "y": 279,
+    "type": "miss",
+    "game": "Feb 12, 2021, LAL vs MEM",
+    "time": "3rd Qtr, 5:37 remaining",
+    "shot": "Missed 3-pointer from 25 ft",
+    "score": "LAL trails 65-72"
+  },
+  {
+    "x": 246,
+    "y": 67,
+    "type": "miss",
+    "game": "Feb 12, 2021, LAL vs MEM",
+    "time": "3rd Qtr, 3:53 remaining",
+    "shot": "Missed 2-pointer from 2 ft",
+    "score": "LAL trails 68-76"
+  },
+  {
+    "x": 220,
+    "y": 73,
+    "type": "miss",
+    "game": "Feb 12, 2021, LAL vs MEM",
+    "time": "3rd Qtr, 3:47 remaining",
+    "shot": "Missed 2-pointer from 3 ft",
+    "score": "LAL trails 68-76"
+  },
+  {
+    "x": 238,
+    "y": 52,
+    "type": "make",
+    "game": "Feb 12, 2021, LAL vs MEM",
+    "time": "3rd Qtr, 3:37 remaining",
+    "shot": "Made 2-pointer from 0 ft",
+    "score": "LAL now trails 70-76"
+  },
+  {
+    "x": 218,
+    "y": 144,
+    "type": "make",
+    "game": "Feb 12, 2021, LAL vs MEM",
+    "time": "4th Qtr, 8:00 remaining",
+    "shot": "Made 2-pointer from 9 ft",
+    "score": "LAL now leads 98-88"
+  },
+  {
+    "x": 103,
+    "y": 207,
+    "type": "make",
+    "game": "Feb 12, 2021, LAL vs MEM",
+    "time": "4th Qtr, 7:15 remaining",
+    "shot": "Made 2-pointer from 21 ft",
+    "score": "LAL now leads 100-89"
+  },
+  {
+    "x": 84,
+    "y": 143,
+    "type": "miss",
+    "game": "Feb 12, 2021, LAL vs MEM",
+    "time": "4th Qtr, 6:42 remaining",
+    "shot": "Missed 2-pointer from 18 ft",
+    "score": "LAL leads 100-91"
+  },
+  {
+    "x": 221,
+    "y": 64,
+    "type": "make",
+    "game": "Feb 12, 2021, LAL vs MEM",
+    "time": "4th Qtr, 5:32 remaining",
+    "shot": "Made 2-pointer from 2 ft",
+    "score": "LAL now leads 106-91"
+  },
+  {
+    "x": 239,
+    "y": 49,
+    "type": "make",
+    "game": "Feb 12, 2021, LAL vs MEM",
+    "time": "4th Qtr, 4:40 remaining",
+    "shot": "Made 2-pointer from 0 ft",
+    "score": "LAL now leads 108-93"
+  },
+  {
+    "x": 108,
+    "y": 233,
+    "type": "miss",
+    "game": "Feb 14, 2021, LAL at DEN",
+    "time": "1st Qtr, 10:50 remaining",
+    "shot": "Missed 2-pointer from 22 ft",
+    "score": "LAL trails 0-2"
+  },
+  {
+    "x": 179,
+    "y": 123,
+    "type": "miss",
+    "game": "Feb 14, 2021, LAL at DEN",
+    "time": "1st Qtr, 10:31 remaining",
+    "shot": "Missed 2-pointer from 9 ft",
+    "score": "LAL trails 0-4"
+  },
+  {
+    "x": 240,
+    "y": 53,
+    "type": "make",
+    "game": "Feb 14, 2021, LAL at DEN",
+    "time": "1st Qtr, 10:26 remaining",
+    "shot": "Made 2-pointer from 0 ft",
+    "score": "LAL now trails 2-4"
+  },
+  {
+    "x": 101,
+    "y": 267,
+    "type": "miss",
+    "game": "Feb 14, 2021, LAL at DEN",
+    "time": "1st Qtr, 10:06 remaining",
+    "shot": "Missed 3-pointer from 26 ft",
+    "score": "LAL trails 2-7"
+  },
+  {
+    "x": 226,
+    "y": 66,
+    "type": "make",
+    "game": "Feb 14, 2021, LAL at DEN",
+    "time": "1st Qtr, 6:59 remaining",
+    "shot": "Made 2-pointer from 2 ft",
+    "score": "LAL now trails 13-14"
+  },
+  {
+    "x": 203,
+    "y": 133,
+    "type": "make",
+    "game": "Feb 14, 2021, LAL at DEN",
+    "time": "1st Qtr, 5:06 remaining",
+    "shot": "Made 2-pointer from 9 ft",
+    "score": "LAL now tied 19-19"
+  },
+  {
+    "x": 234,
+    "y": 69,
+    "type": "make",
+    "game": "Feb 14, 2021, LAL at DEN",
+    "time": "2nd Qtr, 7:30 remaining",
+    "shot": "Made 2-pointer from 2 ft",
+    "score": "LAL now leads 48-42"
+  },
+  {
+    "x": 248,
+    "y": 85,
+    "type": "make",
+    "game": "Feb 14, 2021, LAL at DEN",
+    "time": "2nd Qtr, 7:00 remaining",
+    "shot": "Made 2-pointer from 3 ft",
+    "score": "LAL now leads 51-45"
+  },
+  {
+    "x": 216,
+    "y": 72,
+    "type": "miss",
+    "game": "Feb 14, 2021, LAL at DEN",
+    "time": "2nd Qtr, 6:24 remaining",
+    "shot": "Missed 2-pointer from 3 ft",
+    "score": "LAL leads 51-45"
+  },
+  {
+    "x": 283,
+    "y": 73,
+    "type": "miss",
+    "game": "Feb 14, 2021, LAL at DEN",
+    "time": "2nd Qtr, 4:44 remaining",
+    "shot": "Missed 2-pointer from 5 ft",
+    "score": "LAL leads 53-52"
+  },
+  {
+    "x": 85,
+    "y": 189,
+    "type": "miss",
+    "game": "Feb 14, 2021, LAL at DEN",
+    "time": "2nd Qtr, 3:44 remaining",
+    "shot": "Missed 2-pointer from 21 ft",
+    "score": "LAL trails 53-57"
+  },
+  {
+    "x": 102,
+    "y": 157,
+    "type": "miss",
+    "game": "Apr 22, 2021, LAL at DAL",
+    "time": "1st Qtr, 11:30 remaining",
+    "shot": "Missed 2-pointer from 17 ft",
+    "score": "LAL trails 0-1"
+  },
+  {
+    "x": 303,
+    "y": 208,
+    "type": "miss",
+    "game": "Apr 22, 2021, LAL at DAL",
+    "time": "1st Qtr, 10:26 remaining",
+    "shot": "Missed 2-pointer from 17 ft",
+    "score": "LAL leads 5-3"
+  },
+  {
+    "x": 383,
+    "y": 54,
+    "type": "miss",
+    "game": "Apr 22, 2021, LAL at DAL",
+    "time": "1st Qtr, 7:41 remaining",
+    "shot": "Missed 2-pointer from 14 ft",
+    "score": "LAL leads 14-10"
+  },
+  {
+    "x": 256,
+    "y": 61,
+    "type": "miss",
+    "game": "Apr 22, 2021, LAL at DAL",
+    "time": "1st Qtr, 6:36 remaining",
+    "shot": "Missed 2-pointer from 2 ft",
+    "score": "LAL leads 16-15"
+  },
+  {
+    "x": 298,
+    "y": 77,
+    "type": "miss",
+    "game": "Apr 22, 2021, LAL at DAL",
+    "time": "1st Qtr, 6:12 remaining",
+    "shot": "Missed 2-pointer from 6 ft",
+    "score": "LAL trails 16-17"
+  },
+  {
+    "x": 244,
+    "y": 238,
+    "type": "make",
+    "game": "Apr 22, 2021, LAL at DAL",
+    "time": "1st Qtr, 4:51 remaining",
+    "shot": "Made 2-pointer from 19 ft",
+    "score": "LAL now leads 20-19"
+  },
+  {
+    "x": 181,
+    "y": 58,
+    "type": "make",
+    "game": "Apr 22, 2021, LAL at DAL",
+    "time": "2nd Qtr, 11:40 remaining",
+    "shot": "Made 2-pointer from 6 ft",
+    "score": "LAL now trails 28-31"
+  },
+  {
+    "x": 177,
+    "y": 85,
+    "type": "miss",
+    "game": "Apr 22, 2021, LAL at DAL",
+    "time": "2nd Qtr, 8:25 remaining",
+    "shot": "Missed 2-pointer from 7 ft",
+    "score": "LAL trails 35-44"
+  },
+  {
+    "x": 114,
+    "y": 281,
+    "type": "miss",
+    "game": "Apr 22, 2021, LAL at DAL",
+    "time": "2nd Qtr, 7:49 remaining",
+    "shot": "Missed 3-pointer from 26 ft",
+    "score": "LAL trails 35-45"
+  },
+  {
+    "x": 79,
+    "y": 100,
+    "type": "miss",
+    "game": "Apr 22, 2021, LAL at DAL",
+    "time": "2nd Qtr, 1:06 remaining",
+    "shot": "Missed 2-pointer from 17 ft",
+    "score": "LAL trails 49-59"
+  },
+  {
+    "x": 343,
+    "y": 72,
+    "type": "miss",
+    "game": "Apr 24, 2021, LAL at DAL",
+    "time": "1st Qtr, 10:33 remaining",
+    "shot": "Missed 2-pointer from 10 ft",
+    "score": "LAL trails 3-4"
+  },
+  {
+    "x": 139,
+    "y": 199,
+    "type": "miss",
+    "game": "Apr 24, 2021, LAL at DAL",
+    "time": "1st Qtr, 10:04 remaining",
+    "shot": "Missed 2-pointer from 18 ft",
+    "score": "LAL trails 3-6"
+  },
+  {
+    "x": 243,
+    "y": 67,
+    "type": "make",
+    "game": "Apr 24, 2021, LAL at DAL",
+    "time": "1st Qtr, 9:07 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "LAL now trails 5-8"
+  },
+  {
+    "x": 207,
+    "y": 161,
+    "type": "miss",
+    "game": "Apr 24, 2021, LAL at DAL",
+    "time": "1st Qtr, 6:35 remaining",
+    "shot": "Missed 2-pointer from 11 ft",
+    "score": "LAL trails 10-15"
+  },
+  {
+    "x": 350,
+    "y": 278,
+    "type": "miss",
+    "game": "Apr 24, 2021, LAL at DAL",
+    "time": "2nd Qtr, 6:01 remaining",
+    "shot": "Missed 3-pointer from 25 ft",
+    "score": "LAL leads 36-32"
+  },
+  {
+    "x": 188,
+    "y": 66,
+    "type": "make",
+    "game": "Apr 24, 2021, LAL at DAL",
+    "time": "2nd Qtr, 4:21 remaining",
+    "shot": "Made 2-pointer from 5 ft",
+    "score": "LAL now leads 44-35"
+  },
+  {
+    "x": 218,
+    "y": 190,
+    "type": "make",
+    "game": "Apr 24, 2021, LAL at DAL",
+    "time": "2nd Qtr, 3:47 remaining",
+    "shot": "Made 2-pointer from 14 ft",
+    "score": "LAL now leads 48-36"
+  },
+  {
+    "x": 360,
+    "y": 179,
+    "type": "miss",
+    "game": "Apr 24, 2021, LAL at DAL",
+    "time": "2nd Qtr, 3:20 remaining",
+    "shot": "Missed 2-pointer from 17 ft",
+    "score": "LAL leads 48-36"
+  },
+  {
+    "x": 260,
+    "y": 62,
+    "type": "make",
+    "game": "Apr 24, 2021, LAL at DAL",
+    "time": "2nd Qtr, 0:26 remaining",
+    "shot": "Made 2-pointer from 2 ft",
+    "score": "LAL now leads 58-43"
+  },
+  {
+    "x": 373,
+    "y": 189,
+    "type": "miss",
+    "game": "Apr 24, 2021, LAL at DAL",
+    "time": "3rd Qtr, 11:28 remaining",
+    "shot": "Missed 2-pointer from 19 ft",
+    "score": "LAL leads 58-48"
+  },
+  {
+    "x": 343,
+    "y": 284,
+    "type": "miss",
+    "game": "Apr 24, 2021, LAL at DAL",
+    "time": "3rd Qtr, 9:50 remaining",
+    "shot": "Missed 3-pointer from 25 ft",
+    "score": "LAL leads 62-50"
+  },
+  {
+    "x": 363,
+    "y": 268,
+    "type": "miss",
+    "game": "Apr 24, 2021, LAL at DAL",
+    "time": "3rd Qtr, 8:47 remaining",
+    "shot": "Missed 3-pointer from 25 ft",
+    "score": "LAL leads 65-56"
+  },
+  {
+    "x": 119,
+    "y": 218,
+    "type": "miss",
+    "game": "Apr 24, 2021, LAL at DAL",
+    "time": "3rd Qtr, 8:21 remaining",
+    "shot": "Missed 2-pointer from 20 ft",
+    "score": "LAL leads 65-58"
+  },
+  {
+    "x": 223,
+    "y": 300,
+    "type": "miss",
+    "game": "Apr 24, 2021, LAL at DAL",
+    "time": "4th Qtr, 6:34 remaining",
+    "shot": "Missed 3-pointer from 25 ft",
+    "score": "LAL leads 87-85"
+  },
+  {
+    "x": 78,
+    "y": 79,
+    "type": "make",
+    "game": "Apr 24, 2021, LAL at DAL",
+    "time": "4th Qtr, 4:55 remaining",
+    "shot": "Made 2-pointer from 16 ft",
+    "score": "LAL now tied 89-89"
+  },
+  {
+    "x": 308,
+    "y": 95,
+    "type": "miss",
+    "game": "Apr 24, 2021, LAL at DAL",
+    "time": "4th Qtr, 3:27 remaining",
+    "shot": "Missed 2-pointer from 8 ft",
+    "score": "LAL trails 91-93"
+  },
+  {
+    "x": 243,
+    "y": 173,
+    "type": "miss",
+    "game": "Apr 24, 2021, LAL at DAL",
+    "time": "4th Qtr, 3:12 remaining",
+    "shot": "Missed 2-pointer from 12 ft",
+    "score": "LAL trails 91-95"
+  },
+  {
+    "x": 406,
+    "y": 261,
+    "type": "miss",
+    "game": "Apr 24, 2021, LAL at DAL",
+    "time": "4th Qtr, 2:01 remaining",
+    "shot": "Missed 3-pointer from 27 ft",
+    "score": "LAL trails 91-101"
+  },
+  {
+    "x": 132,
+    "y": 133,
+    "type": "make",
+    "game": "Apr 26, 2021, LAL at ORL",
+    "time": "1st Qtr, 11:33 remaining",
+    "shot": "Made 2-pointer from 13 ft",
+    "score": "LAL now tied 2-2"
+  },
+  {
+    "x": 103,
+    "y": 27,
+    "type": "make",
+    "game": "Apr 26, 2021, LAL at ORL",
+    "time": "1st Qtr, 10:10 remaining",
+    "shot": "Made 2-pointer from 14 ft",
+    "score": "LAL now leads 6-5"
+  },
+  {
+    "x": 279,
+    "y": 162,
+    "type": "make",
+    "game": "Apr 26, 2021, LAL at ORL",
+    "time": "1st Qtr, 9:01 remaining",
+    "shot": "Made 2-pointer from 12 ft",
+    "score": "LAL now leads 8-7"
+  },
+  {
+    "x": 280,
+    "y": 177,
+    "type": "miss",
+    "game": "Apr 26, 2021, LAL at ORL",
+    "time": "2nd Qtr, 4:44 remaining",
+    "shot": "Missed 2-pointer from 13 ft",
+    "score": "LAL trails 41-45"
+  },
+  {
+    "x": 214,
+    "y": 130,
+    "type": "make",
+    "game": "Apr 26, 2021, LAL at ORL",
+    "time": "2nd Qtr, 3:57 remaining",
+    "shot": "Made 2-pointer from 8 ft",
+    "score": "LAL now trails 43-47"
+  },
+  {
+    "x": 171,
+    "y": 315,
+    "type": "miss",
+    "game": "Apr 26, 2021, LAL at ORL",
+    "time": "2nd Qtr, 0:30 remaining",
+    "shot": "Missed 3-pointer from 27 ft",
+    "score": "LAL trails 50-56"
+  },
+  {
+    "x": 79,
+    "y": 389,
+    "type": "miss",
+    "game": "Apr 26, 2021, LAL at ORL",
+    "time": "2nd Qtr, 0:00 remaining",
+    "shot": "Missed 3-pointer from 37 ft",
+    "score": "LAL trails 50-56"
+  },
+  {
+    "x": 258,
+    "y": 161,
+    "type": "miss",
+    "game": "Apr 26, 2021, LAL at ORL",
+    "time": "3rd Qtr, 11:42 remaining",
+    "shot": "Missed 2-pointer from 11 ft",
+    "score": "LAL trails 50-56"
+  },
+  {
+    "x": 252,
+    "y": 78,
+    "type": "make",
+    "game": "Apr 26, 2021, LAL at ORL",
+    "time": "3rd Qtr, 11:36 remaining",
+    "shot": "Made 2-pointer from 3 ft",
+    "score": "LAL now trails 52-56"
+  },
+  {
+    "x": 236,
+    "y": 221,
+    "type": "miss",
+    "game": "Apr 26, 2021, LAL at ORL",
+    "time": "3rd Qtr, 10:32 remaining",
+    "shot": "Missed 2-pointer from 17 ft",
+    "score": "LAL trails 52-56"
+  },
+  {
+    "x": 62,
+    "y": 244,
+    "type": "miss",
+    "game": "Apr 26, 2021, LAL at ORL",
+    "time": "3rd Qtr, 8:38 remaining",
+    "shot": "Missed 3-pointer from 26 ft",
+    "score": "LAL trails 56-61"
+  },
+  {
+    "x": 263,
+    "y": 49,
+    "type": "make",
+    "game": "Apr 26, 2021, LAL at ORL",
+    "time": "3rd Qtr, 4:54 remaining",
+    "shot": "Made 2-pointer from 2 ft",
+    "score": "LAL now tied 65-65"
+  },
+  {
+    "x": 177,
+    "y": 190,
+    "type": "miss",
+    "game": "Apr 26, 2021, LAL at ORL",
+    "time": "4th Qtr, 3:30 remaining",
+    "shot": "Missed 2-pointer from 15 ft",
+    "score": "LAL leads 102-96"
+  },
+  {
+    "x": 221,
+    "y": 218,
+    "type": "make",
+    "game": "Apr 26, 2021, LAL at ORL",
+    "time": "4th Qtr, 1:42 remaining",
+    "shot": "Made 2-pointer from 17 ft",
+    "score": "LAL now leads 109-98"
+  },
+  {
+    "x": 472,
+    "y": 95,
+    "type": "make",
+    "game": "Apr 26, 2021, LAL at ORL",
+    "time": "4th Qtr, 1:17 remaining",
+    "shot": "Made 3-pointer from 24 ft",
+    "score": "LAL now leads 112-100"
+  },
+  {
+    "x": 226,
+    "y": 213,
+    "type": "make",
+    "game": "Apr 28, 2021, LAL at WAS",
+    "time": "1st Qtr, 11:40 remaining",
+    "shot": "Made 2-pointer from 16 ft",
+    "score": "LAL now leads 2-0"
+  },
+  {
+    "x": 72,
+    "y": 115,
+    "type": "miss",
+    "game": "Apr 28, 2021, LAL at WAS",
+    "time": "1st Qtr, 10:41 remaining",
+    "shot": "Missed 2-pointer from 18 ft",
+    "score": "LAL tied 2-2"
+  },
+  {
+    "x": 237,
+    "y": 84,
+    "type": "make",
+    "game": "Apr 28, 2021, LAL at WAS",
+    "time": "1st Qtr, 9:18 remaining",
+    "shot": "Made 2-pointer from 3 ft",
+    "score": "LAL now leads 8-4"
+  },
+  {
+    "x": 298,
+    "y": 236,
+    "type": "make",
+    "game": "Apr 28, 2021, LAL at WAS",
+    "time": "1st Qtr, 8:05 remaining",
+    "shot": "Made 2-pointer from 19 ft",
+    "score": "LAL now leads 11-8"
+  },
+  {
+    "x": 234,
+    "y": 115,
+    "type": "miss",
+    "game": "Apr 28, 2021, LAL at WAS",
+    "time": "1st Qtr, 6:40 remaining",
+    "shot": "Missed 2-pointer from 6 ft",
+    "score": "LAL leads 14-12"
+  },
+  {
+    "x": 232,
+    "y": 90,
+    "type": "make",
+    "game": "Apr 28, 2021, LAL at WAS",
+    "time": "1st Qtr, 4:08 remaining",
+    "shot": "Made 2-pointer from 4 ft",
+    "score": "LAL now leads 22-19"
+  },
+  {
+    "x": 232,
+    "y": 108,
+    "type": "miss",
+    "game": "Apr 28, 2021, LAL at WAS",
+    "time": "2nd Qtr, 5:32 remaining",
+    "shot": "Missed 2-pointer from 6 ft",
+    "score": "LAL tied 47-47"
+  },
+  {
+    "x": 347,
+    "y": 105,
+    "type": "miss",
+    "game": "Apr 28, 2021, LAL at WAS",
+    "time": "2nd Qtr, 4:04 remaining",
+    "shot": "Missed 2-pointer from 12 ft",
+    "score": "LAL trails 47-51"
+  },
+  {
+    "x": 194,
+    "y": 321,
+    "type": "miss",
+    "game": "Apr 28, 2021, LAL at WAS",
+    "time": "2nd Qtr, 3:49 remaining",
+    "shot": "Missed 3-pointer from 27 ft",
+    "score": "LAL trails 47-51"
+  },
+  {
+    "x": 244,
+    "y": 195,
+    "type": "make",
+    "game": "Apr 28, 2021, LAL at WAS",
+    "time": "3rd Qtr, 8:43 remaining",
+    "shot": "Made 2-pointer from 14 ft",
+    "score": "LAL now trails 61-67"
+  },
+  {
+    "x": 246,
+    "y": 107,
+    "type": "miss",
+    "game": "Apr 28, 2021, LAL at WAS",
+    "time": "3rd Qtr, 6:43 remaining",
+    "shot": "Missed 2-pointer from 5 ft",
+    "score": "LAL trails 67-72"
+  },
+  {
+    "x": 252,
+    "y": 100,
+    "type": "miss",
+    "game": "Apr 28, 2021, LAL at WAS",
+    "time": "3rd Qtr, 4:40 remaining",
+    "shot": "Missed 2-pointer from 5 ft",
+    "score": "LAL trails 69-79"
+  },
+  {
+    "x": 246,
+    "y": 95,
+    "type": "miss",
+    "game": "Apr 28, 2021, LAL at WAS",
+    "time": "4th Qtr, 8:49 remaining",
+    "shot": "Missed 2-pointer from 4 ft",
+    "score": "LAL trails 79-98"
+  },
+  {
+    "x": 247,
+    "y": 74,
+    "type": "make",
+    "game": "Apr 28, 2021, LAL at WAS",
+    "time": "4th Qtr, 7:09 remaining",
+    "shot": "Made 2-pointer from 2 ft",
+    "score": "LAL now trails 86-100"
+  },
+  {
+    "x": 89,
+    "y": 278,
+    "type": "make",
+    "game": "Apr 28, 2021, LAL at WAS",
+    "time": "4th Qtr, 6:25 remaining",
+    "shot": "Made 3-pointer from 27 ft",
+    "score": "LAL now trails 89-102"
+  },
+  {
+    "x": 248,
+    "y": 88,
+    "type": "make",
+    "game": "Apr 28, 2021, LAL at WAS",
+    "time": "4th Qtr, 5:29 remaining",
+    "shot": "Made 2-pointer from 4 ft",
+    "score": "LAL now trails 93-102"
+  },
+  {
+    "x": 351,
+    "y": 308,
+    "type": "make",
+    "game": "Apr 28, 2021, LAL at WAS",
+    "time": "4th Qtr, 4:26 remaining",
+    "shot": "Made 3-pointer from 28 ft",
+    "score": "LAL now trails 98-107"
+  },
+  {
+    "x": 387,
+    "y": 277,
+    "type": "miss",
+    "game": "Apr 28, 2021, LAL at WAS",
+    "time": "4th Qtr, 2:59 remaining",
+    "shot": "Missed 3-pointer from 27 ft",
+    "score": "LAL trails 98-112"
+  },
+  {
+    "x": 367,
+    "y": 125,
+    "type": "make",
+    "game": "Apr 28, 2021, LAL at WAS",
+    "time": "4th Qtr, 2:32 remaining",
+    "shot": "Made 2-pointer from 15 ft",
+    "score": "LAL now trails 100-114"
+  },
+  {
+    "x": 217,
+    "y": 323,
+    "type": "miss",
+    "game": "Apr 28, 2021, LAL at WAS",
+    "time": "4th Qtr, 2:05 remaining",
+    "shot": "Missed 3-pointer from 27 ft",
+    "score": "LAL trails 100-114"
+  },
+  {
+    "x": 92,
+    "y": 141,
+    "type": "miss",
+    "game": "Apr 30, 2021, LAL vs SAC",
+    "time": "1st Qtr, 10:26 remaining",
+    "shot": "Missed 2-pointer from 17 ft",
+    "score": "LAL leads 2-0"
+  },
+  {
+    "x": 175,
+    "y": 135,
+    "type": "miss",
+    "game": "Apr 30, 2021, LAL vs SAC",
+    "time": "1st Qtr, 6:59 remaining",
+    "shot": "Missed 2-pointer from 11 ft",
+    "score": "LAL trails 7-10"
+  },
+  {
+    "x": 111,
+    "y": 269,
+    "type": "miss",
+    "game": "Apr 30, 2021, LAL vs SAC",
+    "time": "1st Qtr, 5:36 remaining",
+    "shot": "Missed 3-pointer from 25 ft",
+    "score": "LAL trails 9-12"
+  },
+  {
+    "x": 246,
+    "y": 140,
+    "type": "make",
+    "game": "Apr 30, 2021, LAL vs SAC",
+    "time": "2nd Qtr, 5:53 remaining",
+    "shot": "Made 2-pointer from 9 ft",
+    "score": "LAL now leads 46-41"
+  },
+  {
+    "x": 137,
+    "y": 167,
+    "type": "miss",
+    "game": "Apr 30, 2021, LAL vs SAC",
+    "time": "2nd Qtr, 5:18 remaining",
+    "shot": "Missed 2-pointer from 15 ft",
+    "score": "LAL leads 46-42"
+  },
+  {
+    "x": 307,
+    "y": 184,
+    "type": "make",
+    "game": "Apr 30, 2021, LAL vs SAC",
+    "time": "2nd Qtr, 3:23 remaining",
+    "shot": "Made 2-pointer from 15 ft",
+    "score": "LAL now leads 52-46"
+  },
+  {
+    "x": 15,
+    "y": 88,
+    "type": "miss",
+    "game": "Apr 30, 2021, LAL vs SAC",
+    "time": "2nd Qtr, 2:11 remaining",
+    "shot": "Missed 3-pointer from 23 ft",
+    "score": "LAL leads 54-46"
+  },
+  {
+    "x": 112,
+    "y": 156,
+    "type": "miss",
+    "game": "Apr 30, 2021, LAL vs SAC",
+    "time": "2nd Qtr, 0:22 remaining",
+    "shot": "Missed 2-pointer from 16 ft",
+    "score": "LAL leads 56-55"
+  },
+  {
+    "x": 234,
+    "y": 103,
+    "type": "miss",
+    "game": "Apr 30, 2021, LAL vs SAC",
+    "time": "3rd Qtr, 11:21 remaining",
+    "shot": "Missed 2-pointer from 5 ft",
+    "score": "LAL trails 56-57"
+  },
+  {
+    "x": 27,
+    "y": 188,
+    "type": "make",
+    "game": "Apr 30, 2021, LAL vs SAC",
+    "time": "3rd Qtr, 10:16 remaining",
+    "shot": "Made 3-pointer from 25 ft",
+    "score": "LAL now leads 61-59"
+  },
+  {
+    "x": 224,
+    "y": 183,
+    "type": "make",
+    "game": "Apr 30, 2021, LAL vs SAC",
+    "time": "3rd Qtr, 5:53 remaining",
+    "shot": "Made 2-pointer from 13 ft",
+    "score": "LAL now leads 73-69"
+  },
+  {
+    "x": 292,
+    "y": 151,
+    "type": "make",
+    "game": "Apr 30, 2021, LAL vs SAC",
+    "time": "3rd Qtr, 5:09 remaining",
+    "shot": "Made 2-pointer from 11 ft",
+    "score": "LAL now leads 75-71"
+  },
+  {
+    "x": 382,
+    "y": 103,
+    "type": "miss",
+    "game": "Apr 30, 2021, LAL vs SAC",
+    "time": "3rd Qtr, 3:56 remaining",
+    "shot": "Missed 2-pointer from 15 ft",
+    "score": "LAL leads 75-73"
+  },
+  {
+    "x": 236,
+    "y": 73,
+    "type": "make",
+    "game": "Apr 30, 2021, LAL vs SAC",
+    "time": "3rd Qtr, 3:47 remaining",
+    "shot": "Made 2-pointer from 2 ft",
+    "score": "LAL now leads 77-73"
+  },
+  {
+    "x": 232,
+    "y": 72,
+    "type": "make",
+    "game": "Apr 30, 2021, LAL vs SAC",
+    "time": "3rd Qtr, 2:58 remaining",
+    "shot": "Made 2-pointer from 2 ft",
+    "score": "LAL now leads 81-73"
+  },
+  {
+    "x": 74,
+    "y": 280,
+    "type": "miss",
+    "game": "Apr 30, 2021, LAL vs SAC",
+    "time": "3rd Qtr, 0:43 remaining",
+    "shot": "Missed 3-pointer from 28 ft",
+    "score": "LAL leads 86-78"
+  },
+  {
+    "x": 109,
+    "y": 97,
+    "type": "miss",
+    "game": "Apr 30, 2021, LAL vs SAC",
+    "time": "4th Qtr, 6:35 remaining",
+    "shot": "Missed 2-pointer from 14 ft",
+    "score": "LAL leads 96-93"
+  },
+  {
+    "x": 236,
+    "y": 74,
+    "type": "make",
+    "game": "Apr 30, 2021, LAL vs SAC",
+    "time": "4th Qtr, 3:11 remaining",
+    "shot": "Made 2-pointer from 2 ft",
+    "score": "LAL now trails 99-101"
+  },
+  {
+    "x": 218,
+    "y": 143,
+    "type": "make",
+    "game": "Apr 30, 2021, LAL vs SAC",
+    "time": "4th Qtr, 2:28 remaining",
+    "shot": "Made 2-pointer from 9 ft",
+    "score": "LAL now trails 101-104"
+  },
+  {
+    "x": 329,
+    "y": 228,
+    "type": "miss",
+    "game": "May 2, 2021, LAL vs TOR",
+    "time": "1st Qtr, 9:49 remaining",
+    "shot": "Missed 2-pointer from 20 ft",
+    "score": "LAL trails 5-7"
+  },
+  {
+    "x": 230,
+    "y": 68,
+    "type": "make",
+    "game": "May 2, 2021, LAL vs TOR",
+    "time": "1st Qtr, 9:10 remaining",
+    "shot": "Made 2-pointer from 2 ft",
+    "score": "LAL now leads 9-7"
+  },
+  {
+    "x": 82,
+    "y": 203,
+    "type": "miss",
+    "game": "May 2, 2021, LAL vs TOR",
+    "time": "1st Qtr, 8:44 remaining",
+    "shot": "Missed 2-pointer from 22 ft",
+    "score": "LAL tied 9-9"
+  },
+  {
+    "x": 243,
+    "y": 59,
+    "type": "make",
+    "game": "May 2, 2021, LAL vs TOR",
+    "time": "1st Qtr, 5:40 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "LAL now leads 18-15"
+  },
+  {
+    "x": 175,
+    "y": 87,
+    "type": "miss",
+    "game": "May 2, 2021, LAL vs TOR",
+    "time": "2nd Qtr, 7:13 remaining",
+    "shot": "Missed 2-pointer from 7 ft",
+    "score": "LAL leads 46-45"
+  },
+  {
+    "x": 223,
+    "y": 110,
+    "type": "make",
+    "game": "May 2, 2021, LAL vs TOR",
+    "time": "2nd Qtr, 6:11 remaining",
+    "shot": "Made 2-pointer from 6 ft",
+    "score": "LAL now leads 50-47"
+  },
+  {
+    "x": 226,
+    "y": 183,
+    "type": "miss",
+    "game": "May 2, 2021, LAL vs TOR",
+    "time": "2nd Qtr, 3:28 remaining",
+    "shot": "Missed 2-pointer from 13 ft",
+    "score": "LAL trails 54-57"
+  },
+  {
+    "x": 113,
+    "y": 288,
+    "type": "miss",
+    "game": "May 2, 2021, LAL vs TOR",
+    "time": "2nd Qtr, 1:18 remaining",
+    "shot": "Missed 3-pointer from 27 ft",
+    "score": "LAL trails 57-63"
+  },
+  {
+    "x": 179,
+    "y": 101,
+    "type": "miss",
+    "game": "May 2, 2021, LAL vs TOR",
+    "time": "3rd Qtr, 10:50 remaining",
+    "shot": "Missed 2-pointer from 8 ft",
+    "score": "LAL trails 59-74"
+  },
+  {
+    "x": 153,
+    "y": 200,
+    "type": "make",
+    "game": "May 2, 2021, LAL vs TOR",
+    "time": "3rd Qtr, 9:31 remaining",
+    "shot": "Made 2-pointer from 17 ft",
+    "score": "LAL now trails 61-77"
+  },
+  {
+    "x": 95,
+    "y": 282,
+    "type": "miss",
+    "game": "May 2, 2021, LAL vs TOR",
+    "time": "3rd Qtr, 8:22 remaining",
+    "shot": "Missed 3-pointer from 27 ft",
+    "score": "LAL trails 61-80"
+  },
+  {
+    "x": 202,
+    "y": 113,
+    "type": "miss",
+    "game": "May 2, 2021, LAL vs TOR",
+    "time": "3rd Qtr, 3:26 remaining",
+    "shot": "Missed 2-pointer from 7 ft",
+    "score": "LAL trails 72-88"
+  },
+  {
+    "x": 197,
+    "y": 61,
+    "type": "miss",
+    "game": "May 2, 2021, LAL vs TOR",
+    "time": "4th Qtr, 4:03 remaining",
+    "shot": "Missed 2-pointer from 4 ft",
+    "score": "LAL trails 102-117"
+  },
+  {
+    "x": 255,
+    "y": 58,
+    "type": "make",
+    "game": "May 2, 2021, LAL vs TOR",
+    "time": "4th Qtr, 4:01 remaining",
+    "shot": "Made 2-pointer from 2 ft",
+    "score": "LAL now trails 104-117"
+  },
+  {
+    "x": 75,
+    "y": 235,
+    "type": "miss",
+    "game": "May 2, 2021, LAL vs TOR",
+    "time": "4th Qtr, 2:00 remaining",
+    "shot": "Missed 3-pointer from 25 ft",
+    "score": "LAL trails 108-119"
+  },
+  {
+    "x": 257,
+    "y": 80,
+    "type": "miss",
+    "game": "May 2, 2021, LAL vs TOR",
+    "time": "4th Qtr, 0:18 remaining",
+    "shot": "Missed 2-pointer from 3 ft",
+    "score": "LAL trails 114-121"
+  },
+  {
+    "x": 100,
+    "y": 144,
+    "type": "miss",
+    "game": "May 3, 2021, LAL vs DEN",
+    "time": "1st Qtr, 11:38 remaining",
+    "shot": "Missed 2-pointer from 17 ft",
+    "score": "LAL tied 0-0"
+  },
+  {
+    "x": 244,
+    "y": 59,
+    "type": "make",
+    "game": "May 3, 2021, LAL vs DEN",
+    "time": "1st Qtr, 8:52 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "LAL now leads 10-4"
+  },
+  {
+    "x": 212,
+    "y": 177,
+    "type": "miss",
+    "game": "May 3, 2021, LAL vs DEN",
+    "time": "1st Qtr, 8:22 remaining",
+    "shot": "Missed 2-pointer from 13 ft",
+    "score": "LAL leads 10-4"
+  },
+  {
+    "x": 236,
+    "y": 82,
+    "type": "miss",
+    "game": "May 3, 2021, LAL vs DEN",
+    "time": "1st Qtr, 8:06 remaining",
+    "shot": "Missed 2-pointer from 3 ft",
+    "score": "LAL leads 10-4"
+  },
+  {
+    "x": 242,
+    "y": 116,
+    "type": "make",
+    "game": "May 3, 2021, LAL vs DEN",
+    "time": "1st Qtr, 7:46 remaining",
+    "shot": "Made 2-pointer from 6 ft",
+    "score": "LAL now leads 12-5"
+  },
+  {
+    "x": 241,
+    "y": 84,
+    "type": "make",
+    "game": "May 3, 2021, LAL vs DEN",
+    "time": "1st Qtr, 4:42 remaining",
+    "shot": "Made 2-pointer from 3 ft",
+    "score": "LAL now leads 16-14"
+  },
+  {
+    "x": 258,
+    "y": 75,
+    "type": "miss",
+    "game": "May 3, 2021, LAL vs DEN",
+    "time": "1st Qtr, 3:34 remaining",
+    "shot": "Missed 2-pointer from 3 ft",
+    "score": "LAL trails 16-17"
+  },
+  {
+    "x": 358,
+    "y": 213,
+    "type": "make",
+    "game": "May 3, 2021, LAL vs DEN",
+    "time": "1st Qtr, 2:40 remaining",
+    "shot": "Made 2-pointer from 20 ft",
+    "score": "LAL now trails 18-20"
+  },
+  {
+    "x": 221,
+    "y": 72,
+    "type": "make",
+    "game": "May 3, 2021, LAL vs DEN",
+    "time": "2nd Qtr, 6:24 remaining",
+    "shot": "Made 2-pointer from 3 ft",
+    "score": "LAL now trails 30-34"
+  },
+  {
+    "x": 288,
+    "y": 189,
+    "type": "make",
+    "game": "May 3, 2021, LAL vs DEN",
+    "time": "2nd Qtr, 4:39 remaining",
+    "shot": "Made 2-pointer from 15 ft",
+    "score": "LAL now trails 33-34"
+  },
+  {
+    "x": 226,
+    "y": 185,
+    "type": "miss",
+    "game": "May 3, 2021, LAL vs DEN",
+    "time": "2nd Qtr, 3:06 remaining",
+    "shot": "Missed 2-pointer from 13 ft",
+    "score": "LAL trails 34-37"
+  },
+  {
+    "x": 252,
+    "y": 61,
+    "type": "make",
+    "game": "May 3, 2021, LAL vs DEN",
+    "time": "2nd Qtr, 2:10 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "LAL now trails 39-40"
+  },
+  {
+    "x": 169,
+    "y": 326,
+    "type": "make",
+    "game": "May 3, 2021, LAL vs DEN",
+    "time": "3rd Qtr, 9:31 remaining",
+    "shot": "Made 3-pointer from 28 ft",
+    "score": "LAL now leads 48-46"
+  },
+  {
+    "x": 236,
+    "y": 162,
+    "type": "miss",
+    "game": "May 3, 2021, LAL vs DEN",
+    "time": "3rd Qtr, 4:06 remaining",
+    "shot": "Missed 2-pointer from 11 ft",
+    "score": "LAL leads 61-56"
+  },
+  {
+    "x": 177,
+    "y": 157,
+    "type": "miss",
+    "game": "May 3, 2021, LAL vs DEN",
+    "time": "4th Qtr, 5:16 remaining",
+    "shot": "Missed 2-pointer from 12 ft",
+    "score": "LAL leads 87-76"
+  },
+  {
+    "x": 301,
+    "y": 199,
+    "type": "miss",
+    "game": "May 3, 2021, LAL vs DEN",
+    "time": "4th Qtr, 4:09 remaining",
+    "shot": "Missed 2-pointer from 16 ft",
+    "score": "LAL leads 89-81"
+  },
+  {
+    "x": 72,
+    "y": 257,
+    "type": "miss",
+    "game": "May 3, 2021, LAL vs DEN",
+    "time": "4th Qtr, 3:10 remaining",
+    "shot": "Missed 3-pointer from 26 ft",
+    "score": "LAL leads 89-83"
+  },
+  {
+    "x": 143,
+    "y": 95,
+    "type": "miss",
+    "game": "May 3, 2021, LAL vs DEN",
+    "time": "4th Qtr, 1:22 remaining",
+    "shot": "Missed 2-pointer from 11 ft",
+    "score": "LAL leads 89-87"
+  },
+  {
+    "x": 224,
+    "y": 69,
+    "type": "make",
+    "game": "May 3, 2021, LAL vs DEN",
+    "time": "4th Qtr, 0:41 remaining",
+    "shot": "Made 2-pointer from 2 ft",
+    "score": "LAL now leads 91-87"
+  },
+  {
+    "x": 223,
+    "y": 213,
+    "type": "miss",
+    "game": "May 6, 2021, LAL at LAC",
+    "time": "1st Qtr, 11:15 remaining",
+    "shot": "Missed 2-pointer from 16 ft",
+    "score": "LAL tied 0-0"
+  },
+  {
+    "x": 190,
+    "y": 41,
+    "type": "make",
+    "game": "May 6, 2021, LAL at LAC",
+    "time": "1st Qtr, 10:26 remaining",
+    "shot": "Made 2-pointer from 5 ft",
+    "score": "LAL now leads 2-0"
+  },
+  {
+    "x": 258,
+    "y": 75,
+    "type": "miss",
+    "game": "May 6, 2021, LAL at LAC",
+    "time": "1st Qtr, 9:53 remaining",
+    "shot": "Missed 2-pointer from 3 ft",
+    "score": "LAL tied 2-2"
+  },
+  {
+    "x": 412,
+    "y": 170,
+    "type": "make",
+    "game": "May 6, 2021, LAL at LAC",
+    "time": "1st Qtr, 9:30 remaining",
+    "shot": "Made 2-pointer from 21 ft",
+    "score": "LAL now trails 4-5"
+  },
+  {
+    "x": 33,
+    "y": 195,
+    "type": "miss",
+    "game": "May 6, 2021, LAL at LAC",
+    "time": "1st Qtr, 8:49 remaining",
+    "shot": "Missed 3-pointer from 25 ft",
+    "score": "LAL trails 4-8"
+  },
+  {
+    "x": 206,
+    "y": 98,
+    "type": "miss",
+    "game": "May 6, 2021, LAL at LAC",
+    "time": "1st Qtr, 7:23 remaining",
+    "shot": "Missed 2-pointer from 6 ft",
+    "score": "LAL trails 9-13"
+  },
+  {
+    "x": 142,
+    "y": 157,
+    "type": "miss",
+    "game": "May 6, 2021, LAL at LAC",
+    "time": "1st Qtr, 5:10 remaining",
+    "shot": "Missed 2-pointer from 14 ft",
+    "score": "LAL trails 11-21"
+  },
+  {
+    "x": 237,
+    "y": 77,
+    "type": "miss",
+    "game": "May 6, 2021, LAL at LAC",
+    "time": "1st Qtr, 4:38 remaining",
+    "shot": "Missed 2-pointer from 2 ft",
+    "score": "LAL trails 11-22"
+  },
+  {
+    "x": 232,
+    "y": 218,
+    "type": "miss",
+    "game": "May 6, 2021, LAL at LAC",
+    "time": "1st Qtr, 3:07 remaining",
+    "shot": "Missed 2-pointer from 17 ft",
+    "score": "LAL trails 14-24"
+  },
+  {
+    "x": 132,
+    "y": 137,
+    "type": "miss",
+    "game": "May 7, 2021, LAL at POR",
+    "time": "1st Qtr, 9:21 remaining",
+    "shot": "Missed 2-pointer from 14 ft",
+    "score": "LAL trails 3-5"
+  },
+  {
+    "x": 243,
+    "y": 61,
+    "type": "make",
+    "game": "May 7, 2021, LAL at POR",
+    "time": "1st Qtr, 2:56 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "LAL now trails 12-22"
+  },
+  {
+    "x": 212,
+    "y": 59,
+    "type": "make",
+    "game": "May 7, 2021, LAL at POR",
+    "time": "1st Qtr, 0:45 remaining",
+    "shot": "Made 2-pointer from 3 ft",
+    "score": "LAL now trails 20-29"
+  },
+  {
+    "x": 164,
+    "y": 242,
+    "type": "miss",
+    "game": "May 7, 2021, LAL at POR",
+    "time": "1st Qtr, 0:18 remaining",
+    "shot": "Missed 2-pointer from 20 ft",
+    "score": "LAL trails 20-32"
+  },
+  {
+    "x": 236,
+    "y": 53,
+    "type": "make",
+    "game": "May 7, 2021, LAL at POR",
+    "time": "2nd Qtr, 5:56 remaining",
+    "shot": "Made 2-pointer from 0 ft",
+    "score": "LAL now trails 38-45"
+  },
+  {
+    "x": 281,
+    "y": 163,
+    "type": "miss",
+    "game": "May 7, 2021, LAL at POR",
+    "time": "2nd Qtr, 4:54 remaining",
+    "shot": "Missed 2-pointer from 12 ft",
+    "score": "LAL trails 40-48"
+  },
+  {
+    "x": 238,
+    "y": 64,
+    "type": "make",
+    "game": "May 7, 2021, LAL at POR",
+    "time": "2nd Qtr, 4:03 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "LAL now trails 44-48"
+  },
+  {
+    "x": 98,
+    "y": 59,
+    "type": "make",
+    "game": "May 7, 2021, LAL at POR",
+    "time": "2nd Qtr, 0:39 remaining",
+    "shot": "Made 2-pointer from 14 ft",
+    "score": "LAL now trails 55-59"
+  },
+  {
+    "x": 147,
+    "y": 104,
+    "type": "make",
+    "game": "May 7, 2021, LAL at POR",
+    "time": "3rd Qtr, 9:45 remaining",
+    "shot": "Made 2-pointer from 11 ft",
+    "score": "LAL now trails 62-64"
+  },
+  {
+    "x": 323,
+    "y": 300,
+    "type": "make",
+    "game": "May 7, 2021, LAL at POR",
+    "time": "3rd Qtr, 8:08 remaining",
+    "shot": "Made 3-pointer from 26 ft",
+    "score": "LAL now leads 67-64"
+  },
+  {
+    "x": 131,
+    "y": 121,
+    "type": "miss",
+    "game": "May 7, 2021, LAL at POR",
+    "time": "3rd Qtr, 7:24 remaining",
+    "shot": "Missed 2-pointer from 13 ft",
+    "score": "LAL leads 67-66"
+  },
+  {
+    "x": 144,
+    "y": 157,
+    "type": "make",
+    "game": "May 7, 2021, LAL at POR",
+    "time": "3rd Qtr, 6:58 remaining",
+    "shot": "Made 2-pointer from 14 ft",
+    "score": "LAL now leads 69-68"
+  },
+  {
+    "x": 340,
+    "y": 194,
+    "type": "make",
+    "game": "May 7, 2021, LAL at POR",
+    "time": "3rd Qtr, 5:55 remaining",
+    "shot": "Made 2-pointer from 17 ft",
+    "score": "LAL now leads 73-70"
+  },
+  {
+    "x": 387,
+    "y": 98,
+    "type": "miss",
+    "game": "May 7, 2021, LAL at POR",
+    "time": "3rd Qtr, 5:20 remaining",
+    "shot": "Missed 2-pointer from 15 ft",
+    "score": "LAL leads 73-72"
+  },
+  {
+    "x": 106,
+    "y": 73,
+    "type": "miss",
+    "game": "May 7, 2021, LAL at POR",
+    "time": "3rd Qtr, 4:33 remaining",
+    "shot": "Missed 2-pointer from 14 ft",
+    "score": "LAL leads 73-72"
+  },
+  {
+    "x": 176,
+    "y": 120,
+    "type": "miss",
+    "game": "May 7, 2021, LAL at POR",
+    "time": "3rd Qtr, 3:54 remaining",
+    "shot": "Missed 2-pointer from 9 ft",
+    "score": "LAL leads 73-72"
+  },
+  {
+    "x": 240,
+    "y": 53,
+    "type": "make",
+    "game": "May 7, 2021, LAL at POR",
+    "time": "3rd Qtr, 1:33 remaining",
+    "shot": "Made 2-pointer from 0 ft",
+    "score": "LAL now trails 77-78"
+  },
+  {
+    "x": 111,
+    "y": 62,
+    "type": "miss",
+    "game": "May 7, 2021, LAL at POR",
+    "time": "3rd Qtr, 1:02 remaining",
+    "shot": "Missed 2-pointer from 13 ft",
+    "score": "LAL trails 77-80"
+  },
+  {
+    "x": 249,
+    "y": 94,
+    "type": "miss",
+    "game": "May 7, 2021, LAL at POR",
+    "time": "3rd Qtr, 0:03 remaining",
+    "shot": "Missed 2-pointer from 4 ft",
+    "score": "LAL trails 78-82"
+  },
+  {
+    "x": 321,
+    "y": 85,
+    "type": "miss",
+    "game": "May 7, 2021, LAL at POR",
+    "time": "4th Qtr, 8:07 remaining",
+    "shot": "Missed 2-pointer from 9 ft",
+    "score": "LAL trails 83-89"
+  },
+  {
+    "x": 8,
+    "y": 107,
+    "type": "miss",
+    "game": "May 7, 2021, LAL at POR",
+    "time": "4th Qtr, 7:22 remaining",
+    "shot": "Missed 3-pointer from 24 ft",
+    "score": "LAL trails 83-89"
+  },
+  {
+    "x": 75,
+    "y": 268,
+    "type": "make",
+    "game": "May 7, 2021, LAL at POR",
+    "time": "4th Qtr, 5:08 remaining",
+    "shot": "Made 3-pointer from 27 ft",
+    "score": "LAL now trails 88-92"
+  },
+  {
+    "x": 240,
+    "y": 53,
+    "type": "make",
+    "game": "May 7, 2021, LAL at POR",
+    "time": "4th Qtr, 1:34 remaining",
+    "shot": "Made 2-pointer from 0 ft",
+    "score": "LAL now trails 95-100"
+  },
+  {
+    "x": 237,
+    "y": 75,
+    "type": "make",
+    "game": "May 9, 2021, LAL vs PHO",
+    "time": "1st Qtr, 10:02 remaining",
+    "shot": "Made 2-pointer from 2 ft",
+    "score": "LAL now leads 7-0"
+  },
+  {
+    "x": 352,
+    "y": 208,
+    "type": "make",
+    "game": "May 9, 2021, LAL vs PHO",
+    "time": "1st Qtr, 9:05 remaining",
+    "shot": "Made 2-pointer from 19 ft",
+    "score": "LAL now leads 9-4"
+  },
+  {
+    "x": 212,
+    "y": 79,
+    "type": "miss",
+    "game": "May 9, 2021, LAL vs PHO",
+    "time": "1st Qtr, 8:29 remaining",
+    "shot": "Missed 2-pointer from 4 ft",
+    "score": "LAL leads 9-4"
+  },
+  {
+    "x": 202,
+    "y": 78,
+    "type": "make",
+    "game": "May 9, 2021, LAL vs PHO",
+    "time": "1st Qtr, 7:25 remaining",
+    "shot": "Made 2-pointer from 5 ft",
+    "score": "LAL now leads 13-4"
+  },
+  {
+    "x": 245,
+    "y": 64,
+    "type": "make",
+    "game": "May 9, 2021, LAL vs PHO",
+    "time": "1st Qtr, 6:59 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "LAL now leads 15-4"
+  },
+  {
+    "x": 216,
+    "y": 69,
+    "type": "miss",
+    "game": "May 9, 2021, LAL vs PHO",
+    "time": "1st Qtr, 6:05 remaining",
+    "shot": "Missed 2-pointer from 3 ft",
+    "score": "LAL leads 18-6"
+  },
+  {
+    "x": 297,
+    "y": 93,
+    "type": "make",
+    "game": "May 9, 2021, LAL vs PHO",
+    "time": "1st Qtr, 5:41 remaining",
+    "shot": "Made 2-pointer from 7 ft",
+    "score": "LAL now leads 20-6"
+  },
+  {
+    "x": 231,
+    "y": 153,
+    "type": "miss",
+    "game": "May 9, 2021, LAL vs PHO",
+    "time": "2nd Qtr, 10:58 remaining",
+    "shot": "Missed 2-pointer from 10 ft",
+    "score": "LAL leads 30-21"
+  },
+  {
+    "x": 129,
+    "y": 72,
+    "type": "miss",
+    "game": "May 9, 2021, LAL vs PHO",
+    "time": "2nd Qtr, 8:35 remaining",
+    "shot": "Missed 2-pointer from 11 ft",
+    "score": "LAL leads 36-26"
+  },
+  {
+    "x": 192,
+    "y": 116,
+    "type": "make",
+    "game": "May 9, 2021, LAL vs PHO",
+    "time": "2nd Qtr, 6:10 remaining",
+    "shot": "Made 2-pointer from 8 ft",
+    "score": "LAL now leads 44-33"
+  },
+  {
+    "x": 111,
+    "y": 203,
+    "type": "miss",
+    "game": "May 9, 2021, LAL vs PHO",
+    "time": "2nd Qtr, 5:40 remaining",
+    "shot": "Missed 2-pointer from 20 ft",
+    "score": "LAL leads 44-33"
+  },
+  {
+    "x": 117,
+    "y": 190,
+    "type": "make",
+    "game": "May 9, 2021, LAL vs PHO",
+    "time": "2nd Qtr, 3:46 remaining",
+    "shot": "Made 2-pointer from 18 ft",
+    "score": "LAL now leads 50-35"
+  },
+  {
+    "x": 187,
+    "y": 77,
+    "type": "make",
+    "game": "May 9, 2021, LAL vs PHO",
+    "time": "2nd Qtr, 2:18 remaining",
+    "shot": "Made 2-pointer from 6 ft",
+    "score": "LAL now leads 55-39"
+  },
+  {
+    "x": 116,
+    "y": 92,
+    "type": "miss",
+    "game": "May 9, 2021, LAL vs PHO",
+    "time": "2nd Qtr, 0:11 remaining",
+    "shot": "Missed 2-pointer from 13 ft",
+    "score": "LAL leads 59-45"
+  },
+  {
+    "x": 275,
+    "y": 346,
+    "type": "miss",
+    "game": "May 9, 2021, LAL vs PHO",
+    "time": "2nd Qtr, 0:01 remaining",
+    "shot": "Missed 3-pointer from 30 ft",
+    "score": "LAL leads 59-47"
+  },
+  {
+    "x": 17,
+    "y": 113,
+    "type": "make",
+    "game": "May 9, 2021, LAL vs PHO",
+    "time": "3rd Qtr, 7:14 remaining",
+    "shot": "Made 3-pointer from 23 ft",
+    "score": "LAL now leads 75-57"
+  },
+  {
+    "x": 193,
+    "y": 313,
+    "type": "miss",
+    "game": "May 9, 2021, LAL vs PHO",
+    "time": "3rd Qtr, 5:53 remaining",
+    "shot": "Missed 3-pointer from 26 ft",
+    "score": "LAL leads 75-59"
+  },
+  {
+    "x": 226,
+    "y": 205,
+    "type": "miss",
+    "game": "May 9, 2021, LAL vs PHO",
+    "time": "3rd Qtr, 4:22 remaining",
+    "shot": "Missed 2-pointer from 15 ft",
+    "score": "LAL leads 78-65"
+  },
+  {
+    "x": 363,
+    "y": 90,
+    "type": "make",
+    "game": "May 9, 2021, LAL vs PHO",
+    "time": "3rd Qtr, 3:04 remaining",
+    "shot": "Made 2-pointer from 13 ft",
+    "score": "LAL now leads 85-68"
+  },
+  {
+    "x": 241,
+    "y": 159,
+    "type": "make",
+    "game": "May 9, 2021, LAL vs PHO",
+    "time": "3rd Qtr, 1:56 remaining",
+    "shot": "Made 2-pointer from 11 ft",
+    "score": "LAL now leads 89-72"
+  },
+  {
+    "x": 265,
+    "y": 82,
+    "type": "miss",
+    "game": "May 9, 2021, LAL vs PHO",
+    "time": "4th Qtr, 7:34 remaining",
+    "shot": "Missed 2-pointer from 4 ft",
+    "score": "LAL leads 108-95"
+  },
+  {
+    "x": 62,
+    "y": 240,
+    "type": "miss",
+    "game": "May 9, 2021, LAL vs PHO",
+    "time": "4th Qtr, 6:19 remaining",
+    "shot": "Missed 3-pointer from 26 ft",
+    "score": "LAL leads 110-97"
+  },
+  {
+    "x": 252,
+    "y": 61,
+    "type": "make",
+    "game": "May 9, 2021, LAL vs PHO",
+    "time": "4th Qtr, 5:11 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "LAL now leads 115-102"
+  },
+  {
+    "x": 437,
+    "y": 210,
+    "type": "miss",
+    "game": "May 9, 2021, LAL vs PHO",
+    "time": "4th Qtr, 4:11 remaining",
+    "shot": "Missed 3-pointer from 25 ft",
+    "score": "LAL leads 115-106"
+  },
+  {
+    "x": 133,
+    "y": 161,
+    "type": "miss",
+    "game": "May 9, 2021, LAL vs PHO",
+    "time": "4th Qtr, 3:05 remaining",
+    "shot": "Missed 2-pointer from 15 ft",
+    "score": "LAL leads 116-108"
+  },
+  {
+    "x": 259,
+    "y": 69,
+    "type": "miss",
+    "game": "May 9, 2021, LAL vs PHO",
+    "time": "4th Qtr, 2:22 remaining",
+    "shot": "Missed 2-pointer from 3 ft",
+    "score": "LAL leads 116-108"
+  },
+  {
+    "x": 252,
+    "y": 58,
+    "type": "make",
+    "game": "May 9, 2021, LAL vs PHO",
+    "time": "4th Qtr, 0:34 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "LAL now leads 122-110"
+  },
+  {
+    "x": 291,
+    "y": 89,
+    "type": "miss",
+    "game": "May 11, 2021, LAL vs NYK",
+    "time": "1st Qtr, 11:00 remaining",
+    "shot": "Missed 2-pointer from 6 ft",
+    "score": "LAL tied 0-0"
+  },
+  {
+    "x": 252,
+    "y": 58,
+    "type": "miss",
+    "game": "May 11, 2021, LAL vs NYK",
+    "time": "1st Qtr, 8:56 remaining",
+    "shot": "Missed 2-pointer from 1 ft",
+    "score": "LAL trails 3-4"
+  },
+  {
+    "x": 227,
+    "y": 143,
+    "type": "make",
+    "game": "May 11, 2021, LAL vs NYK",
+    "time": "1st Qtr, 3:33 remaining",
+    "shot": "Made 2-pointer from 9 ft",
+    "score": "LAL now leads 13-12"
+  },
+  {
+    "x": 105,
+    "y": 69,
+    "type": "miss",
+    "game": "May 11, 2021, LAL vs NYK",
+    "time": "1st Qtr, 3:10 remaining",
+    "shot": "Missed 2-pointer from 14 ft",
+    "score": "LAL leads 13-12"
+  },
+  {
+    "x": 247,
+    "y": 62,
+    "type": "make",
+    "game": "May 11, 2021, LAL vs NYK",
+    "time": "1st Qtr, 2:34 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "LAL now leads 17-16"
+  },
+  {
+    "x": 278,
+    "y": 228,
+    "type": "make",
+    "game": "May 11, 2021, LAL vs NYK",
+    "time": "1st Qtr, 1:07 remaining",
+    "shot": "Made 2-pointer from 18 ft",
+    "score": "LAL now trails 21-23"
+  },
+  {
+    "x": 321,
+    "y": 146,
+    "type": "miss",
+    "game": "May 11, 2021, LAL vs NYK",
+    "time": "2nd Qtr, 5:18 remaining",
+    "shot": "Missed 2-pointer from 12 ft",
+    "score": "LAL trails 40-42"
+  },
+  {
+    "x": 252,
+    "y": 59,
+    "type": "miss",
+    "game": "May 11, 2021, LAL vs NYK",
+    "time": "2nd Qtr, 3:09 remaining",
+    "shot": "Missed 2-pointer from 1 ft",
+    "score": "LAL leads 49-45"
+  },
+  {
+    "x": 118,
+    "y": 169,
+    "type": "make",
+    "game": "May 11, 2021, LAL vs NYK",
+    "time": "2nd Qtr, 0:57 remaining",
+    "shot": "Made 2-pointer from 17 ft",
+    "score": "LAL now leads 55-52"
+  },
+  {
+    "x": 108,
+    "y": 139,
+    "type": "miss",
+    "game": "May 11, 2021, LAL vs NYK",
+    "time": "3rd Qtr, 11:16 remaining",
+    "shot": "Missed 2-pointer from 16 ft",
+    "score": "LAL trails 56-58"
+  },
+  {
+    "x": 304,
+    "y": 78,
+    "type": "make",
+    "game": "May 11, 2021, LAL vs NYK",
+    "time": "3rd Qtr, 10:24 remaining",
+    "shot": "Made 2-pointer from 7 ft",
+    "score": "LAL now trails 59-61"
+  },
+  {
+    "x": 226,
+    "y": 63,
+    "type": "make",
+    "game": "May 11, 2021, LAL vs NYK",
+    "time": "3rd Qtr, 9:39 remaining",
+    "shot": "Made 2-pointer from 2 ft",
+    "score": "LAL now leads 63-61"
+  },
+  {
+    "x": 192,
+    "y": 304,
+    "type": "miss",
+    "game": "May 11, 2021, LAL vs NYK",
+    "time": "3rd Qtr, 7:35 remaining",
+    "shot": "Missed 3-pointer from 26 ft",
+    "score": "LAL leads 65-61"
+  },
+  {
+    "x": 313,
+    "y": 269,
+    "type": "miss",
+    "game": "May 11, 2021, LAL vs NYK",
+    "time": "3rd Qtr, 6:01 remaining",
+    "shot": "Missed 2-pointer from 23 ft",
+    "score": "LAL leads 67-66"
+  },
+  {
+    "x": 352,
+    "y": 110,
+    "type": "miss",
+    "game": "May 11, 2021, LAL vs NYK",
+    "time": "3rd Qtr, 3:40 remaining",
+    "shot": "Missed 2-pointer from 13 ft",
+    "score": "LAL leads 73-69"
+  },
+  {
+    "x": 213,
+    "y": 78,
+    "type": "miss",
+    "game": "May 11, 2021, LAL vs NYK",
+    "time": "3rd Qtr, 3:00 remaining",
+    "shot": "Missed 2-pointer from 4 ft",
+    "score": "LAL leads 73-71"
+  },
+  {
+    "x": 288,
+    "y": 238,
+    "type": "miss",
+    "game": "May 11, 2021, LAL vs NYK",
+    "time": "3rd Qtr, 1:40 remaining",
+    "shot": "Missed 2-pointer from 19 ft",
+    "score": "LAL trails 73-74"
+  },
+  {
+    "x": 243,
+    "y": 68,
+    "type": "make",
+    "game": "May 11, 2021, LAL vs NYK",
+    "time": "4th Qtr, 4:38 remaining",
+    "shot": "Made 2-pointer from 2 ft",
+    "score": "LAL now trails 84-87"
+  },
+  {
+    "x": 253,
+    "y": 66,
+    "type": "miss",
+    "game": "May 11, 2021, LAL vs NYK",
+    "time": "4th Qtr, 3:17 remaining",
+    "shot": "Missed 2-pointer from 2 ft",
+    "score": "LAL trails 84-89"
+  },
+  {
+    "x": 168,
+    "y": 208,
+    "type": "miss",
+    "game": "May 11, 2021, LAL vs NYK",
+    "time": "4th Qtr, 0:38 remaining",
+    "shot": "Missed 2-pointer from 17 ft",
+    "score": "LAL trails 89-91"
+  },
+  {
+    "x": 146,
+    "y": 205,
+    "type": "miss",
+    "game": "May 11, 2021, LAL vs NYK",
+    "time": "1st OT, 4:42 remaining",
+    "shot": "Missed 2-pointer from 18 ft",
+    "score": "LAL tied 91-91"
+  },
+  {
+    "x": 338,
+    "y": 195,
+    "type": "miss",
+    "game": "May 11, 2021, LAL vs NYK",
+    "time": "1st OT, 4:01 remaining",
+    "shot": "Missed 2-pointer from 17 ft",
+    "score": "LAL leads 94-93"
+  },
+  {
+    "x": 222,
+    "y": 67,
+    "type": "make",
+    "game": "May 11, 2021, LAL vs NYK",
+    "time": "1st OT, 2:25 remaining",
+    "shot": "Made 2-pointer from 2 ft",
+    "score": "LAL now leads 96-93"
+  },
+  {
+    "x": 187,
+    "y": 103,
+    "type": "miss",
+    "game": "May 15, 2021, LAL at IND",
+    "time": "1st Qtr, 9:46 remaining",
+    "shot": "Missed 2-pointer from 7 ft",
+    "score": "LAL leads 5-2"
+  },
+  {
+    "x": 223,
+    "y": 80,
+    "type": "miss",
+    "game": "May 15, 2021, LAL at IND",
+    "time": "1st Qtr, 9:10 remaining",
+    "shot": "Missed 2-pointer from 3 ft",
+    "score": "LAL leads 6-5"
+  },
+  {
+    "x": 221,
+    "y": 63,
+    "type": "make",
+    "game": "May 15, 2021, LAL at IND",
+    "time": "1st Qtr, 7:35 remaining",
+    "shot": "Made 2-pointer from 2 ft",
+    "score": "LAL now leads 10-9"
+  },
+  {
+    "x": 228,
+    "y": 139,
+    "type": "make",
+    "game": "May 15, 2021, LAL at IND",
+    "time": "1st Qtr, 3:54 remaining",
+    "shot": "Made 2-pointer from 9 ft",
+    "score": "LAL now leads 23-17"
+  },
+  {
+    "x": 241,
+    "y": 72,
+    "type": "make",
+    "game": "May 15, 2021, LAL at IND",
+    "time": "1st Qtr, 3:34 remaining",
+    "shot": "Made 2-pointer from 2 ft",
+    "score": "LAL now leads 25-17"
+  },
+  {
+    "x": 180,
+    "y": 236,
+    "type": "make",
+    "game": "May 15, 2021, LAL at IND",
+    "time": "1st Qtr, 2:56 remaining",
+    "shot": "Made 2-pointer from 19 ft",
+    "score": "LAL now leads 27-19"
+  },
+  {
+    "x": 242,
+    "y": 59,
+    "type": "make",
+    "game": "May 15, 2021, LAL at IND",
+    "time": "1st Qtr, 2:15 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "LAL now leads 29-19"
+  },
+  {
+    "x": 414,
+    "y": 49,
+    "type": "miss",
+    "game": "May 15, 2021, LAL at IND",
+    "time": "1st Qtr, 1:51 remaining",
+    "shot": "Missed 2-pointer from 17 ft",
+    "score": "LAL leads 29-21"
+  },
+  {
+    "x": 240,
+    "y": 53,
+    "type": "make",
+    "game": "May 15, 2021, LAL at IND",
+    "time": "1st Qtr, 1:36 remaining",
+    "shot": "Made 2-pointer from 0 ft",
+    "score": "LAL now leads 31-21"
+  },
+  {
+    "x": 146,
+    "y": 335,
+    "type": "make",
+    "game": "May 15, 2021, LAL at IND",
+    "time": "1st Qtr, 1:11 remaining",
+    "shot": "Made 3-pointer from 30 ft",
+    "score": "LAL now leads 34-23"
+  },
+  {
+    "x": 167,
+    "y": 328,
+    "type": "miss",
+    "game": "May 15, 2021, LAL at IND",
+    "time": "1st Qtr, 0:00 remaining",
+    "shot": "Missed 3-pointer from 29 ft",
+    "score": "LAL leads 36-28"
+  },
+  {
+    "x": 247,
+    "y": 58,
+    "type": "make",
+    "game": "May 15, 2021, LAL at IND",
+    "time": "3rd Qtr, 11:29 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "LAL now leads 66-56"
+  },
+  {
+    "x": 478,
+    "y": 63,
+    "type": "miss",
+    "game": "May 15, 2021, LAL at IND",
+    "time": "3rd Qtr, 10:55 remaining",
+    "shot": "Missed 3-pointer from 24 ft",
+    "score": "LAL leads 66-58"
+  },
+  {
+    "x": 473,
+    "y": 59,
+    "type": "miss",
+    "game": "May 15, 2021, LAL at IND",
+    "time": "3rd Qtr, 10:25 remaining",
+    "shot": "Missed 3-pointer from 23 ft",
+    "score": "LAL leads 66-60"
+  },
+  {
+    "x": 251,
+    "y": 87,
+    "type": "make",
+    "game": "May 15, 2021, LAL at IND",
+    "time": "3rd Qtr, 2:50 remaining",
+    "shot": "Made 2-pointer from 4 ft",
+    "score": "LAL now leads 93-81"
+  },
+  {
+    "x": 242,
+    "y": 57,
+    "type": "miss",
+    "game": "May 15, 2021, LAL at IND",
+    "time": "3rd Qtr, 2:18 remaining",
+    "shot": "Missed 2-pointer from 0 ft",
+    "score": "LAL leads 93-84"
+  },
+  {
+    "x": 237,
+    "y": 94,
+    "type": "miss",
+    "game": "May 15, 2021, LAL at IND",
+    "time": "4th Qtr, 5:53 remaining",
+    "shot": "Missed 2-pointer from 4 ft",
+    "score": "LAL leads 111-100"
+  },
+  {
+    "x": 221,
+    "y": 195,
+    "type": "miss",
+    "game": "May 15, 2021, LAL at IND",
+    "time": "4th Qtr, 2:51 remaining",
+    "shot": "Missed 2-pointer from 14 ft",
+    "score": "LAL leads 111-108"
+  },
+  {
+    "x": 172,
+    "y": 130,
+    "type": "miss",
+    "game": "May 16, 2021, LAL at NOP",
+    "time": "1st Qtr, 6:13 remaining",
+    "shot": "Missed 2-pointer from 10 ft",
+    "score": "LAL leads 19-12"
+  },
+  {
+    "x": 243,
+    "y": 61,
+    "type": "make",
+    "game": "May 16, 2021, LAL at NOP",
+    "time": "1st Qtr, 1:37 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "LAL now leads 34-22"
+  },
+  {
+    "x": 363,
+    "y": 203,
+    "type": "miss",
+    "game": "May 16, 2021, LAL at NOP",
+    "time": "1st Qtr, 0:01 remaining",
+    "shot": "Missed 2-pointer from 19 ft",
+    "score": "LAL leads 36-28"
+  },
+  {
+    "x": 253,
+    "y": 53,
+    "type": "make",
+    "game": "May 16, 2021, LAL at NOP",
+    "time": "2nd Qtr, 1:57 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "LAL now leads 57-50"
+  },
+  {
+    "x": 197,
+    "y": 171,
+    "type": "miss",
+    "game": "May 16, 2021, LAL at NOP",
+    "time": "3rd Qtr, 11:28 remaining",
+    "shot": "Missed 2-pointer from 13 ft",
+    "score": "LAL leads 63-61"
+  },
+  {
+    "x": 103,
+    "y": 287,
+    "type": "miss",
+    "game": "May 16, 2021, LAL at NOP",
+    "time": "3rd Qtr, 11:07 remaining",
+    "shot": "Missed 3-pointer from 27 ft",
+    "score": "LAL leads 63-61"
+  },
+  {
+    "x": 168,
+    "y": 245,
+    "type": "miss",
+    "game": "May 16, 2021, LAL at NOP",
+    "time": "3rd Qtr, 9:04 remaining",
+    "shot": "Missed 2-pointer from 21 ft",
+    "score": "LAL leads 68-67"
+  },
+  {
+    "x": 29,
+    "y": 205,
+    "type": "miss",
+    "game": "May 16, 2021, LAL at NOP",
+    "time": "3rd Qtr, 5:21 remaining",
+    "shot": "Missed 3-pointer from 26 ft",
+    "score": "LAL leads 76-73"
+  },
+  {
+    "x": 241,
+    "y": 64,
+    "type": "make",
+    "game": "May 16, 2021, LAL at NOP",
+    "time": "3rd Qtr, 4:11 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "LAL now leads 80-73"
+  },
+  {
+    "x": 42,
+    "y": 215,
+    "type": "miss",
+    "game": "May 16, 2021, LAL at NOP",
+    "time": "3rd Qtr, 3:44 remaining",
+    "shot": "Missed 3-pointer from 26 ft",
+    "score": "LAL leads 80-75"
+  },
+  {
+    "x": 252,
+    "y": 49,
+    "type": "make",
+    "game": "May 16, 2021, LAL at NOP",
+    "time": "3rd Qtr, 2:53 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "LAL now leads 82-75"
+  },
+  {
+    "x": 239,
+    "y": 74,
+    "type": "make",
+    "game": "May 16, 2021, LAL at NOP",
+    "time": "3rd Qtr, 0:37 remaining",
+    "shot": "Made 2-pointer from 2 ft",
+    "score": "LAL now leads 91-76"
+  },
+  {
+    "x": 226,
+    "y": 204,
+    "type": "miss",
+    "game": "May 19, 2021, LAL vs GSW",
+    "time": "1st Qtr, 11:37 remaining",
+    "shot": "Missed 2-pointer from 15 ft",
+    "score": "LAL tied 0-0"
+  },
+  {
+    "x": 220,
+    "y": 84,
+    "type": "miss",
+    "game": "May 19, 2021, LAL vs GSW",
+    "time": "1st Qtr, 10:04 remaining",
+    "shot": "Missed 2-pointer from 4 ft",
+    "score": "LAL trails 2-7"
+  },
+  {
+    "x": 405,
+    "y": 236,
+    "type": "miss",
+    "game": "May 19, 2021, LAL vs GSW",
+    "time": "1st Qtr, 9:03 remaining",
+    "shot": "Missed 3-pointer from 25 ft",
+    "score": "LAL trails 2-9"
+  },
+  {
+    "x": 256,
+    "y": 51,
+    "type": "miss",
+    "game": "May 19, 2021, LAL vs GSW",
+    "time": "1st Qtr, 8:34 remaining",
+    "shot": "Missed 2-pointer from 2 ft",
+    "score": "LAL trails 2-9"
+  },
+  {
+    "x": 106,
+    "y": 112,
+    "type": "miss",
+    "game": "May 19, 2021, LAL vs GSW",
+    "time": "1st Qtr, 3:06 remaining",
+    "shot": "Missed 2-pointer from 15 ft",
+    "score": "LAL trails 16-20"
+  },
+  {
+    "x": 254,
+    "y": 207,
+    "type": "miss",
+    "game": "May 19, 2021, LAL vs GSW",
+    "time": "1st Qtr, 1:37 remaining",
+    "shot": "Missed 2-pointer from 15 ft",
+    "score": "LAL trails 19-22"
+  },
+  {
+    "x": 209,
+    "y": 166,
+    "type": "make",
+    "game": "May 19, 2021, LAL vs GSW",
+    "time": "1st Qtr, 0:55 remaining",
+    "shot": "Made 2-pointer from 12 ft",
+    "score": "LAL now trails 21-25"
+  },
+  {
+    "x": 37,
+    "y": 218,
+    "type": "miss",
+    "game": "May 19, 2021, LAL vs GSW",
+    "time": "1st Qtr, 0:01 remaining",
+    "shot": "Missed 3-pointer from 26 ft",
+    "score": "LAL trails 22-28"
+  },
+  {
+    "x": 154,
+    "y": 297,
+    "type": "miss",
+    "game": "May 19, 2021, LAL vs GSW",
+    "time": "2nd Qtr, 5:54 remaining",
+    "shot": "Missed 3-pointer from 26 ft",
+    "score": "LAL trails 30-37"
+  },
+  {
+    "x": 249,
+    "y": 212,
+    "type": "make",
+    "game": "May 19, 2021, LAL vs GSW",
+    "time": "2nd Qtr, 3:30 remaining",
+    "shot": "Made 2-pointer from 16 ft",
+    "score": "LAL now trails 35-43"
+  },
+  {
+    "x": 93,
+    "y": 118,
+    "type": "miss",
+    "game": "May 19, 2021, LAL vs GSW",
+    "time": "2nd Qtr, 2:52 remaining",
+    "shot": "Missed 2-pointer from 16 ft",
+    "score": "LAL trails 35-46"
+  },
+  {
+    "x": 228,
+    "y": 73,
+    "type": "miss",
+    "game": "May 19, 2021, LAL vs GSW",
+    "time": "2nd Qtr, 2:33 remaining",
+    "shot": "Missed 2-pointer from 2 ft",
+    "score": "LAL trails 35-46"
+  },
+  {
+    "x": 62,
+    "y": 240,
+    "type": "miss",
+    "game": "May 19, 2021, LAL vs GSW",
+    "time": "3rd Qtr, 9:31 remaining",
+    "shot": "Missed 3-pointer from 26 ft",
+    "score": "LAL trails 51-57"
+  },
+  {
+    "x": 468,
+    "y": 138,
+    "type": "miss",
+    "game": "May 19, 2021, LAL vs GSW",
+    "time": "3rd Qtr, 8:10 remaining",
+    "shot": "Missed 3-pointer from 24 ft",
+    "score": "LAL trails 56-60"
+  },
+  {
+    "x": 249,
+    "y": 101,
+    "type": "make",
+    "game": "May 19, 2021, LAL vs GSW",
+    "time": "3rd Qtr, 4:14 remaining",
+    "shot": "Made 2-pointer from 5 ft",
+    "score": "LAL now trails 65-72"
+  },
+  {
+    "x": 377,
+    "y": 53,
+    "type": "miss",
+    "game": "May 19, 2021, LAL vs GSW",
+    "time": "3rd Qtr, 3:13 remaining",
+    "shot": "Missed 2-pointer from 14 ft",
+    "score": "LAL trails 66-74"
+  },
+  {
+    "x": 248,
+    "y": 66,
+    "type": "make",
+    "game": "May 19, 2021, LAL vs GSW",
+    "time": "3rd Qtr, 2:17 remaining",
+    "shot": "Made 2-pointer from 2 ft",
+    "score": "LAL now trails 68-74"
+  },
+  {
+    "x": 239,
+    "y": 63,
+    "type": "make",
+    "game": "May 19, 2021, LAL vs GSW",
+    "time": "3rd Qtr, 0:44 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "LAL now trails 75-76"
+  },
+  {
+    "x": 237,
+    "y": 61,
+    "type": "make",
+    "game": "May 19, 2021, LAL vs GSW",
+    "time": "4th Qtr, 11:45 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "LAL now tied 79-79"
+  },
+  {
+    "x": 272,
+    "y": 63,
+    "type": "miss",
+    "game": "May 19, 2021, LAL vs GSW",
+    "time": "4th Qtr, 9:20 remaining",
+    "shot": "Missed 2-pointer from 3 ft",
+    "score": "LAL leads 85-80"
+  },
+  {
+    "x": 297,
+    "y": 247,
+    "type": "make",
+    "game": "May 19, 2021, LAL vs GSW",
+    "time": "4th Qtr, 8:36 remaining",
+    "shot": "Made 2-pointer from 20 ft",
+    "score": "LAL now leads 87-80"
+  },
+  {
+    "x": 374,
+    "y": 279,
+    "type": "make",
+    "game": "May 19, 2021, LAL vs GSW",
+    "time": "4th Qtr, 7:29 remaining",
+    "shot": "Made 3-pointer from 26 ft",
+    "score": "LAL now leads 90-85"
+  },
+  {
+    "x": 234,
+    "y": 72,
+    "type": "make",
+    "game": "May 19, 2021, LAL vs GSW",
+    "time": "4th Qtr, 5:14 remaining",
+    "shot": "Made 2-pointer from 2 ft",
+    "score": "LAL now leads 93-91"
+  },
+  {
+    "x": 238,
+    "y": 59,
+    "type": "make",
+    "game": "May 19, 2021, LAL vs GSW",
+    "time": "4th Qtr, 1:31 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "LAL now leads 100-98"
+  },
+  {
+    "x": 234,
+    "y": 63,
+    "type": "make",
+    "game": "May 23, 2021, LAL at PHO",
+    "time": "1st Qtr, 6:34 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "LAL now leads 17-15"
+  },
+  {
+    "x": 132,
+    "y": 64,
+    "type": "miss",
+    "game": "May 23, 2021, LAL at PHO",
+    "time": "1st Qtr, 4:28 remaining",
+    "shot": "Missed 2-pointer from 11 ft",
+    "score": "LAL trails 17-21"
+  },
+  {
+    "x": 117,
+    "y": 133,
+    "type": "make",
+    "game": "May 23, 2021, LAL at PHO",
+    "time": "1st Qtr, 2:32 remaining",
+    "shot": "Made 2-pointer from 15 ft",
+    "score": "LAL now trails 21-27"
+  },
+  {
+    "x": 233,
+    "y": 63,
+    "type": "miss",
+    "game": "May 23, 2021, LAL at PHO",
+    "time": "1st Qtr, 1:53 remaining",
+    "shot": "Missed 2-pointer from 1 ft",
+    "score": "LAL trails 21-27"
+  },
+  {
+    "x": 241,
+    "y": 178,
+    "type": "miss",
+    "game": "May 23, 2021, LAL at PHO",
+    "time": "1st Qtr, 1:34 remaining",
+    "shot": "Missed 2-pointer from 13 ft",
+    "score": "LAL trails 21-30"
+  },
+  {
+    "x": 184,
+    "y": 184,
+    "type": "miss",
+    "game": "May 23, 2021, LAL at PHO",
+    "time": "2nd Qtr, 5:15 remaining",
+    "shot": "Missed 2-pointer from 14 ft",
+    "score": "LAL trails 35-44"
+  },
+  {
+    "x": 215,
+    "y": 51,
+    "type": "miss",
+    "game": "May 23, 2021, LAL at PHO",
+    "time": "2nd Qtr, 3:18 remaining",
+    "shot": "Missed 2-pointer from 3 ft",
+    "score": "LAL trails 38-50"
+  },
+  {
+    "x": 238,
+    "y": 58,
+    "type": "make",
+    "game": "May 23, 2021, LAL at PHO",
+    "time": "2nd Qtr, 1:56 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "LAL now trails 43-50"
+  },
+  {
+    "x": 330,
+    "y": 284,
+    "type": "miss",
+    "game": "May 23, 2021, LAL at PHO",
+    "time": "2nd Qtr, 0:53 remaining",
+    "shot": "Missed 3-pointer from 25 ft",
+    "score": "LAL trails 43-53"
+  },
+  {
+    "x": 172,
+    "y": 182,
+    "type": "miss",
+    "game": "May 23, 2021, LAL at PHO",
+    "time": "3rd Qtr, 11:18 remaining",
+    "shot": "Missed 2-pointer from 15 ft",
+    "score": "LAL trails 45-53"
+  },
+  {
+    "x": 226,
+    "y": 218,
+    "type": "miss",
+    "game": "May 23, 2021, LAL at PHO",
+    "time": "3rd Qtr, 7:49 remaining",
+    "shot": "Missed 2-pointer from 17 ft",
+    "score": "LAL trails 53-65"
+  },
+  {
+    "x": 187,
+    "y": 172,
+    "type": "make",
+    "game": "May 23, 2021, LAL at PHO",
+    "time": "3rd Qtr, 2:30 remaining",
+    "shot": "Made 2-pointer from 13 ft",
+    "score": "LAL now trails 66-74"
+  },
+  {
+    "x": 131,
+    "y": 241,
+    "type": "miss",
+    "game": "May 23, 2021, LAL at PHO",
+    "time": "3rd Qtr, 1:42 remaining",
+    "shot": "Missed 2-pointer from 22 ft",
+    "score": "LAL trails 66-76"
+  },
+  {
+    "x": 175,
+    "y": 143,
+    "type": "make",
+    "game": "May 23, 2021, LAL at PHO",
+    "time": "4th Qtr, 7:22 remaining",
+    "shot": "Made 2-pointer from 11 ft",
+    "score": "LAL now trails 79-90"
+  },
+  {
+    "x": 196,
+    "y": 163,
+    "type": "miss",
+    "game": "May 23, 2021, LAL at PHO",
+    "time": "4th Qtr, 3:38 remaining",
+    "shot": "Missed 2-pointer from 12 ft",
+    "score": "LAL trails 84-96"
+  },
+  {
+    "x": 311,
+    "y": 331,
+    "type": "miss",
+    "game": "May 23, 2021, LAL at PHO",
+    "time": "4th Qtr, 2:29 remaining",
+    "shot": "Missed 3-pointer from 29 ft",
+    "score": "LAL trails 87-97"
+  },
+  {
+    "x": 254,
+    "y": 84,
+    "type": "miss",
+    "game": "May 25, 2021, LAL at PHO",
+    "time": "1st Qtr, 10:06 remaining",
+    "shot": "Missed 2-pointer from 3 ft",
+    "score": "LAL trails 3-6"
+  },
+  {
+    "x": 328,
+    "y": 303,
+    "type": "miss",
+    "game": "May 25, 2021, LAL at PHO",
+    "time": "1st Qtr, 7:46 remaining",
+    "shot": "Missed 3-pointer from 27 ft",
+    "score": "LAL tied 8-8"
+  },
+  {
+    "x": 237,
+    "y": 62,
+    "type": "make",
+    "game": "May 25, 2021, LAL at PHO",
+    "time": "1st Qtr, 7:14 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "LAL now tied 10-10"
+  },
+  {
+    "x": 152,
+    "y": 110,
+    "type": "make",
+    "game": "May 25, 2021, LAL at PHO",
+    "time": "1st Qtr, 6:22 remaining",
+    "shot": "Made 2-pointer from 10 ft",
+    "score": "LAL now leads 14-12"
+  },
+  {
+    "x": 379,
+    "y": 106,
+    "type": "miss",
+    "game": "May 25, 2021, LAL at PHO",
+    "time": "2nd Qtr, 11:14 remaining",
+    "shot": "Missed 2-pointer from 15 ft",
+    "score": "LAL leads 30-24"
+  },
+  {
+    "x": 326,
+    "y": 85,
+    "type": "make",
+    "game": "May 25, 2021, LAL at PHO",
+    "time": "2nd Qtr, 3:38 remaining",
+    "shot": "Made 2-pointer from 9 ft",
+    "score": "LAL now leads 46-38"
+  },
+  {
+    "x": 226,
+    "y": 47,
+    "type": "make",
+    "game": "May 25, 2021, LAL at PHO",
+    "time": "3rd Qtr, 11:06 remaining",
+    "shot": "Made 2-pointer from 2 ft",
+    "score": "LAL now leads 58-47"
+  },
+  {
+    "x": 205,
+    "y": 259,
+    "type": "miss",
+    "game": "May 25, 2021, LAL at PHO",
+    "time": "3rd Qtr, 9:08 remaining",
+    "shot": "Missed 2-pointer from 21 ft",
+    "score": "LAL leads 63-50"
+  },
+  {
+    "x": 329,
+    "y": 193,
+    "type": "miss",
+    "game": "May 25, 2021, LAL at PHO",
+    "time": "3rd Qtr, 7:22 remaining",
+    "shot": "Missed 2-pointer from 17 ft",
+    "score": "LAL leads 65-57"
+  },
+  {
+    "x": 340,
+    "y": 169,
+    "type": "miss",
+    "game": "May 25, 2021, LAL at PHO",
+    "time": "3rd Qtr, 3:53 remaining",
+    "shot": "Missed 2-pointer from 15 ft",
+    "score": "LAL leads 69-62"
+  },
+  {
+    "x": 12,
+    "y": 147,
+    "type": "make",
+    "game": "May 25, 2021, LAL at PHO",
+    "time": "3rd Qtr, 3:00 remaining",
+    "shot": "Made 3-pointer from 25 ft",
+    "score": "LAL now leads 74-64"
+  },
+  {
+    "x": 118,
+    "y": 274,
+    "type": "miss",
+    "game": "May 25, 2021, LAL at PHO",
+    "time": "3rd Qtr, 1:29 remaining",
+    "shot": "Missed 3-pointer from 25 ft",
+    "score": "LAL leads 74-66"
+  },
+  {
+    "x": 399,
+    "y": 108,
+    "type": "miss",
+    "game": "May 25, 2021, LAL at PHO",
+    "time": "4th Qtr, 7:49 remaining",
+    "shot": "Missed 2-pointer from 17 ft",
+    "score": "LAL leads 84-83"
+  },
+  {
+    "x": 238,
+    "y": 46,
+    "type": "make",
+    "game": "May 25, 2021, LAL at PHO",
+    "time": "4th Qtr, 4:17 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "LAL now leads 93-90"
+  },
+  {
+    "x": 90,
+    "y": 266,
+    "type": "make",
+    "game": "May 25, 2021, LAL at PHO",
+    "time": "4th Qtr, 2:15 remaining",
+    "shot": "Made 3-pointer from 26 ft",
+    "score": "LAL now leads 98-92"
+  },
+  {
+    "x": 127,
+    "y": 208,
+    "type": "make",
+    "game": "May 27, 2021, LAL vs PHO",
+    "time": "1st Qtr, 10:52 remaining",
+    "shot": "Made 2-pointer from 19 ft",
+    "score": "LAL now leads 5-3"
+  },
+  {
+    "x": 362,
+    "y": 284,
+    "type": "miss",
+    "game": "May 27, 2021, LAL vs PHO",
+    "time": "1st Qtr, 9:25 remaining",
+    "shot": "Missed 3-pointer from 26 ft",
+    "score": "LAL tied 5-5"
+  },
+  {
+    "x": 222,
+    "y": 66,
+    "type": "miss",
+    "game": "May 27, 2021, LAL vs PHO",
+    "time": "1st Qtr, 9:19 remaining",
+    "shot": "Missed 2-pointer from 2 ft",
+    "score": "LAL tied 5-5"
+  },
+  {
+    "x": 244,
+    "y": 68,
+    "type": "make",
+    "game": "May 27, 2021, LAL vs PHO",
+    "time": "1st Qtr, 9:16 remaining",
+    "shot": "Made 2-pointer from 2 ft",
+    "score": "LAL now leads 7-5"
+  },
+  {
+    "x": 227,
+    "y": 64,
+    "type": "make",
+    "game": "May 27, 2021, LAL vs PHO",
+    "time": "1st Qtr, 5:51 remaining",
+    "shot": "Made 2-pointer from 2 ft",
+    "score": "LAL now leads 17-16"
+  },
+  {
+    "x": 280,
+    "y": 166,
+    "type": "miss",
+    "game": "May 27, 2021, LAL vs PHO",
+    "time": "1st Qtr, 5:19 remaining",
+    "shot": "Missed 2-pointer from 12 ft",
+    "score": "LAL leads 17-16"
+  },
+  {
+    "x": 238,
+    "y": 66,
+    "type": "make",
+    "game": "May 27, 2021, LAL vs PHO",
+    "time": "1st Qtr, 3:37 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "LAL now leads 21-19"
+  },
+  {
+    "x": 237,
+    "y": 72,
+    "type": "make",
+    "game": "May 27, 2021, LAL vs PHO",
+    "time": "1st Qtr, 2:06 remaining",
+    "shot": "Made 2-pointer from 2 ft",
+    "score": "LAL now leads 25-22"
+  },
+  {
+    "x": 140,
+    "y": 221,
+    "type": "miss",
+    "game": "May 27, 2021, LAL vs PHO",
+    "time": "1st Qtr, 0:54 remaining",
+    "shot": "Missed 2-pointer from 20 ft",
+    "score": "LAL trails 25-26"
+  },
+  {
+    "x": 108,
+    "y": 97,
+    "type": "miss",
+    "game": "May 27, 2021, LAL vs PHO",
+    "time": "2nd Qtr, 3:11 remaining",
+    "shot": "Missed 2-pointer from 14 ft",
+    "score": "LAL trails 38-39"
+  },
+  {
+    "x": 245,
+    "y": 309,
+    "type": "miss",
+    "game": "May 27, 2021, LAL vs PHO",
+    "time": "2nd Qtr, 0:26 remaining",
+    "shot": "Missed 3-pointer from 26 ft",
+    "score": "LAL leads 41-39"
+  },
+  {
+    "x": 246,
+    "y": 56,
+    "type": "make",
+    "game": "May 27, 2021, LAL vs PHO",
+    "time": "3rd Qtr, 10:27 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "LAL now leads 49-40"
+  },
+  {
+    "x": 227,
+    "y": 58,
+    "type": "make",
+    "game": "May 27, 2021, LAL vs PHO",
+    "time": "3rd Qtr, 8:09 remaining",
+    "shot": "Made 2-pointer from 1 ft",
+    "score": "LAL now leads 53-42"
+  },
+  {
+    "x": 221,
+    "y": 102,
+    "type": "make",
+    "game": "May 27, 2021, LAL vs PHO",
+    "time": "3rd Qtr, 5:03 remaining",
+    "shot": "Made 2-pointer from 5 ft",
+    "score": "LAL now leads 63-49"
+  },
+  {
+    "x": 244,
+    "y": 58,
+    "type": "miss",
+    "game": "May 27, 2021, LAL vs PHO",
+    "time": "3rd Qtr, 4:55 remaining",
+    "shot": "Missed 2-pointer from 1 ft",
+    "score": "LAL leads 64-49"
+  },
+  {
+    "x": 252,
+    "y": 74,
+    "type": "miss",
+    "game": "May 27, 2021, LAL vs PHO",
+    "time": "3rd Qtr, 3:27 remaining",
+    "shot": "Missed 2-pointer from 2 ft",
+    "score": "LAL leads 69-56"
+  },
+  {
+    "x": 260,
+    "y": 236,
+    "type": "miss",
+    "game": "May 27, 2021, LAL vs PHO",
+    "time": "3rd Qtr, 2:57 remaining",
+    "shot": "Missed 2-pointer from 18 ft",
+    "score": "LAL leads 69-59"
+  },
+  {
+    "x": 252,
+    "y": 118,
+    "type": "make",
+    "game": "May 27, 2021, LAL vs PHO",
+    "time": "3rd Qtr, 1:54 remaining",
+    "shot": "Made 2-pointer from 7 ft",
+    "score": "LAL now leads 71-59"
+  },
+  {
+    "x": 277,
+    "y": 92,
+    "type": "make",
+    "game": "May 27, 2021, LAL vs PHO",
+    "time": "3rd Qtr, 1:19 remaining",
+    "shot": "Made 2-pointer from 5 ft",
+    "score": "LAL now leads 74-59"
+  },
+  {
+    "x": 237,
+    "y": 67,
+    "type": "miss",
+    "game": "May 27, 2021, LAL vs PHO",
+    "time": "3rd Qtr, 1:00 remaining",
+    "shot": "Missed 2-pointer from 1 ft",
+    "score": "LAL leads 74-59"
+  },
+  {
+    "x": 237,
+    "y": 57,
+    "type": "make",
+    "game": "May 27, 2021, LAL vs PHO",
+    "time": "3rd Qtr, 0:59 remaining",
+    "shot": "Made 2-pointer from 0 ft",
+    "score": "LAL now leads 76-59"
+  },
+  {
+    "x": 113,
+    "y": 75,
+    "type": "miss",
+    "game": "May 27, 2021, LAL vs PHO",
+    "time": "3rd Qtr, 0:07 remaining",
+    "shot": "Missed 2-pointer from 13 ft",
+    "score": "LAL leads 76-63"
+  },
+  {
+    "x": 205,
+    "y": 226,
+    "type": "miss",
+    "game": "May 30, 2021, LAL vs PHO",
+    "time": "1st Qtr, 11:47 remaining",
+    "shot": "Missed 2-pointer from 18 ft",
+    "score": "LAL tied 0-0"
+  },
+  {
+    "x": 338,
+    "y": 143,
+    "type": "miss",
+    "game": "May 30, 2021, LAL vs PHO",
+    "time": "1st Qtr, 7:46 remaining",
+    "shot": "Missed 2-pointer from 13 ft",
+    "score": "LAL leads 7-6"
+  },
+  {
+    "x": 281,
+    "y": 72,
+    "type": "make",
+    "game": "May 30, 2021, LAL vs PHO",
+    "time": "1st Qtr, 4:28 remaining",
+    "shot": "Made 2-pointer from 5 ft",
+    "score": "LAL now leads 14-13"
+  },
+  {
+    "x": 147,
+    "y": 300,
+    "type": "miss",
+    "game": "May 30, 2021, LAL vs PHO",
+    "time": "1st Qtr, 3:06 remaining",
+    "shot": "Missed 3-pointer from 26 ft",
+    "score": "LAL leads 17-15"
+  },
+  {
+    "x": 421,
+    "y": 238,
+    "type": "miss",
+    "game": "May 30, 2021, LAL vs PHO",
+    "time": "2nd Qtr, 7:09 remaining",
+    "shot": "Missed 3-pointer from 26 ft",
+    "score": "LAL leads 40-35"
+  },
+  {
+    "x": 82,
+    "y": 92,
+    "type": "miss",
+    "game": "May 30, 2021, LAL vs PHO",
+    "time": "2nd Qtr, 4:43 remaining",
+    "shot": "Missed 2-pointer from 16 ft",
+    "score": "LAL trails 40-43"
+  },
+  {
+    "x": 352,
+    "y": 158,
+    "type": "make",
+    "game": "May 30, 2021, LAL vs PHO",
+    "time": "2nd Qtr, 1:34 remaining",
+    "shot": "Made 2-pointer from 15 ft",
+    "score": "LAL now leads 50-49"
+  },
+  {
+    "x": 2,
+    "y": 38,
+    "type": "miss",
+    "game": "May 30, 2021, LAL vs PHO",
+    "time": "2nd Qtr, 0:53 remaining",
+    "shot": "Missed 3-pointer from 24 ft",
+    "score": "LAL trails 50-51"
+  },
+  {
+    "x": 263,
+    "y": 80,
+    "type": "miss",
+    "game": "May 30, 2021, LAL vs PHO",
+    "time": "2nd Qtr, 0:48 remaining",
+    "shot": "Missed 2-pointer from 4 ft",
+    "score": "LAL trails 50-51"
+  }
+]

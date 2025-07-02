@@ -1,0 +1,5 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Team,Team,Team,Team,Team,Team,Team,Team,Team,Opponent,Opponent,Opponent,Opponent,Opponent,Opponent,Opponent,Opponent,Opponent,Difference,Difference,Difference,Difference,Difference,Difference,Difference,Difference,Difference
+Split,Tm,MP,eFG%,ORB%,DRB%,TRB%,AST%,STL%,BLK%,TOV%,ORtg,eFG%,ORB%,DRB%,TRB%,AST%,STL%,BLK%,TOV%,ORtg,eFG%,ORB%,DRB%,TRB%,AST%,STL%,BLK%,TOV%,ORtg
+On Court,NOP,1851,0.532,26.4,77.4,52.4,64.1,7.9,10.4,13.9,114.6,0.531,22.6,73.6,47.6,60.1,8.0,8.0,14.1,111.4,0.001,3.9,3.9,4.8,4.0,0.0,2.4,-0.2,3.2
+Off Court,NOP,2103,0.527,22.2,76.2,49.4,59.9,6.6,8.1,14.7,109.2,0.534,23.8,77.8,50.6,62.3,8.6,9.4,12.3,114.5,-0.007,-1.6,-1.6,-1.1,-2.4,-2.0,-1.3,2.4,-5.3
+On − Off,NOP,47%,0.005,4.2,1.2,3.0,4.2,1.3,2.3,-0.8,5.4,-0.003,-1.2,-4.2,-3.0,-2.2,-0.6,-1.4,1.8,-3.1,0.008,5.5,5.5,5.9,6.4,2.0,3.7,-2.6,8.5
