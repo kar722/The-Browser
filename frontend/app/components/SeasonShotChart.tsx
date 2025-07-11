@@ -42,6 +42,7 @@ const SeasonShotChart = ({ gameDates, seasonLabel, opponent, width = 600, height
   const [courtImage, setCourtImage] = useState<HTMLImageElement | null>(null);
   const { resolvedTheme } = useTheme();
   const [hoveredShot, setHoveredShot] = useState<number | null>(null);
+  const [loading, setLoading] = useState(false);
 
   // Load court image
   useEffect(() => {
@@ -61,21 +62,42 @@ const SeasonShotChart = ({ gameDates, seasonLabel, opponent, width = 600, height
       return;
     }
 
-    const fetchShots = async () => {
+    const fetchAllShots = async () => {
+      setLoading(true);
       try {
-        const { data, error } = await supabase
-          .from('shots')
-          .select('x, y, shot_type, quarter, time_remaining, shot_description, score_situation, distance, game_date')
-          .in('game_date', gameDates);
+        let allShots: Shot[] = [];
+        let page = 0;
+        const pageSize = 1000;
+        let hasMore = true;
 
-        if (error) throw error;
-        setShots(data || []);
+        while (hasMore) {
+          const { data, error } = await supabase
+            .from('shots')
+            .select('x, y, shot_type, quarter, time_remaining, shot_description, score_situation, distance, game_date')
+            .in('game_date', gameDates)
+            .range(page * pageSize, (page + 1) * pageSize - 1);
+
+          if (error) throw error;
+
+          if (data) {
+            allShots = [...allShots, ...data];
+          }
+
+          // Check if we got less than pageSize results, meaning no more data
+          hasMore = data && data.length === pageSize;
+          page++;
+        }
+
+        setShots(allShots);
       } catch (error) {
         console.error('Error fetching season shots:', error);
         setShots([]);
+      } finally {
+        setLoading(false);
       }
     };
-    fetchShots();
+
+    fetchAllShots();
   }, [seasonLabel, gameDates]);
 
   // Transform coordinates to match court dimensions
@@ -88,8 +110,15 @@ const SeasonShotChart = ({ gameDates, seasonLabel, opponent, width = 600, height
     return <div>Loading court...</div>;
   }
 
+  if (loading) {
+    return <div>Loading all shots...</div>;
+  }
+
   return (
     <div className="relative" style={{ width, height }}>
+      <div className="absolute top-0 right-0 text-sm text-muted-foreground">
+        {shots.length} shots
+      </div>
       <Stage width={width} height={height}>
         <Layer>
           <KonvaImage image={courtImage} width={width} height={height} />

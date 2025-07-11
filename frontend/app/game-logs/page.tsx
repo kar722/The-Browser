@@ -5,6 +5,7 @@ import { createClient } from '@supabase/supabase-js'
 import { ChevronDown, ChevronUp } from 'lucide-react'
 import ShotChart from '../components/ShotChart'
 import SeasonShotChart from '../components/SeasonShotChart'
+import { searchGameHighlights, searchPlayerHighlights } from '../utils/youtube'
 
 interface GameLog {
   id: number
@@ -67,11 +68,80 @@ interface ExpandedRowProps {
 }
 
 const ExpandedRow: React.FC<ExpandedRowProps> = ({ game }) => {
+  const [videoId, setVideoId] = useState<string | null>(null);
+  const [playerVideoId, setPlayerVideoId] = useState<string | null>(null);
+  const [isLoading, setIsLoading] = useState(true);
+  const [isPlayerHighlightsLoading, setIsPlayerHighlightsLoading] = useState(true);
+
+  useEffect(() => {
+    const loadVideos = async () => {
+      setIsLoading(true);
+      setIsPlayerHighlightsLoading(true);
+      
+      // Load videos sequentially instead of in parallel
+      try {
+        // First load game highlights
+        const gameId = await searchGameHighlights(game.date, game.team, game.opp);
+        setVideoId(gameId);
+        setIsLoading(false);
+
+        // Then load player highlights with a small delay
+        await delay(1000); // Add 1 second delay between requests
+        const playerId = await searchPlayerHighlights(game.date, game.team, game.opp);
+        setPlayerVideoId(playerId);
+        setIsPlayerHighlightsLoading(false);
+      } catch (error) {
+        console.error('Error loading videos:', error);
+        setIsLoading(false);
+        setIsPlayerHighlightsLoading(false);
+      }
+    };
+    loadVideos();
+  }, [game.date, game.team, game.opp]);
+
+  // Helper function to add delay between requests
+  const delay = (ms: number) => new Promise(resolve => setTimeout(resolve, ms));
+
+  const renderVideo = (id: string | null, isLoading: boolean, type: 'game' | 'player') => {
+    if (isLoading) {
+      return (
+        <div className="flex items-center justify-center h-[253px]">
+          <div className="animate-spin rounded-full h-8 w-8 border-b-2 border-gray-900"></div>
+        </div>
+      );
+    }
+    
+    if (id) {
+      return (
+        <iframe
+          width="450"
+          height="253"
+          src={`https://www.youtube.com/embed/${id}`}
+          title={type === 'game' ? "Game Highlights" : "Player Highlights"}
+          frameBorder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowFullScreen
+        ></iframe>
+      );
+    }
+    
+    return (
+      <div className="flex flex-col items-center justify-center h-[253px] text-muted-foreground space-y-2">
+        <span className="text-lg">Highlights not available :(</span>
+        <span className="text-sm text-center">
+          {type === 'game' 
+            ? "We couldn't find a verified highlight video for this game."
+            : "We couldn't find AD's personal highlights for this game."}
+        </span>
+      </div>
+    );
+  };
+
   return (
     <tr className="bg-muted/30">
-      <td colSpan={9} className="px-6 py-4">
-        <div className="grid grid-cols-2 gap-4">
-          <div>
+      <td colSpan={10} className="px-6 py-4">
+        <div className="grid grid-cols-2 gap-6 w-full">
+          <div className="space-y-6">
             <div className="grid grid-cols-3 gap-4">
               <div>
                 <h4 className="text-sm font-medium text-muted-foreground mb-2">Shooting</h4>
@@ -115,11 +185,25 @@ const ExpandedRow: React.FC<ExpandedRowProps> = ({ game }) => {
                 </div>
               </div>
             </div>
+            <div>
+              <h4 className="text-sm font-medium text-muted-foreground mb-2">Shot Chart</h4>
+              <div className="p-4">
+                <ShotChart gameDate={game.date} width={300} height={282} />
+              </div>
+            </div>
           </div>
-          <div>
-            <h4 className="text-sm font-medium text-muted-foreground mb-2">Shot Chart</h4>
-            <div className="p-4">
-              <ShotChart gameDate={game.date} width={400} height={376} />
+          <div className="space-y-6">
+            <div>
+              <h4 className="text-sm font-medium text-muted-foreground mb-2">Game Highlights</h4>
+              <div className="p-4">
+                {renderVideo(videoId, isLoading, 'game')}
+              </div>
+            </div>
+            <div>
+              <h4 className="text-sm font-medium text-muted-foreground mb-2">AD's Highlights</h4>
+              <div className="p-4">
+                {renderVideo(playerVideoId, isPlayerHighlightsLoading, 'player')}
+              </div>
             </div>
           </div>
         </div>
@@ -145,7 +229,7 @@ function getTeamName(acronym: string, season: Season | null): string {
 }
 
 // Helper to get full team name from acronym
-const TEAM_NAMES: Record<string, string> = {
+export const TEAM_NAMES: Record<string, string> = {
   ATL: 'Atlanta Hawks', BOS: 'Boston Celtics', BRK: 'Brooklyn Nets', CHI: 'Chicago Bulls', CHO: 'Charlotte Hornets', CLE: 'Cleveland Cavaliers', DAL: 'Dallas Mavericks', DEN: 'Denver Nuggets', DET: 'Detroit Pistons', GSW: 'Golden State Warriors', HOU: 'Houston Rockets', IND: 'Indiana Pacers', LAC: 'LA Clippers', MEM: 'Memphis Grizzlies', MIA: 'Miami Heat', MIL: 'Milwaukee Bucks', MIN: 'Minnesota Timberwolves', NOP: 'New Orleans Pelicans', NYK: 'New York Knicks', OKC: 'Oklahoma City Thunder', ORL: 'Orlando Magic', PHI: 'Philadelphia 76ers', PHO: 'Phoenix Suns', POR: 'Portland Trail Blazers', SAC: 'Sacramento Kings', SAS: 'San Antonio Spurs', TOR: 'Toronto Raptors', UTA: 'Utah Jazz', WAS: 'Washington Wizards', LAL: 'Los Angeles Lakers', CHA: 'Charlotte Bobcats', // for early seasons
 }
 
@@ -341,11 +425,22 @@ export default function GameLogs() {
       if (!key) return 0 // type guard for TS
       const aValue = a[key] ?? ''
       const bValue = b[key] ?? ''
+      
+      // Special handling for dates
+      if (key === 'date') {
+        const aDate = new Date(String(aValue)).getTime()
+        const bDate = new Date(String(bValue)).getTime()
+        return sortConfig.direction === 'desc' ? bDate - aDate : aDate - bDate
+      }
+      
+      // Handle numeric values
       const aNum = parseFloat(String(aValue))
       const bNum = parseFloat(String(bValue))
       if (!isNaN(aNum) && !isNaN(bNum)) {
         return sortConfig.direction === 'desc' ? bNum - aNum : aNum - bNum
       }
+      
+      // Handle strings
       if (aValue < bValue) return sortConfig.direction === 'desc' ? 1 : -1
       if (aValue > bValue) return sortConfig.direction === 'desc' ? -1 : 1
       return 0
@@ -414,6 +509,11 @@ export default function GameLogs() {
       document.removeEventListener('mousedown', handleClickOutside);
     };
   }, [showSeasonDropdown]);
+
+  // Reset expanded rows when season or opponent changes
+  useEffect(() => {
+    setExpandedRows(new Set());
+  }, [selectedSeason, opponentFilter]);
 
   // Get all game dates for the selected season
   const seasonGameDates = React.useMemo(() => {

@@ -1,9 +1,6 @@
 import Link from "next/link";
 import { ThemeSwitcher } from "@/components/theme-switcher";
 import { AuthButton } from "@/components/auth-button";
-import { DeployButton } from "@/components/deploy-button";
-import { EnvVarWarning } from "@/components/env-var-warning";
-import { hasEnvVars } from "@/lib/utils";
 
 export function Navbar() {
   return (
@@ -12,15 +9,12 @@ export function Navbar() {
         <div className="flex gap-5 items-center font-semibold">
           <Link href="/">The Browser</Link>
           <Link href="/game-logs">Game Logs</Link>
-          <div className="flex items-center gap-2">
-            {/* <DeployButton /> */}
-          </div>
         </div>
         <div className="flex items-center gap-4">
           <ThemeSwitcher />
-          {!hasEnvVars ? <EnvVarWarning /> : <AuthButton />}
+          <AuthButton />
         </div>
       </div>
     </nav>
   );
-} 
+}
