@@ -15,16 +15,16 @@ export function StatSnippet() {
           viewport={{ once: true }}
           className="relative mx-auto max-w-2xl"
         >
-          <Link href="/game-logs/20231205-phx" className="group">
+          <Link href="/game-logs" className="group">
             <div className="relative overflow-hidden rounded-2xl border bg-card p-6 shadow-lg transition-all hover:shadow-xl">
               <div className="flex items-start justify-between">
                 <div className="space-y-2">
-                  <p className="text-sm text-muted-foreground">December 5, 2023</p>
+                  <p className="text-sm text-muted-foreground">March 15, 2015</p>
                   <h3 className="text-2xl font-bold tracking-tight">
-                    6 Blocks vs Phoenix Suns
+                    36, 14, 7 + 9 blocks vs Denver
                   </h3>
                   <p className="text-muted-foreground">
-                    AD dominated the paint, leading Lakers to a 106-103 victory
+                  Anthony Davis Toys with a Near Quadruple-Double in Tough Loss
                   </p>
                 </div>
                 <ArrowUpRight className="h-5 w-5 transition-transform group-hover:translate-x-1 group-hover:-translate-y-1" />
