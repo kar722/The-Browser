@@ -23,7 +23,7 @@ Step into the world of Anthony Davis like never before. The Browser is a modern,
 
 - **Comprehensive:** Every stat, every game, every highlight — all in one beautifully designed platform.
 - **Intelligent:** AI-driven insights let you explore Anthony Davis's career in ways never before possible.
-- **For Fans & Analysts:** Whether you're a die-hard Lakers supporter, a stats enthusiast, or just basketball-curious, The Browser is your go-to resource.
+- **For Fans & Analysts:** Whether you're a die-hard AD supporter, a stats enthusiast, or just basketball-curious, The Browser is your go-to resource.
 
 ---
 
